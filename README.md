@@ -18,5 +18,8 @@ that imports the TSV files from this repository.
 I'll get notified of changes by email and will endeavour to manually include those changes as close to once per
 day as I can through November.
 
+## 2019
 
+There is quite a bit of missing metata in the 2019 data, so please feel free to make corrections/additions in the
+[Google spreadsheet](https://docs.google.com/spreadsheets/d/1nGdgC39S_WT3jHJRZXyZOQb3AYbvDFYwUu90rZCsB4g/edit?usp=sharing) for that too.
 
