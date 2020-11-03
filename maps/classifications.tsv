@@ -1,3 +1,16 @@
 handle	Day	area	city	topics	types	tools
-hurricanevicky	1	USA	Washington DC	elections		
-vizowl	1	New Zealand		elections	point	
+cj_maps	03	World	_	_	_	QGIS
+dbgoody	03	UK	_	administrative boundaries,names	_	_
+geospacedman	03	USA	_	_	_	R
+geotologist	03	NZ	_	_	_	_
+HeikkiVesanto	03	Ireland	Sligo	urban	_	OpenStreetMap
+Hevski17	02	UK	Glasgow	transport,GPS	_	Google Maps,Strava
+Hevski17	03	UK	Glasgow	_	_	QGIS
+hurricanevicky	01	USA	Washington DC	elections		
+ijturton	03	USA	_	administrative boundaries,elections	_	GeoServer,GIMP
+MindOverMagma	03	USA	_	volcanoes	animation	ArcMap
+Neil_py_harris	02	UK	_	elevation	joyplot	_
+Neil_py_harris	03	_	_	_	Lego	_
+sciremotesense	03	UK	Southampton	urban,transport	_	_
+topographos2	02	Syria	_	archaeology	_	R
+vizowl	01	New Zealand		elections	point	
