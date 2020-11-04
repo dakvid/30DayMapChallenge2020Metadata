@@ -1,16 +1,70 @@
 tweet_id	date_posted	twitter_id	handle	Day	website	description
+1322621799096483840	2020-10-31 19:29:44	1222519447165886465	_anirudhgovind	01	_	A simple map of traffic lights in #Bangalore shown as points.
+1322831328094625793	2020-11-01 09:22:20	3270581047	AnalisisGeo	01	_	Towns of Mexico
+1323337002457141249	2020-11-02 18:51:42	3270581047	AnalisisGeo	02	_	Maps with all the trajectories of hurricanes and tropical storms that have passed near Mexico since these events have been measured. IBTrACS data.
+1322704397013377025	2020-11-01 00:57:57	93839237	andrewdc_nz	01	_	High Points in the Southern Alps. Some fun using blending modes to combine hill height points and a Southern Alps hillshade.
+1190269132475899906	2019-11-01 14:07:29	113729499	antoaasa	01	_	Most reviewed eating places in Tbilisi
+1323381627209265152	2020-11-02 21:49:01	602294312	antoniolocandro	02	_	This aviation map shows RNAV routes (mainly flown using GPS). Even though this version is for Nov 5 and I left 1.5 years ago 90% of it I made about 8 years ago or more so I think it counts 😬
+1322780629440831491	2020-11-01 06:00:52	950089955753250816	assesslife	01	https://github.com/JoseEchave/tidy-tuesdays/blob/master/2020/week_9_measles/measles.Rmd	Showing the different approaches in USA when it comes to measles and vaccinations.
+1323672004369809408	2020-11-03 17:02:53	6408382	astronomyblog	03	_	#30DayMapChallenge day 3 (polygons): I took the 2019 school census dataset from @DataMillNorth https://t.co/2c6OzDvTd6 and mapped pupils who are eligible for free school meals using my CSV2GeoJSON tool https://t.co/M6HwDIYg2Z
+1323237035814068224	2020-11-02 12:14:28	1074378707438055426	BlandfordBread	02	_	The route of the Lord Melville, the first all-female convict ship, departed from Gravesend in August 1816 (the year with no summer) and arrived in Port Jackson in February 1817.
+1323311417521557504	2020-11-02 17:10:02	128804246	brunmuska	02	_	Hello Chandigarh Roads. Thanks for reminding us what  India can achieve when there is a will to plan and implement the plans. Chandigarh is a stark visual outlier with its even and perfectly squared road network.
+1323079652550811648	2020-11-02 01:49:05	2372331457	carlosrpz_	01	_	In CDMX there are 99 public places with free WIFI connection. Source: datos abiertos cdmx
+1322918884991733766	2020-11-01 15:10:15	579246246	cas_maps	01	_	Lighthouses of Great Britain
 1323562533433839618	2020-11-03 09:47:53	996835888813494272	cj_maps	03	_	Hunting out new and interesting data sources is another great part of this challenge! Yesterday I came across @protectedplanet WDPA Protected Areas data so made some quick #QGIS maps
+1323581901387358209	2020-11-03 11:04:50	4273148897	cmhc23	02	_	The map displays a 3 year history of cyclone tracks in the region. Cyclone tracks from ibtracs.
+1323793538769969159	2020-11-04 01:05:49	840369042632396800	cstats1	03	_	California State borders made with #usgs elevation data using the incredible R rayshader package
+1322854560726175746	2020-11-01 10:54:39	1085107832314310656	dandanduhnnnn	01	_	I've gone for Road traffic accidents in Central London per LSOA centroid - finished off with a little helping of @sarahbellmaps BellTopo Sans.
+1323227507382996993	2020-11-02 11:36:36	424357259	dbgoody	01	_	#points #Hexagon #MAppEnterprise
 1323559268260499456	2020-11-03 09:34:54	424357259	dbgoody	03	_	GB Districts with 'land' in their name. Data courtesy @undertheraedar & @OrdnanceSurvey
+1322849804351844358	2020-11-01 10:35:45	238730325	DVDMaps	01	_	Temperature reductions in Iceland during the solar eclipse, 20 March 2015
+1323777937208987648	2020-11-04 00:03:49	1146772513051041792	EbingerSamara	03	_	I mapped the buildings in Manchester, New Hampshire's Historic Millyard using the mood-enhancing @John_M_Nelson Felt Style.
+1322864485384802309	2020-11-01 11:34:05	1000055398697709569	est987	01	_	I am fascinated by water so for the point day, I decided to make a map of all the springs and boreholes according to Israel's Water Authority. They're not necessarily flowing or active, but even so, a lot to learn about the geohydrology of the region here.
+1322690000652247041	2020-11-01 00:00:45	398047935	F00o00d	01	_	A simple map shows the population of child under 5 years old in ALBAHA province, KSA.
+1322975085184098305	2020-11-01 18:53:34	22022797	Geo__Don	01	_	It's points today, correct?
+1323384526316412930	2020-11-02 22:00:33	2493409233	geocarta	03	_	Africa Global Terrorism Database 1970-2018; Données Actualisées
+1322868212455886849	2020-11-01 11:48:54	88731801	geospacedman	01	_	Here's a map of every UK location named something-Point from GeoNames.
 1323564558745800704	2020-11-03 09:55:56	88731801	geospacedman	03	_	The Disunited States of America.
 1323559525295755264	2020-11-03 09:35:56	3005542459	geotologist	03	_	This is a play on fractals and the other united colors of... Arguably more graphic than a map.
 1323556624888463360	2020-11-03 09:24:24	1499547780	HeikkiVesanto	03	_	This year @osm_ie launched the #osmIRL_buildings project, to map every building in Ireland. Four counties are already completed. This month they are publishing a mapping task every day. Great time to contribute to your #OpenStreetMap community.
 1323186755676344320	2020-11-02 08:54:40	54696312	Hevski17	02	https://www.google.com/maps/d/viewer?mid=1kaToGyHJzib1-0KmTTW2FnoveOeTPdhW&ll=56.03042723729504%2C-4.2073205000000025&z=11	Some of my favorite #roadcycling routes in my area, made with google maps using gpx files from Strava
 1323551429626396673	2020-11-03 09:03:45	54696312	Hevski17	03	_	Greenspace sites in #Glasgow city and surrounding area
+1323358894232666120	2020-11-02 20:18:41	2574612668	hireuter	02	_	Line work (pointstopath) of address records from Day 1 - (1/2)
 1311742735167238149	2020-10-01 19:00:13	14913762	hurricanevicky	01		I was so excited to participate in the #30DayMapChallenge I totally missed that it starts in November and not, like, right now. Uh. Maybe you want to know how close you are to a ballot drop box anyway?
 1323559667684040704	2020-11-03 09:36:29	77265423	ijturton	03	_	Topical map for today's election or why counties are a bad base unit for anything. These maps have the same style so you can see why if you live in a green state no one bothers to campaign there as there are several counties that are bigger.
+1322890874615902209	2020-11-01 13:18:57	527879669	inari_ta	01	https://irenedelatorrearenas.wordpress.com/2020/11/01/mapnovember-2020-points/	I used data from @openstreetmap and #QGIS to visualize schools in Europe. It kind of displays the population density of children and teenagers in the continent.
+1322926229096464385	2020-11-01 15:39:26	2380934868	Juanizio_C	01	_	"Map of Chile with the location and average annual flow (lts / sec) of the water rights capture points in Chile (yes, we are the only country with privatized water). ""It is not drought, it is looting"""
+1323242372080218112	2020-11-02 12:35:40	2380934868	Juanizio_C	02	_	Map of the entire hydrographic network of Chile , perfect complement to the map of day 1 and to other maps on environmental conflict and urban development.
+1322880224338403331	2020-11-01 12:36:38	3195365733	Junevgt	01	_	Map showing the places of accidents in Paris according to public lighting. Data: https://opendata.paris
+1322756313948938243	2020-11-01 04:24:15	47001569	k_zoar	01	_	I visualized the shelter in my city and using Leaflet.js and D3.js. Point data is Kawagoe City shelter open data, basemap is OpenStreetMap.
+1322748863854206977	2020-11-01 03:54:39	29162437	kjsime	01	_	A love story about pies.
+1322642620779147264	2020-10-31 20:52:28	1310659130290388992	MapHustle	01	_	Populated Places - New Zealand. Unified English Braille
+1323245147983876096	2020-11-02 12:46:42	889150492751925250	MapStorms	02	_	#MelchiorBolstra, Map of #Haarlemmermeer, Amsterdam: Hendrik de Leth, c. 1740. The dotted lines show the outlines of the lake from 1531 to 1740. Because of its growth, the lake was nicknamed 'Waterwolf'.
+1323213562836340736	2020-11-02 10:41:12	253102706	martinfernandoo	02	_	Map of flow of trips by bus that we did with @chicajuntada. We use a bit of R to process the data, and then QGIS (geometry generator to bend the lines since they are only source - destination and add blend mode)
+1322792264632995840	2020-11-01 06:47:06	1288862246416732160	MdZakariaHasan7	01	_	Shelter centre of Bangladesh Coastal Region.
 1323563060389400576	2020-11-03 09:49:58	1272146417323294721	MindOverMagma	03	https://twitter.com/MindOverMagma/status/1323565318854320133	Progression of lava flows during the 2018 Puna eruption of Kilauea. @USGS @USGSVolcanoes data.
+1322710477462360064	2020-11-01 01:22:07	1056888822942711808	mmits003	01	_	Earthquakes from 1959 to 2020. Data from USGS and OpenStreetMap contributors
 1323270878151479296	2020-11-02 14:28:57	782161298	Neil_py_harris	02	_	Eelevation in tyne and wear
 1323555540266602498	2020-11-03 09:20:05	782161298	Neil_py_harris	03	_	
+1323658623831126022	2020-11-03 16:09:42	635283767	NigraArbaro	03	_	Forest cover of the Breisgau-Hochschwarzwald county
+1315180009951318016	2020-10-11 06:38:43	28102639	pheebely	01	https://phoebelty.wordpress.com/2020/10/11/30daymapchallenge/	Population of Malaysia in 2020: 32.58 million.. (One random point created per 100 people)
+1315438579456319489	2020-10-11 23:46:11	28102639	pheebely	02	https://phoebelty.wordpress.com/2020/10/12/day-2-lines/	Singapore LRT/MRT
+1316264233336795136	2020-10-14 06:27:02	28102639	pheebely	03	https://phoebelty.wordpress.com/2020/10/16/day-3-polygons/	Port of Beirut Explosion in 2020
+	2020-10-26 12:00:00	28102639	pheebely	04	https://phoebelty.wordpress.com/2020/10/26/day-4-hexagons/	Where has gold been mined in the U.S.?
+	2020-10-30 12:00:00	28102639	pheebely	05	https://phoebelty.wordpress.com/2020/10/30/day-56-blue-red/	2016 Presidential Elections: % of Democratic votes by county
+	2020-10-30 12:00:00	28102639	pheebely	06	https://phoebelty.wordpress.com/2020/10/30/day-56-blue-red/	2016 Presidential Elections: % of Republican votes by county
+1323410099147206657	2020-11-02 23:42:10	2339659308	quorumetrix	02	_	Another view of the Montreal metro lines.
+1322811137331744769	2020-11-01 08:02:06	3552542476	SannaJokela1	01	_	All the trees in my garden. Measured from orthophoto, created with #QGIS. Tree symbol drawn by hand and changed to .svg with #Inkscape.
+1323864328064389123	2020-11-04 05:47:06	3552542476	SannaJokela1	04	_	Garden as hexagons. Analysing the landuse in my garden with simple overlay. Other area = still some work to do. Could have just made some hexagon flower beds.
+1323185075488522246	2020-11-02 08:48:00	48334577	santihpuig	02	_	a line connecting those two thousand five hundred random points by their random id.
+1323613770791428096	2020-11-03 13:11:29	179094335	sarah_wilson7	03	_	Map below of Gaeltacht areas around the Island of Ireland ☘️
 1323559351257161728	2020-11-03 09:35:14	809066605	sciremotesense	03	_	These are all the buildings in #Southampton, UK, coloured by the time taken to travel from there to the Civic Centre by car to arrive at 9am on a weekday.
+1323367786018607104	2020-11-02 20:54:01	404240734	SDGeoGirl	02	_	#INeedNewShoes #doyouknowthewaytosanjose
+1322623122814705664	2020-10-31 19:35:00	1020137956869222401	SouthArrowMaps	01	https://southarrowmaps.co.nz/portfolio/hagley-park-halftone	Hagley Park Halftone. A pseudo-halftone map of Hagley Park, Christchurch, created with points of cyan, magenta, and yellow (and black text)
 1323563495275847681	2020-11-03 09:51:42	1109429181266436097	topographos2	02	_	Hollow Ways around Tell Beydar in Syria
+1323583295540678656	2020-11-03 11:10:23	343928585	undertheraedar	03	_	I thought I'd put some polygons on a spinning globe. Didn't have time to fix the blips but hopefully it's not too hypnotic.
+1323033972276830208	2020-11-01 22:47:34	421896803	viajeruss	01	_	In the database of @openstreetmap there are 16,511 trees registered in the Lima-Callao metropolitan area. Each green dot is a tree. We still have to search quite a few trees 🌴
 1311862706232684547	2020-10-02 02:56:57	55309606	vizowl	01		I am definitely not doing the #30DayMapChallenge because there is an election. But since the first day's theme was points (it's still the first day in Hawaii) and I was thinking about polling booth locations here's all of them. It's essentially population density but 🤷‍♂️
+1322782243732004864	2020-11-01 06:07:17	3044299951	YocsanContreras	01	_	Theft in public transport 2016 -2020 CDMX
+1323709029642764288	2020-11-03 19:30:00	66119329	yolsclemente	03	_	304 municipalities. 6 regions. A polygon map to see the puzzle that is Zamora
+1322644021433397248	2020-10-31 20:58:02	12306	zentree	01	_	Tree tops in Avonhead, Christchurch. Recovered from LiDAR canopy height model (in grey), still tweaking the algorithm. Big white section is Crosby Park.

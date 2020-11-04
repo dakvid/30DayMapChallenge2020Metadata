@@ -1,16 +1,70 @@
 handle	Day	area	city	topics	types	tools
+_anirudhgovind	01	India	Bangalore	transport	_	R
+AnalisisGeo	01	Mexico	_	_	_	_
+AnalisisGeo	02	Mexico	_	hurricanes	_	_
+andrewdc_nz	01	New Zealand	_	elevation	_	_
+antoaasa	01	Georgia	Tbilisi	urban	_	_
+antoniolocandro	02	_	_	_	_	_
+assesslife	01	USA	_	_	_	R
+astronomyblog	03	UK	Leeds	_	_	_
+BlandfordBread	02	World	_	historical	_	QGIS
+brunmuska	02	India	Chandigarh	transport	_	_
+carlosrpz_	01	Mexico	Mexico City	_	_	QGIS
+cas_maps	01	UK	_	_	_	QGIS
 cj_maps	03	World	_	_	_	QGIS
+cmhc23	02	_	_	_	_	_
+cstats1	03	USA	_	administrative boundaries,elevation	3d	R
+dandanduhnnnn	01	UK	London	transport	_	_
+dbgoody	01	UK	Leeds	_	_	_
 dbgoody	03	UK	_	administrative boundaries,names	_	_
+DVDMaps	01	Iceland	_	_	_	_
+EbingerSamara	03	USA	Manchester NH	_	_	_
+est987	01	Israel	_	_	_	QGIS
+F00o00d	01	Saudi Arabia	_	population	_	_
+Geo__Don	01	USA	_	_	_	Google Maps
+geocarta	03	Africa	_	_	_	choropleth
+geospacedman	01	UK	_	names	_	GeoNames
 geospacedman	03	USA	_	_	_	R
 geotologist	03	NZ	_	_	_	_
 HeikkiVesanto	03	Ireland	Sligo	urban	_	OpenStreetMap
 Hevski17	02	UK	Glasgow	transport,GPS	_	Google Maps,Strava
 Hevski17	03	UK	Glasgow	_	_	QGIS
+hireuter	02	Europe	_	_	_	_
 hurricanevicky	01	USA	Washington DC	elections		
 ijturton	03	USA	_	administrative boundaries,elections	_	GeoServer,GIMP
+inari_ta	01	Europe	_	_	_	OpenStreetMap,QGIS
+Juanizio_C	01	Chile	_	_	_	_
+Juanizio_C	02	Chile	_	_	_	_
+Junevgt	01	France	Paris	transport	_	_
+k_zoar	01	Japan	Kawagoe	_	_	Leaflet.js,D3.js
+kjsime	01	New Zealand	Auckland	_	_	ArcMap
+MapHustle	01	New Zealand	_	_	_	_
+MapStorms	02	Netherlands	Amsterdam	_	_	_
+martinfernandoo	02	Argentina	_	transport	_	R,QGIS
+MdZakariaHasan7	01	Bangladesh	_	_	_	_
 MindOverMagma	03	USA	_	volcanoes	animation	ArcMap
+mmits003	01	World	_	earthquakes	animation	_
 Neil_py_harris	02	UK	_	elevation	joyplot	_
 Neil_py_harris	03	_	_	_	Lego	_
+NigraArbaro	03	Germany	_	_	_	QGIS
+pheebely	01	Malaysia	_	population	_	QGIS
+pheebely	02	Singapore	_	transport	_	QGIS
+pheebely	03	Lebanon	Beirut	_	_	QGIS
+pheebely	04	USA	_	_	_	QGIS
+pheebely	05	USA	_	elections	_	QGIS
+pheebely	06	USA	_	elections	_	QGIS
+quorumetrix	02	Canada	Montreal	transport	animation	_
+SannaJokela1	01	Finland	Turku	_	_	QGIS,Inkscape
+SannaJokela1	04	Finland	Turku	_	_	QGIS
+santihpuig	02	Greenland	_	_	_	_
+sarah_wilson7	03	Ireland	_	_	_	_
 sciremotesense	03	UK	Southampton	urban,transport	_	_
+SDGeoGirl	02	USA	_	_	_	_
+SouthArrowMaps	01	New Zealand	Christchurch	_	_	ArcGIS,Photoshop
 topographos2	02	Syria	_	archaeology	_	R
+undertheraedar	03	USA	_	_	animation	_
+viajeruss	01	Peru	Lima	_	_	OpenStreetMap
 vizowl	01	New Zealand		elections	point	
+YocsanContreras	01	Mexico	Mexico City	crime,transport	_	QGIS
+yolsclemente	03	Spain	_	_	_	_
+zentree	01	New Zealand	Christchurch	_	_	_
