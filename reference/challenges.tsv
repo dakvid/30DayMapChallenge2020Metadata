@@ -1,31 +1,31 @@
-Day	Challenge
-01	Points
-02	Lines
-03	Polygons
-04	Hexagons
-05	Blue
-06	Red
-07	Green
-08	Yellow
-09	Monochrome
-10	Grid
-11	3D
-12	Map not made with GIS software
-13	Raster
-14	Climate change
-15	Connections
-16	Island(s)
-17	Historical map
-18	Landuse
-19	NULL
-20	Population
-21	Water
-22	Movement
-23	Boundaries
-24	Elevation
-25	COVID-19
-26	Map with a new tool
-27	Big or small data
-28	Non-geographic map
-29	Globe
-30	A map
+Day	Challenge	Challenge Full
+01	Points	Points
+02	Lines	Lines
+03	Polygons	Polygons
+04	Hexagons	Hexagons
+05	Blue	Blue
+06	Red	Red
+07	Green	Green
+08	Yellow	Yellow
+09	Monochrome	Monochrome
+10	Grid	Grid
+11	3D	3D
+12	Non-GIS	Map not made with GIS software
+13	Raster	Raster
+14	Climate change	Climate change
+15	Connections	Connections
+16	Islands	Island(s)
+17	Historical	Historical map
+18	Land use	Land use
+19	NULL	NULL
+20	Population	Population
+21	Water	Water
+22	Movement	Movement
+23	Boundaries	Boundaries
+24	Elevation	Elevation
+25	COVID-19	COVID-19
+26	New tool	Map with a new tool
+27	Big/small data	Big or small data
+28	Non-geographic	Non-geographic map
+29	Globe	Globe
+30	A map	A map
