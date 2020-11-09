@@ -271,13 +271,13 @@ brunmuska	02	India	Chandigarh	transport	_	_
 brunmuska	03	_	_	_	_	_
 brunmuska	04	_	_	_	_	_
 brunmuska	05	_	_	_	_	_
-burdGIS	01	_	_	_	_	_
-burdGIS	02	_	_	_	_	_
-burdGIS	03	_	_	_	_	_
-burdGIS	04	_	_	_	_	_
-burdGIS	05	_	_	_	_	_
-burdGIS	06	_	_	_	_	_
-burdGIS	07	_	_	_	_	_
+burdGIS	01	South Africa	_	environment	_	QGIS
+burdGIS	02	Peru	_	archaeology	_	ArcGIS Pro
+burdGIS	03	UK	_	education	_	QGIS
+burdGIS	04	USA	_	botany	_	QGIS
+burdGIS	05	USA	_	music	_	QGIS
+burdGIS	06	USA	_	environment	_	QGIS,Google Earth Engine
+burdGIS	07	Australia	_	environment	_	QGIS,Google Earth Engine
 BZgeo	01	_	_	_	_	_
 BZgeo	02	_	_	_	_	_
 BZgeo	03	_	_	_	_	_
