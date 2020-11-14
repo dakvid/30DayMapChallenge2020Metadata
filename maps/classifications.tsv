@@ -58,18 +58,18 @@ _x_why	01	_	_	_	_	_
 1701Aakash	11	_	_	_	_	_
 1cartogRaph	01	Switzerland	_	earthquakes	animation	QGIS
 1cartogRaph	02	Switzerland	Sion	transport	_	QGIS
-1cartogRaph	03	UK	London	flags		
-1cartogRaph	04	Switzerland	_	language	choropleth	QGIS, R
-1cartogRaph	05	Mediterranean Sea				QGIS
-1cartogRaph	06	Europe		flags	choropleth	QGIS
-1cartogRaph	07	Switzerland	Sion	sport		QGIS
+1cartogRaph	03	UK	London	flags	_	_
+1cartogRaph	04	Switzerland	_	language	choropleth	QGIS,R
+1cartogRaph	05	Europe	_	_	_	QGIS
+1cartogRaph	06	Europe	_	flags	choropleth	QGIS
+1cartogRaph	07	Switzerland	Sion	sport	_	QGIS
 1cartogRaph	09	UK	_	animals	_	QGIS
 1LuisDavid	01	_	_	_	_	R
 1LuisDavid	02	_	_	_	_	R
 1LuisDavid	03	_	_	_	_	R
 1LuisDavid	04	_	_	_	_	R
 1LuisDavid	05	_	_	_	_	R
-1LuisDavid	06	Mexico	Mexico City			R
+1LuisDavid	06	Mexico	Mexico City	_	_	R
 27aea577f17d4c4	12	_	_	_	_	_
 27aea577f17d4c4	13	_	_	_	_	_
 3DOMFBK	17	_	_	_	_	_
@@ -92,15 +92,15 @@ AFCotroneo	02	_	_	_	_	_
 AFCotroneo	03	_	_	_	_	_
 AFCotroneo	04	Canada	_	animals	_	_
 AFCotroneo	05	_	_	_	_	_
-AFCotroneo	06	USA				
+AFCotroneo	06	USA	_	_	_	_
 AFCotroneo	07	_	_	_	_	_
 AFCotroneo	08	_	_	_	_	_
 AFCotroneo	09	_	_	_	_	_
 AFCotroneo	10	_	_	_	_	_
-afrimapr	01	South Sudan				R
+afrimapr	01	South Sudan	_	_	_	R
 afrimapr	02	_	_	_	_	_
 afrimapr	03	_	_	_	_	_
-afrimapr	04	Africa				R
+afrimapr	04	Africa	_	_	_	R
 aina_don	03	_	_	_	_	_
 aina_don	05	_	_	_	_	QGIS
 aina_don	06	_	_	_	_	QGIS
@@ -112,18 +112,18 @@ akadouri	03	_	_	_	_	_
 akadouri	04	_	_	_	_	_
 akadouri	05	_	_	_	_	_
 akadouri	06	_	_	_	_	_
-akadouri	07	USA	New York City			
+akadouri	07	USA	New York City	_	_	_
 akadouri	08	_	_	_	_	_
 akadouri	10	_	_	_	_	_
 akadouri	11	_	_	_	_	_
 akadouri	12	_	_	transport	_	pen and paper
-AlandcoC	01	World				
+AlandcoC	01	World	_	_	_	_
 AlandcoC	02	_	_	_	_	_
 AlandcoC	03	_	_	_	_	_
 AlandcoC	04	_	_	_	_	_
 AlandcoC	05	_	_	_	_	_
-AlandcoC	06	France	Paris	transport		
-AlandcoC	07	France	Paris	transport		
+AlandcoC	06	France	Paris	transport	_	_
+AlandcoC	07	France	Paris	transport	_	_
 AlandcoC	08	_	_	_	_	_
 AlandcoC	10	_	_	_	_	_
 AlandcoC	11	_	_	_	_	_
@@ -132,16 +132,16 @@ AlbinPCLarsson	01	_	_	_	_	_
 AlbinPCLarsson	02	_	_	_	_	_
 AlbinPCLarsson	03	_	_	_	_	_
 AlbinPCLarsson	04	_	_	_	_	_
-AlbinPCLarsson	05	World				
+AlbinPCLarsson	05	World	_	_	_	_
 Alina_Ristea	03	USA	Boston	_	_	QGIS
 AllisonCully	12	_	_	_	_	_
 AllisonCully	13	_	_	_	_	_
-allixender	01	Estonia				Python
+allixender	01	Estonia	_	_	_	Python
 allixender	02	_	_	_	_	_
-allixender	03	Estonia	Talinn			Python
-allixender	04	World				Python
-allixender	05	Estonia				Python
-allixender	06	Mars				
+allixender	03	Estonia	Talinn	_	_	Python
+allixender	04	World	_	_	_	Python
+allixender	05	Estonia	_	_	_	Python
+allixender	06	Mars	_	_	_	_
 allixender	07	_	_	_	_	_
 allixender	08	_	_	_	_	_
 allixender	09	_	_	_	_	_
@@ -166,7 +166,7 @@ aloCrts	13	_	_	_	_	_
 alv_irl	11	_	_	_	_	_
 alv_irl	12	_	_	_	_	_
 alv_irl	13	_	_	_	_	_
-Amit_Levinson	01	USA				R
+Amit_Levinson	01	USA	_	_	_	R
 Amit_Levinson	02	_	_	_	_	R
 Amit_Levinson	03	_	_	_	_	R
 Amit_Levinson	07	_	_	_	_	R
@@ -182,7 +182,7 @@ AnatZohar4	03	_	_	_	_	_
 AnatZohar4	04	_	_	_	_	_
 AnatZohar4	05	_	_	_	_	_
 AnatZohar4	06	_	_	_	_	_
-AnatZohar4	07	USA	San Jose			
+AnatZohar4	07	USA	San Jose	_	_	_
 AnatZohar4	08	_	_	_	_	_
 AnatZohar4	10	_	_	_	_	_
 AnatZohar4	11	_	_	_	_	_
@@ -198,13 +198,13 @@ andrewdc_nz	08	New Zealand	_	transport	_	_
 andrewdc_nz	09	_	_	_	_	_
 andrewdc_nz	12	_	_	_	_	_
 andrewdc_nz	13	_	_	_	_	_
-AndrewRenninger	01	USA				
+AndrewRenninger	01	USA	_	_	_	_
 AndrewRenninger	02	Australia,Canada,Chile,Czech Republic,Finland,France,Germany,Greece,Ireland,Italy,Luxembourg,Portugal,UK,USA	Adelaide,Antofagasta,Athens,Belfast,Berlin,Bordeaux,Brisbane,Canberra,Detroit,Dublin,Grenoble,Helsinki,Kuopio,Lisbon,Luxembourg,Melbourne,Nantes,Palermo,Paris,Prague,Rennes,Rome,Sydney,Toulouse,Turku,Venice,Winnipeg	transport	animation	_
-AndrewRenninger	03	World				
-andrewrfrench	01	USA				
+AndrewRenninger	03	World	_	_	_	_
+andrewrfrench	01	USA	_	_	_	_
 andrewrfrench	02	_	_	_	_	_
 andrewrfrench	03	_	_	_	_	_
-andrewrfrench	04	USA	Denver			
+andrewrfrench	04	USA	Denver	_	_	_
 andrewrfrench	05	_	_	_	_	_
 andrewrfrench	06	_	_	_	_	_
 andrewrfrench	07	_	_	_	_	_
@@ -219,14 +219,14 @@ andy_rutkowski	02	_	_	_	_	QGIS
 andy_rutkowski	03	_	_	_	_	QGIS
 andy_rutkowski	04	_	_	_	_	_
 andy_rutkowski	05	_	_	_	_	QGIS
-andy_rutkowski	06	USA	Los Angeles			
+andy_rutkowski	06	USA	Los Angeles	_	_	_
 AngelineMeeks	12	_	_	_	_	_
 anlugonz	01	_	_	_	_	_
 anlugonz	02	_	_	_	_	QGIS
 anlugonz	03	_	_	_	_	_
 anlugonz	04	_	_	_	_	QGIS
 anlugonz	05	_	_	_	_	_
-anlugonz	06	Colombia	Galerazamba			
+anlugonz	06	Colombia	Galerazamba	_	_	_
 anlugonz	07	_	_	_	_	_
 anlugonz	09	_	_	_	_	_
 anlugonz	10	Colombia	_	_	Lego	_
@@ -248,7 +248,7 @@ antoaasa	13	_	_	_	_	_
 AntoninBorgnon	03	_	_	_	_	_
 antoniolocandro	01	_	_	_	_	_
 antoniolocandro	02	_	_	_	_	_
-antoniolocandro	03	Honduras				
+antoniolocandro	03	Honduras	_	_	_	_
 areacartografia	01	_	_	_	_	_
 areacartografia	02	_	_	_	_	_
 areacartografia	03	_	_	_	_	_
@@ -491,7 +491,7 @@ brunmuska	03	_	_	_	_	_
 brunmuska	04	_	_	_	_	_
 brunmuska	05	_	_	_	_	_
 burdGIS	01	South Africa	_	environment	_	QGIS
-burdGIS	02	Peru	_	archaeology	_	ArcGIS Pro
+burdGIS	02	Peru	_	archaeology	_	ArcGIS
 burdGIS	03	UK	_	education	_	QGIS
 burdGIS	04	USA	_	botany	_	QGIS
 burdGIS	05	USA	_	music	_	QGIS
@@ -1138,7 +1138,7 @@ geobach_za	05	_	_	_	_	_
 geobach_za	07	_	_	_	_	_
 geocarta	01	Africa	_	_	_	_
 geocarta	02	_	_	_	_	_
-geocarta	03	Africa	_	_	_	choropleth
+geocarta	03	Africa	_	_	choropleth	_
 geocarta	04	_	_	_	_	_
 geocarta	05	_	_	_	_	_
 geocarta	06	_	_	_	_	_
@@ -1905,11 +1905,11 @@ kylie_donia	02	_	_	_	_	_
 kylie_donia	03	_	_	_	_	_
 lacxrx	01	France	_	animals	_	QGIS
 lacxrx	02	France	Lyon	urban	_	QGIS
-lacxrx	03	France				QGIS
-lacxrx	04	France		agriculture		QGIS
-lacxrx	05	France				QGIS
-lacxrx	06	France				QGIS
-lacxrx	07	France		agriculture		QGIS
+lacxrx	03	France	_	_	_	QGIS
+lacxrx	04	France	_	agriculture	_	QGIS
+lacxrx	05	France	_	_	_	QGIS
+lacxrx	06	France	_	_	_	QGIS
+lacxrx	07	France	_	agriculture	_	QGIS
 lacxrx	08	France	_	agriculture	_	QGIS
 lacxrx	09	France	_	environment	_	QGIS
 LandEthics	01	_	_	_	_	_
@@ -1924,7 +1924,7 @@ laurentgontier	11	_	_	_	_	_
 lecartographe	01	_	_	_	_	_
 lecartographe	02	_	_	_	_	_
 lecartographe	03	_	_	_	_	_
-lecartographe	04	France				
+lecartographe	04	France	_	_	_	_
 lecartographe	05	_	_	_	_	_
 lecartographe	06	_	_	_	_	_
 lecartographe	07	_	_	_	_	_
@@ -1949,9 +1949,9 @@ Lene_Fischer	12	_	_	_	_	_
 Letyludigital	01	Mexico	_	_	_	_
 Letyludigital	02	_	_	_	_	QGIS
 Letyludigital	03	_	_	_	_	QGIS
-Letyludigital	04					QGIS
+Letyludigital	04	_	_	_	_	QGIS
 Letyludigital	05	_	_	_	_	QGIS
-Letyludigital	06	World				QGIS
+Letyludigital	06	World	_	_	_	QGIS
 Letyludigital	08	_	_	_	_	_
 lilyhoutman	01	_	_	_	_	_
 lioneltodome	01	_	_	_	_	_
@@ -1975,12 +1975,12 @@ LocationArtist2	03	USA	_	_	_	ArcGIS,Python
 LouiseSmith_Geo	01	_	_	_	_	_
 Lubin_Picard	01	_	_	_	_	_
 Lubin_Picard	02	_	_	_	_	_
-Lubin_Picard	03	France				QGIS
-Lubin_Picard	04	France				QGIS
-Lubin_Picard	05	France				QGIS
-Lubin_Picard	06	France				QGIS
-Lubin_Picard	07	France	Lyon			QGIS
-Lubin_Picard	08	World				
+Lubin_Picard	03	France	_	_	_	QGIS
+Lubin_Picard	04	France	_	_	_	QGIS
+Lubin_Picard	05	France	_	_	_	QGIS
+Lubin_Picard	06	France	_	_	_	QGIS
+Lubin_Picard	07	France	Lyon	_	_	QGIS
+Lubin_Picard	08	World	_	_	_	_
 Lubin_Picard	09	_	_	_	_	_
 Lubin_Picard	10	_	_	_	_	_
 Lubin_Picard	11	_	_	_	_	_
@@ -2213,14 +2213,14 @@ MindOverMagma	13	_	_	_	_	_
 MiniMapMakers	01	_	_	_	_	_
 MiniMapMakers	02	_	_	_	_	_
 MiniMapMakers	13	_	_	_	_	_
-MiniTigri	01	Colombia	_	Population	_	QGIS
-MiniTigri	02	Colombia	_	Experimental	Graphic	QGIS
-MiniTigri	03	Colombia	Medellín	Experimental	Graphic	QGIS
-MiniTigri	04	Colombia	_	War	_	QGIS
-MiniTigri	05	Caribbean Sea	_	Borders	_	QGIS
-MiniTigri	06	Colombia	Bogotá	Internet Speed	Animation	QGIS
-MiniTigri	07	South America	_	Intact forest	_	QGIS
-MiniTigri	08	Americas	_	Butterflies	_	QGIS
+MiniTigri	01	Colombia	_	population	_	QGIS
+MiniTigri	02	Colombia	_	experimental	graphic	QGIS
+MiniTigri	03	Colombia	Medellín	experimental	graphic	QGIS
+MiniTigri	04	Colombia	_	war	_	QGIS
+MiniTigri	05	Central America	_	administrative boundaries	_	QGIS
+MiniTigri	06	Colombia	Bogotá	infrastructure	animation	QGIS
+MiniTigri	07	South America	_	forest	_	QGIS
+MiniTigri	08	North America,Central America,South America	_	animals	_	QGIS
 MiniTigri	10	_	_	_	_	_
 mirzacengic	01	_	_	_	_	R
 mirzacengic	02	_	_	_	_	R
@@ -2399,7 +2399,7 @@ nwbort	07	New Zealand	_	elections	_	R,Leaflet
 nwbort	08	New Zealand	_	elections	cartogram	R,Leaflet
 nwbort	09	China	_	_	_	R
 nwbort	10	Australia	Sydney	population	_	R
-nwbort	11	Australia	Sydney	population	_	R,rayshader
+nwbort	11	Australia	Sydney	population	_	R
 nwbort	12	_	_	_	_	LaTeX
 nwbort	13	_	_	_	_	_
 odile_p	01	_	_	_	_	_
@@ -3051,7 +3051,7 @@ TheRealJimShady	09	_	_	_	_	_
 TheRealJimShady	10	_	_	_	_	_
 TheRealJimShady	11	_	_	_	_	_
 TheRealJimShady	13	_	_	_	_	_
-ThomasBanafa	12	Finland	_	_	_	Baby Is You
+ThomasBanafa	12	Finland	_	_	_	Baba Is You
 Thoughtfulnz	05	New Zealand	_	elections	_	_
 Thoughtfulnz	06	New Zealand	_	elections	_	_
 Thoughtfulnz	07	New Zealand	_	elections	_	_
@@ -3411,10 +3411,10 @@ zerbembasqwibo	02	_	_	_	_	_
 zerbembasqwibo	06	_	_	_	_	_
 zerbembasqwibo	07	_	_	_	_	_
 zerbembasqwibo	09	_	_	_	_	_
-zinnie__A	08	Nigeria	_	Economy	_	Arcgis pro, ArcGIS Online, ArcGIS Desktop
-zinnie__A	09	Africa	_	Transportation	_	ArcGIS Online
-zinnie__A	10	Africa	_	Climate	_	QGIS, ArcGIS Desktop
-zinnie__A	11	Nigeria	Obanliku, Calabar	Tourism	_	QGIS
+zinnie__A	08	Nigeria	_	economy	_	ArcGIS
+zinnie__A	09	Africa,Asia,Europe	_	transportation	_	ArcGIS
+zinnie__A	10	Africa	_	climate	_	QGIS,ArcGIS
+zinnie__A	11	Nigeria	Calabar	tourism	_	QGIS
 zinnie__A	12	Nigeria	Kaduna	transport	_	Powerpoint
 zinnie__A	13	_	_	_	_	_
 ZorzalErrante	02	_	_	_	_	_
