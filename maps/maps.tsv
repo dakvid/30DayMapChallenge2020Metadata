@@ -198,7 +198,7 @@ tweet_id	date_posted	twitter_id	handle	Day	website	description
 1325606782547456001	2020-11-09 01:11:00	93839237	andrewdc_nz	09	_	_
 1326665005786427394	2020-11-11 23:16:00	93839237	andrewdc_nz	12	_	_
 1327174048044859392	2020-11-13 08:58:45	93839237	andrewdc_nz	13	_	_
-1323087458435801088	2020-11-02 02:20:06	301593228	AndrewRenninger	01	_	"Everywhere with ""point"" in the name according to the USGS (https://usgs.gov/core-science-systems/ngp/board-on-geographic-names/domestic-names), and then broken up by adjacent features."
+1323087458435801088	2020-11-02 02:20:06	301593228	AndrewRenninger	01	_	Everywhere with "point" in the name according to the USGS (https://usgs.gov/core-science-systems/ngp/board-on-geographic-names/domestic-names), and then broken up by adjacent features.
 1323256609573871617	2020-11-02 13:32:15	301593228	AndrewRenninger	02	_	Comparing a (rather random) collection of transit networks using data from Rainer Kujala et al
 1323788825873756160	2020-11-04 00:47:05	301593228	AndrewRenninger	03	_	Functional urban areas,  from the Global Human Settlement Layer suite of datasets (https://ghsl.jrc.ec.europa.eu/datasets.php), with some zonal statistics to compare.
 1322973742633418753	2020-11-01 18:48:14	44530833	andrewrfrench	01	_	Monarch Adult Spring Sightings, from 2014 to 2020
@@ -1691,7 +1691,7 @@ tweet_id	date_posted	twitter_id	handle	Day	website	description
 1327358122608869376	2020-11-13 21:10:12	831942603931127809	jstnbraaten	13	_	_
 1322979449864933376	2020-11-01 19:10:55	1905096798	JuanEstellerR	01	_	_
 1323946929915629568	2020-11-04 11:15:20	1905096798	JuanEstellerR	04	_	_
-1322926229096464385	2020-11-01 15:39:26	2380934868	Juanizio_C	01	_	"""Map of Chile with the location and average annual flow (lts / sec) of the water rights capture points in Chile (yes, we are the only country with privatized water). """"It is not drought, it is looting"""""""
+1322926229096464385	2020-11-01 15:39:26	2380934868	Juanizio_C	01	_	Map of Chile with the location and average annual flow (lts / sec) of the water rights capture points in Chile (yes, we are the only country with privatized water). "It is not drought, it is looting"
 1323242372080218112	2020-11-02 12:35:40	2380934868	Juanizio_C	02	_	Map of the entire hydrographic network of Chile , perfect complement to the map of day 1 and to other maps on environmental conflict and urban development.
 1323614928004067329	2020-11-03 13:16:05	2380934868	Juanizio_C	03	_	_
 1323996120364834819	2020-11-04 14:30:48	2380934868	Juanizio_C	04	_	_
@@ -1976,7 +1976,7 @@ tweet_id	date_posted	twitter_id	handle	Day	website	description
 1322982887449382913	2020-11-01 19:24:34	1311399091	Lubin_Picard	01	_	_
 1323187266102218752	2020-11-02 08:56:42	1311399091	Lubin_Picard	02	_	_
 1323497635370721280	2020-11-03 05:30:00	1311399091	Lubin_Picard	03	_	Une carte qui est plus un test pour voir ce que cela donnerait si l'on découpait le territoire français avec des polygones de Voronoï.
-1323883533178445824	2020-11-04 07:03:25	1311399091	Lubin_Picard	04	_	"Les communes dont le nom contient le mot ""Saint"" par département en France métropolitaine"
+1323883533178445824	2020-11-04 07:03:25	1311399091	Lubin_Picard	04	_	Les communes dont le nom contient le mot "Saint" par département en France métropolitaine
 1324341215593115648	2020-11-05 13:22:05	1311399091	Lubin_Picard	05	_	Création originale montrant la répartition de la population sarthoise en fonction des piscines et des centres aquatiques.
 1324621294483234816	2020-11-06 07:55:01	1311399091	Lubin_Picard	06	_	Litres de sang humain par départements
 1324969035105247232	2020-11-07 06:56:49	1311399091	Lubin_Picard	07	_	Cartographie des arbres d'alignements du Grand Lyon
@@ -2167,7 +2167,7 @@ tweet_id	date_posted	twitter_id	handle	Day	website	description
 1327156611291471872	2020-11-13 07:49:28	1226081200214814721	meandmaps	13	_	_
 1326507716387467264	2020-11-11 12:50:59	161364234	MerDe_Noms	11	_	_
 1323139800573104128	2020-11-02 05:48:05	30791287	MiaDP	01	_	_
-1323533607542116352	2020-11-03 07:52:56	2782755278	MichaelDorman84	03	_	"""""""Voronoi polygons of a regular grid"""" I'm going for simple designs with minimal investment :-)"""
+1323533607542116352	2020-11-03 07:52:56	2782755278	MichaelDorman84	03	_	Voronoi polygons of a regular grid. I'm going for simple designs with minimal investment :-)
 1324260059694682113	2020-11-05 07:59:36	2782755278	MichaelDorman84	05	_	_
 1322998308860669952	2020-11-01 20:25:51	1098200774990020610	mickaelmarchese	01	_	_
 1323298082684051458	2020-11-02 16:17:03	1098200774990020610	mickaelmarchese	02	_	_
@@ -2269,7 +2269,7 @@ tweet_id	date_posted	twitter_id	handle	Day	website	description
 1323166305852170240	2020-11-02 07:33:25	133541065	mr_ericgoodwin	01	_	_
 1323452799535886338	2020-11-03 02:31:50	133541065	mr_ericgoodwin	02	_	_
 1323762612182700033	2020-11-03 23:02:55	133541065	mr_ericgoodwin	03	_	_
-1324140549817905154	2020-11-05 00:04:43	133541065	mr_ericgoodwin	04	_	"""I first studied the """"Ring of Fire"""" in an intro college geography class, and decided to represent it in hexagons. Earthquakes: 1900-2017 HIFLD data (0-70km depth quakes). Basemap: OSM, Natural Earth Data coastlines"""
+1324140549817905154	2020-11-05 00:04:43	133541065	mr_ericgoodwin	04	_	I first studied the "Ring of Fire" in an intro college geography class, and decided to represent it in hexagons. Earthquakes: 1900-2017 HIFLD data (0-70km depth quakes). Basemap: OSM, Natural Earth Data coastlines
 1324478193374560259	2020-11-05 22:26:23	133541065	mr_ericgoodwin	05	_	_
 1325948871999107072	2020-11-09 23:50:20	133541065	mr_ericgoodwin	06	_	Day 6, 7, 8. I felt lazy and tired; alas a map is better than no map. Downtown Cincinnati in red(ish), blue, and yellow.
 1323622314949464065	2020-11-03 13:45:26	61612315	MrNSheehan	01	_	_
@@ -2390,18 +2390,18 @@ tweet_id	date_posted	twitter_id	handle	Day	website	description
 1323403859918684160	2020-11-02 23:17:22	73577090	nurussadad	03	_	_
 1324345854094831616	2020-11-05 13:40:31	73577090	nurussadad	04	_	_
 1322820957099094017	2020-11-01 08:41:07	801318008912232449	nwbort	01	https://cardioid.co.nz/30dmc/01/	Electricity generation capacity in Australia's National Electricity Market. Quite a bit of fossil fuel hanging around (but check out that wind in SA!)
-1323087589285326849	2020-11-02 02:20:37	801318008912232449	nwbort	02	_	_
-1323384044659224576	2020-11-02 21:58:38	801318008912232449	nwbort	03	_	_
-1323750863974789120	2020-11-03 22:16:14	801318008912232449	nwbort	04	_	_
-1324106262179577858	2020-11-04 21:48:28	801318008912232449	nwbort	05	_	_
-1324470294074040320	2020-11-05 21:55:00	801318008912232449	nwbort	06	_	_
+1323087589285326849	2020-11-02 02:20:37	801318008912232449	nwbort	02	https://cardioid.co.nz/30dmc/02/	_
+1323384044659224576	2020-11-02 21:58:38	801318008912232449	nwbort	03	https://cardioid.co.nz/30dmc/03/	_
+1323750863974789120	2020-11-03 22:16:14	801318008912232449	nwbort	04	https://cardioid.co.nz/30dmc/04/	_
+1324106262179577858	2020-11-04 21:48:28	801318008912232449	nwbort	05	https://cardioid.co.nz/30dmc/05/	_
+1324470294074040320	2020-11-05 21:55:00	801318008912232449	nwbort	06	https://cardioid.co.nz/30dmc/06/	_
 1324833786933112832	2020-11-06 21:59:23	801318008912232449	nwbort	07	https://cardioid.co.nz/30dmc/07/	_
 1325214447594450945	2020-11-07 23:12:00	801318008912232449	nwbort	08	https://cardioid.co.nz/30dmc/08/	_
-1325667817312514051	2020-11-09 05:13:32	801318008912232449	nwbort	09	_	_
-1325941174562029568	2020-11-09 23:19:45	801318008912232449	nwbort	10	_	_
-1326348502490775552	2020-11-11 02:18:20	801318008912232449	nwbort	11	_	_
-1326732945508368389	2020-11-12 03:45:58	801318008912232449	nwbort	12	_	_
-1327211330906988544	2020-11-13 11:26:54	801318008912232449	nwbort	13	_	_
+1325667817312514051	2020-11-09 05:13:32	801318008912232449	nwbort	09	https://cardioid.co.nz/30dmc/09/	_
+1325941174562029568	2020-11-09 23:19:45	801318008912232449	nwbort	10	https://cardioid.co.nz/30dmc/10/	_
+1326348502490775552	2020-11-11 02:18:20	801318008912232449	nwbort	11	https://cardioid.co.nz/30dmc/11/	_
+1326732945508368389	2020-11-12 03:45:58	801318008912232449	nwbort	12	https://cardioid.co.nz/30dmc/12/	_
+1327211330906988544	2020-11-13 11:26:54	801318008912232449	nwbort	13	https://cardioid.co.nz/30dmc/13/	_
 1322951245544435719	2020-11-01 17:18:50	442982795	odile_p	01	_	_
 1323287322201362432	2020-11-02 15:34:17	442982795	odile_p	02	_	_
 1323684994158649344	2020-11-03 17:54:30	442982795	odile_p	03	_	_
@@ -2648,7 +2648,7 @@ tweet_id	date_posted	twitter_id	handle	Day	website	description
 1322884728727490561	2020-11-01 12:54:31	733390000809730049	richard_vogg	01	_	_
 1323218341855715330	2020-11-02 11:00:11	733390000809730049	richard_vogg	02	_	_
 1323612990562848768	2020-11-03 13:08:23	733390000809730049	richard_vogg	03	_	_
-1323987192910327808	2020-11-04 13:55:19	733390000809730049	richard_vogg	04	_	"""""""Do you want a new Constitution?"""" - was one of the question asked in Chile's plebiscite last week. In the end almost 80% of the country voted """"Apruebo"""" - Yes! This map shows the results of the capital Santiago."""
+1323987192910327808	2020-11-04 13:55:19	733390000809730049	richard_vogg	04	_	"Do you want a new Constitution?" - was one of the question asked in Chile's plebiscite last week. In the end almost 80% of the country voted "Apruebo" - Yes! This map shows the results of the capital Santiago.
 1324317126161846274	2020-11-05 11:46:22	733390000809730049	richard_vogg	05	_	_
 1324703423846060033	2020-11-06 13:21:22	733390000809730049	richard_vogg	06	_	_
 1325037307846660096	2020-11-07 11:28:06	733390000809730049	richard_vogg	07	_	_

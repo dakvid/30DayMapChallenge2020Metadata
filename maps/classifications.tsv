@@ -2390,17 +2390,17 @@ nurussadad	02	_	_	_	_	_
 nurussadad	03	_	_	_	_	_
 nurussadad	04	_	_	_	_	_
 nwbort	01	Australia	_	_	interactive	R,Leaflet
-nwbort	02	_	_	_	_	_
-nwbort	03	_	_	_	_	_
-nwbort	04	_	_	_	_	_
-nwbort	05	_	_	_	_	_
+nwbort	02	Australia	Sydney	fitness	interactive	R,Leaflet
+nwbort	03	New Zealand	Auckland	transport	interactive	R,Leaflet
+nwbort	04	Australia	Sydney	entertainment	_	R,Leaflet
+nwbort	05	New Zealand	_	environment	_	R
 nwbort	06	New Zealand	Auckland	_	_	_
-nwbort	07	New Zealand	_	elections	_	_
-nwbort	08	New Zealand	_	elections	cartogram	_
-nwbort	09	_	_	_	_	_
-nwbort	10	_	_	_	_	_
-nwbort	11	_	_	_	_	_
-nwbort	12	_	_	_	_	_
+nwbort	07	New Zealand	_	elections	_	R,Leaflet
+nwbort	08	New Zealand	_	elections	cartogram	R,Leaflet
+nwbort	09	China	_	_	_	R
+nwbort	10	Australia	Sydney	population	_	R
+nwbort	11	Australia	Sydney	population	_	R,rayshader
+nwbort	12	_	_	_	_	LaTeX
 nwbort	13	_	_	_	_	_
 odile_p	01	_	_	_	_	_
 odile_p	02	_	_	_	_	_
@@ -3411,10 +3411,10 @@ zerbembasqwibo	02	_	_	_	_	_
 zerbembasqwibo	06	_	_	_	_	_
 zerbembasqwibo	07	_	_	_	_	_
 zerbembasqwibo	09	_	_	_	_	_
-zinnie__A	08	_	_	_	_	_
-zinnie__A	09	_	_	_	_	_
-zinnie__A	10	_	_	_	_	_
-zinnie__A	11	_	_	_	_	_
+zinnie__A	08	Nigeria	_	Economy	_	Arcgis pro, ArcGIS Online, ArcGIS Desktop
+zinnie__A	09	Africa	_	Transportation	_	ArcGIS Online
+zinnie__A	10	Africa	_	Climate	_	QGIS, ArcGIS Desktop
+zinnie__A	11	Nigeria	Obanliku, Calabar	Tourism	_	QGIS
 zinnie__A	12	Nigeria	Kaduna	transport	_	Powerpoint
 zinnie__A	13	_	_	_	_	_
 ZorzalErrante	02	_	_	_	_	_
