@@ -611,12 +611,12 @@ Camerongreen_96	09	_	_	_	_	_
 canonicalizedco	01	_	_	_	_	_
 canonicalizedco	02	_	_	_	_	_
 canonicalizedco	03	_	_	_	_	_
-carlbaker	05	_	_	_	_	_
-carlbaker	07	_	_	_	_	_
-carlbaker	08	_	_	_	_	_
-carlbaker	09	_	_	_	_	_
-carlbaker	10	_	_	_	_	_
-carlbaker	11	_	_	_	_	Aerialod
+carlbaker	05	UK	_	water	_	QGIS
+carlbaker	07	Slovakia	_	_	_	QGIS
+carlbaker	08	UK	_	land use	_	QGIS
+carlbaker	09	Uzbekistan	Tashkent	roads, mountains	_	QGIS
+carlbaker	10	UK	_	_	_	QGIS
+carlbaker	11	UK	_	_	_	Aerialod
 carlosrpz_	01	Mexico	Mexico City	_	_	QGIS
 carlosrpz_	02	_	_	_	_	_
 carlosrpz_	03	_	_	_	_	_
@@ -945,7 +945,7 @@ dic1991	11	_	_	_	_	_
 dic1991	12	_	_	_	_	_
 dickoah	01	_	_	_	_	R
 dickoah	02	_	_	_	_	_
-dickoah	03	_	_	_	_	R
+dickoah	03	Mali	_	_	_	R
 dickoah	04	_	_	_	_	R
 dickoah	05	_	_	_	_	R
 dickoah	06	_	_	_	_	R
@@ -2081,18 +2081,18 @@ kennethfield	14	USA	_	elections	_	_
 kennethfield	15	_	_	_	_	_
 kennethfield	16	_	_	_	_	_
 kermmartian	09	_	_	_	_	_
-kgjenkins	01	_	_	_	_	_
-kgjenkins	02	_	_	_	_	_
-kgjenkins	03	_	_	_	_	_
-kgjenkins	04	_	_	_	_	_
-kgjenkins	05	_	_	_	_	_
-kgjenkins	06	_	_	_	_	_
-kgjenkins	07	_	_	_	_	_
-kgjenkins	08	_	_	_	_	_
-kgjenkins	10	_	_	_	_	_
-kgjenkins	11	_	_	_	_	_
-kgjenkins	12	_	_	_	_	_
-kgjenkins	13	_	_	_	_	_
+kgjenkins	01	_	_	_	_	QGIS
+kgjenkins	02	_	_	_	_	QGIS
+kgjenkins	03	_	_	_	_	QGIS
+kgjenkins	04	_	_	_	_	QGIS
+kgjenkins	05	_	_	_	_	QGIS
+kgjenkins	06	_	_	_	_	QGIS
+kgjenkins	07	_	_	_	_	QGIS
+kgjenkins	08	_	_	_	_	QGIS
+kgjenkins	10	_	_	_	_	QGIS
+kgjenkins	11	_	_	_	_	QGIS
+kgjenkins	12	_	_	_	ASCII	Linux
+kgjenkins	13	_	_	_	_	QGIS
 kimmohaapakan	05	_	_	_	_	_
 kjsime	01	New Zealand	Auckland	_	_	ArcGIS
 kjsime	02	New Zealand	Auckland	_	_	_
@@ -2154,20 +2154,20 @@ kriksine	11	Latvia	Riga	_	_	_
 kriksine	12	Latvia,Estonia,Lithuania	_	population	animation	Excel
 kriksine	13	Latvia,Russia	_	_	_	_
 kriksine	14	Latvia	_	_	_	_
-ksituan	01	_	_	_	_	_
-ksituan	02	_	_	_	_	_
-ksituan	03	_	_	_	_	_
-ksituan	04	_	_	_	_	_
-ksituan	05	_	_	_	_	_
-ksituan	06	_	_	_	_	_
-ksituan	07	_	_	_	_	_
-ksituan	08	_	_	_	_	_
-ksituan	09	_	_	_	_	_
-ksituan	10	_	_	_	_	_
-ksituan	11	_	_	_	_	_
-ksituan	12	_	_	_	_	_
-ksituan	13	_	_	_	_	_
-ksituan	14	_	_	_	_	_
+ksituan	01	Canada	_	population	_	QGIS, Inkscape
+ksituan	02	Canada	_	population, railways	_	QGIS, Inkscape
+ksituan	03	Canada	_	culture	_	QGIS, Inkscape
+ksituan	04	Canada	_	population	_	QGIS, Inkscape
+ksituan	05	Canada	_	agriculture	_	QGIS, Inkscape
+ksituan	06	USA, Canada	_	geomorphology	_	QGIS, Inkscape
+ksituan	07	USA, Canada	_	economics	_	QGIS, Inkscape
+ksituan	08	Canada	_	agriculture	_	QGIS, Inkscape
+ksituan	09	Canada	Val Marie	_	_	QGIS, Inkscape
+ksituan	10	USA	_	_	_	QGIS, Inkscape
+ksituan	11	Canada	Val Marie	_	viewshed	QGIS, Inkscape
+ksituan	12	_	_	politics	Fictional	Inkscape
+ksituan	13	Canada	_	forestry	_	QGIS, Inkscape
+ksituan	14	Canada	Mackenzie County	_	_	QGIS, Inkscape
 ksituan	15	_	_	_	_	_
 Kulbinderdio	01	_	_	_	_	_
 Kulbinderdio	03	_	_	_	_	_
@@ -2721,20 +2721,20 @@ nwbort	10	Australia	Sydney	population	_	R
 nwbort	11	Australia	Sydney	population	_	R
 nwbort	12	_	_	_	_	LaTeX
 nwbort	13	_	_	_	_	_
-odile_p	01	_	_	_	_	_
-odile_p	02	_	_	_	_	_
-odile_p	03	_	_	_	_	_
-odile_p	04	_	_	_	_	_
-odile_p	05	_	_	_	_	_
-odile_p	06	_	_	_	_	_
-odile_p	07	_	_	_	_	_
-odile_p	08	_	_	_	_	_
-odile_p	09	_	_	_	_	_
-odile_p	10	_	_	_	_	_
-odile_p	11	_	_	_	_	_
-odile_p	12	_	_	_	_	_
-odile_p	13	_	_	_	_	_
-odile_p	14	_	_	_	_	_
+odile_p	01	France	Grenoble	_	_	Pen and paper
+odile_p	02	France	Grenoble	transport	_	Pen and paper
+odile_p	03	France	Grenoble	lockdown	_	Pen and paper
+odile_p	04	France	_	_	_	Pen and paper
+odile_p	05	United-States	Memphis, New Orleans	Blues music	_	Pen and paper
+odile_p	06	France	Grenoble	roofs		Pen and paper
+odile_p	07	France	Vercors	mountain	_	Pen and paper
+odile_p	08	France	Grenoble	transport	_	Pen and paper
+odile_p	09	France	Plateau d'Emparis	mountain	_	Pen and paper
+odile_p	10	France	Lachassagne	vineyard	_	Pen and paper
+odile_p	11	France	Grenoble	_	_	Pen and paper
+odile_p	12	France	_	meal	_	Pen and paper
+odile_p	13	France	Rouen	war	_	Pen and paper
+odile_p	14	Atlantic ocean	_	hurricane	_	Pen and paper
 odile_p	15	_	_	_	_	_
 odilon72	01	_	_	_	_	_
 odilon72	05	_	_	_	_	_
@@ -2779,17 +2779,17 @@ Peterincan	05	_	_	_	_	_
 Peterincan	06	_	_	_	_	_
 pheebely	01	Malaysia	_	population	_	QGIS
 pheebely	02	Singapore	_	transport	_	QGIS
-pheebely	03	Lebanon	Beirut	_	_	QGIS
-pheebely	04	USA	_	_	_	QGIS
+pheebely	03	Lebanon	Beirut	disaster	_	QGIS
+pheebely	04	USA	_	natural resources	_	QGIS
 pheebely	05	USA	_	elections	choropleth	QGIS
-pheebely	06	_	_	_	_	_
-pheebely	07	_	_	_	_	_
-pheebely	08	Thailand,Malaysia,Indonesia	_	_	_	_
-pheebely	09	_	_	_	_	_
-pheebely	10	_	_	_	_	_
-pheebely	11	_	_	_	_	QGIS
+pheebely	06	USA	_	elections	choropleth	QGIS
+pheebely	07	Malaysia	_	environment	raster	QGIS
+pheebely	08	Thailand,Malaysia,Indonesia	_	environment	_	QGIS
+pheebely	09	Japan	Tokyo	_	_	QGIS
+pheebely	10	USA	_	_	_	QGIS
+pheebely	11	Czech Republic	Prague	_	_	QGIS
 pheebely	12	_	_	_	_	_
-pheebely	13	_	_	_	_	_
+pheebely	13	USA	_	_	_	_
 pheebely	14	Iceland	_	_	_	_
 pheebely	15	_	_	_	_	_
 Phil_M_Barrett	02	_	_	_	_	_
@@ -3056,25 +3056,25 @@ robradburn	16	_	_	_	_	_
 rocasaja	01	_	_	_	_	_
 rocasaja	04	_	_	_	_	_
 rocasaja	05	_	_	_	_	_
-rocopley1	01	_	_	_	_	_
-rocopley1	02	_	_	_	_	_
-rocopley1	03	_	_	_	_	_
-rocopley1	04	_	_	_	_	_
-rocopley1	05	_	_	_	_	_
-rocopley1	06	_	_	_	_	_
-rocopley1	07	_	_	_	_	_
-rocopley1	08	_	_	_	_	_
-rocopley1	09	_	_	_	_	R
-rocopley1	10	_	_	_	_	_
-rocopley1	12	_	_	_	_	_
+rocopley1	01	Canada	Vancouver	_	_	_
+rocopley1	02	Canada	Vancouver	_	_	_
+rocopley1	03	Canada	Calgary	_	_	_
+rocopley1	04	Canada	Vancouver	_	_	_
+rocopley1	05	Canada	Vancouver	_	_	_
+rocopley1	06	Canada	Vancouver	_	_	_
+rocopley1	07	Canada	Vancouver	_	_	_
+rocopley1	08	Canada	Calgary	_	_	_
+rocopley1	09	Canada	Vancouver	_	_	R
+rocopley1	10	Canada	New Westminster	_	_	_
+rocopley1	12	Canada	Vancouver	_	_	_
 rocopley1	14	_	_	_	_	_
 rocopley1	15	_	_	_	_	_
 rod_ferrao	01	_	_	_	_	_
 rod_ferrao	02	_	_	_	_	QGIS
 rod_ferrao	03	_	_	_	_	QGIS
 rod_ferrao	04	_	_	_	_	_
-ron_halliday	01	_	_	_	_	_
-ron_halliday	02	_	_	_	_	_
+ron_halliday	01	Peru	Lima	_	_	_
+ron_halliday	02	Brazil	_	_	_	_
 ron_halliday	03	_	_	_	_	_
 ron_halliday	04	_	_	_	_	_
 ron_halliday	05	_	_	_	_	_
@@ -3087,7 +3087,7 @@ rorich	02	_	_	_	_	R
 rorich	03	_	_	_	_	R
 rorich	04	_	_	_	_	R
 rorich	05	_	_	_	_	R
-rorich	06	_	_	_	_	_
+rorich	06	USA	_	_	choropleth	_
 rorich	07	_	_	_	_	R
 rorich	08	_	_	_	_	ArcGIS
 rorich	09	_	_	_	_	R
@@ -3099,19 +3099,19 @@ rsfrankl	12	_	_	_	_	_
 saabrs	02	_	_	_	_	_
 Saadbarca8	01	_	_	_	_	_
 Sahilkidd	02	_	_	_	_	_
-Saint_GIS	01	_	_	_	_	_
-Saint_GIS	02	_	_	_	_	_
-Saint_GIS	03	_	_	_	_	_
-Saint_GIS	04	_	_	_	_	_
-Saint_GIS	05	_	_	_	_	_
-Saint_GIS	06	_	_	_	_	_
-Saint_GIS	07	_	_	_	_	_
-Saint_GIS	08	_	_	_	_	_
-Saint_GIS	09	_	_	_	_	_
-Saint_GIS	10	_	_	_	_	_
-Saint_GIS	11	_	_	_	_	_
-Saint_GIS	12	_	_	_	_	_
-Saint_GIS	13	_	_	_	_	_
+Saint_GIS	01	India	_	_	_	_
+Saint_GIS	02	India	_	_	_	_
+Saint_GIS	03	India	_	_	_	_
+Saint_GIS	04	India	_	_	_	_
+Saint_GIS	05	India	_	_	_	_
+Saint_GIS	06	India	_	_	_	_
+Saint_GIS	07	India	_	_	_	_
+Saint_GIS	08	India	_	_	_	_
+Saint_GIS	09	India	_	_	_	_
+Saint_GIS	10	India	_	_	_	_
+Saint_GIS	11	India	_	_	_	_
+Saint_GIS	12	India	_	_	_	_
+Saint_GIS	13	India	_	_	_	_
 Saint_GIS	14	_	_	_	_	_
 Saint_GIS	15	_	_	_	_	_
 Saint_GIS	16	_	_	_	_	_
@@ -3441,8 +3441,8 @@ tgsousa_	13	_	_	_	_	_
 tgsousa_	14	_	_	_	_	_
 tgsousa_	15	_	_	_	_	_
 thecfelix	01	_	_	_	_	_
-TheGISGirl	05	_	_	_	_	_
-TheGISGirl	06	_	_	_	_	_
+TheGISGirl	05	World	_	showing distribution of Christianity in the world	_	_
+TheGISGirl	06	Africa	_	historic and present distribution of lions in Africa	_	_
 thekuhugupta	01	_	_	_	_	_
 thekuhugupta	02	_	_	_	_	_
 thekuhugupta	03	_	_	_	_	_
@@ -3625,8 +3625,8 @@ undertheraedar	11	_	_	_	_	_
 undertheraedar	12	World	_	population	_	Excel
 UT_moblab	01	_	_	_	_	_
 UT_moblab	02	_	_	_	_	_
-UT_moblab	03	_	_	_	_	_
-UT_moblab	04	_	_	_	_	_
+UT_moblab	03	Estonia	_	_	_	_
+UT_moblab	04	Estonia	_	_	_	_
 UT_moblab	05	_	_	_	_	_
 UT_moblab	06	_	_	_	_	_
 UT_moblab	07	_	_	_	_	_
