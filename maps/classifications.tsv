@@ -234,6 +234,7 @@ allixender	12	_	_	_	_	_
 allixender	13	_	_	_	_	Python
 allixender	16	_	_	_	_	Python
 allixender	20	_	_	_	_	Python
+allixender	21	_	_	_	_	_
 allyoucanmap	01	_	_	_	_	_
 Almuziel_Sara	17	_	_	_	_	_
 alnpierre	01	_	_	_	_	_
@@ -306,7 +307,7 @@ andrewdc_nz	17	New Zealand	Christchurch	_	_	_
 andrewdc_nz	18	New Zealand	_	_	_	_
 andrewdc_nz	19	World	_	_	uncommon projections	_
 andrewdc_nz	20	New Zealand	_	_	_	_
-andrewdc_nz	21	_	_	_	_	_
+andrewdc_nz	21	New Zealand	_	_	_	_
 AndrewRenninger	01	USA	_	_	_	_
 AndrewRenninger	02	Australia,Canada,Chile,Czech Republic,Finland,France,Germany,Greece,Ireland,Italy,Luxembourg,Portugal,UK,USA	Adelaide,Antofagasta,Athens,Belfast,Berlin,Bordeaux,Brisbane,Canberra,Detroit,Dublin,Grenoble,Helsinki,Kuopio,Lisbon,Luxembourg,Melbourne,Nantes,Palermo,Paris,Prague,Rennes,Rome,Sydney,Toulouse,Turku,Venice,Winnipeg	transport	animation	_
 AndrewRenninger	03	World	_	_	_	_
@@ -374,6 +375,7 @@ AntoninBorgnon	15	_	_	_	_	_
 antoniolocandro	01	_	_	_	_	Leaflet
 antoniolocandro	02	_	_	_	_	_
 antoniolocandro	03	Honduras	_	_	_	_
+aptx4869yuyang	10	USA	_	elections	cartogram	Tableau
 Arash_Hajikhani	12	_	_	_	_	_
 areacartografia	01	_	_	_	_	_
 areacartografia	02	_	_	_	_	_
@@ -460,6 +462,7 @@ Artisans_Cartos	12	_	_	_	_	_
 Artisans_Cartos	16	_	_	_	_	_
 Artisans_Cartos	18	_	_	_	_	_
 Artisans_Cartos	19	_	_	_	_	ArcGIS
+Artisans_Cartos	21	_	_	_	_	_
 ArunVishwanat10	08	_	_	_	_	QGIS
 ArunVishwanat10	09	_	_	_	_	QGIS
 asc_miriam	01	_	_	_	_	_
@@ -858,6 +861,7 @@ CaRobson	17	_	_	_	_	_
 CaRobson	18	_	_	_	_	_
 CaRobson	19	_	_	_	_	_
 CaRobson	20	_	_	_	_	_
+CaRobson	21	_	_	_	_	_
 caroline_msgu	03	_	_	_	_	_
 carolpos	01	_	_	_	_	_
 carolpos	02	_	_	_	_	_
@@ -920,6 +924,7 @@ Cchurchili	17	_	_	_	_	_
 Cchurchili	18	_	_	_	_	_
 Cchurchili	19	_	_	_	_	_
 Cchurchili	20	_	_	_	_	_
+Cchurchili	21	_	_	_	_	_
 cedricr	16	_	_	_	_	_
 ceren_do	17	_	_	_	_	_
 chartbearx	20	_	_	_	_	Python
@@ -995,12 +1000,12 @@ cmhc23	01	_	_	_	_	_
 cmhc23	02	_	_	_	_	_
 cmhc23	03	Oceania	_	_	_	_
 cmhc23	04	_	_	_	_	QGIS
-cmjonestodd	02	_	_	_	_	_
+cmjonestodd	02	New Zealand	_	_	_	_
 cmjonestodd	03	New Zealand	_	_	_	_
-cmjonestodd	06	_	_	_	_	_
+cmjonestodd	06	New Zealand	_	_	_	_
 cmjonestodd	10	New Zealand	_	_	_	_
 cmjonestodd	13	New Zealand	_	_	_	_
-cmjonestodd	15	_	_	_	_	_
+cmjonestodd	15	World	_	_	_	_
 cmjonestodd	18	New Zealand	_	_	_	_
 cn174	12	_	_	_	_	_
 cobi_it	12	Mexico	_	_	_	Processing
@@ -1160,6 +1165,7 @@ darwinanddavis	10	_	_	_	_	R
 darwinanddavis	11	_	_	_	_	R,Mapbox
 darwinanddavis	14	_	_	_	_	R
 darwinanddavis	16	_	_	_	_	R
+dasklaerwerk	21	_	_	_	_	_
 Data_Wax	02	Senegal	Dakar	_	_	QGIS
 Data_Wax	12	_	_	_	_	_
 dataisawesomeo	01	_	_	_	_	_
@@ -1195,6 +1201,7 @@ david_leather	15	_	_	_	_	_
 david_leather	18	_	_	_	_	_
 david_leather	19	_	_	_	_	_
 david_leather	20	_	_	_	_	_
+david_leather	21	_	_	_	_	_
 davidia_antiqua	06	_	_	_	_	_
 DavidNg96191301	01	_	_	_	_	_
 DavidNg96191301	02	_	_	_	_	_
@@ -1227,6 +1234,7 @@ deboleenam5	05	_	_	_	_	QGIS
 DenitzaV	04	_	_	_	_	QGIS
 DenitzaV	07	_	_	_	_	_
 DenitzaV	10	_	_	_	_	QGIS
+DenitzaV	12	_	_	_	_	_
 dgplacenames	01	_	_	_	_	QGIS
 dgplacenames	02	_	_	_	_	QGIS
 dgplacenames	03	_	_	_	_	QGIS
@@ -1247,6 +1255,7 @@ dgplacenames	17	_	_	_	_	QGIS
 dgplacenames	18	_	_	_	_	QGIS
 dgplacenames	19	_	_	_	_	_
 dgplacenames	20	_	_	_	_	QGIS
+dgplacenames	21	_	_	_	_	_
 Di_dyne	01	_	_	_	_	_
 Di_dyne	02	_	_	_	_	QGIS
 Di_dyne	03	_	_	_	_	_
@@ -1428,6 +1437,7 @@ Edgards04	03	_	_	_	_	_
 Edgards04	05	_	_	_	_	_
 Edgards04	07	_	_	_	_	_
 EFisherWX	08	_	_	_	_	_
+EFisherWX	21	_	_	_	_	_
 egrabska	16	_	_	_	_	ArcGIS
 ehab_hessy	01	_	_	_	_	_
 ehab_hessy	02	_	_	_	_	_
@@ -1733,10 +1743,11 @@ gartn001	16	_	_	_	_	_
 gartn001	17	_	_	_	_	_
 gartn001	18	_	_	_	_	_
 gartn001	20	_	_	_	_	_
+gconant	13	_	_	_	_	_
 Generally_Geo	01	New Zealand	_	animals	_	QGIS,Inkscape
 Generally_Geo	03	_	_	_	_	QGIS,Inkscape
-Generally_Geo	04	_	_	_	_	QGIS,Inkscape
-Generally_Geo	11	_	_	_	_	QGIS,Inkscape
+Generally_Geo	04	New Zealand	_	elections	cartogram	QGIS,Inkscape
+Generally_Geo	11	New Zealand	_	_	_	QGIS,Inkscape
 Geo__Don	01	USA	_	_	_	Google Maps
 Geo__Nerd__Rish	01	_	_	_	_	_
 Geo__Nerd__Rish	02	_	_	_	_	QGIS
@@ -1769,6 +1780,7 @@ geo_alyaqout	17	_	_	_	_	QGIS
 geo_alyaqout	18	_	_	_	_	QGIS
 geo_alyaqout	19	_	_	_	_	QGIS
 geo_alyaqout	20	Kuwait	_	population	choropleth	QGIS,Blender
+geo_alyaqout	21	_	_	_	_	_
 geo_brady	01	_	_	_	_	_
 geo_brady	02	_	_	_	_	_
 geo_brady	07	_	_	_	_	_
@@ -1824,6 +1836,7 @@ geodatascience	17	_	_	_	_	_
 geodatascience	18	_	_	_	_	R
 geodatascience	19	_	_	_	_	_
 geodatascience	20	_	_	_	_	_
+geodatascience	21	_	_	_	_	_
 GeoDave5280	01	_	_	_	_	_
 GeoDave5280	02	_	_	_	_	_
 GeoDave5280	03	_	_	_	_	_
@@ -1832,14 +1845,14 @@ GeoDave5280	17	_	_	_	_	_
 GeogDave	12	_	_	_	_	_
 geogoeroe	01	_	_	_	_	QGIS
 geograph_bi	01	_	_	_	_	_
-GeogWillJ	10	_	_	_	_	_
+GeogWillJ	10	Africa	_	_	_	_
 GeogWillJ	11	New Zealand	_	_	_	_
 GeogWillJ	12	New Zealand	_	_	_	_
-GeogWillJ	13	_	_	_	_	_
-GeogWillJ	14	_	_	_	_	_
-GeogWillJ	17	_	_	_	_	_
+GeogWillJ	13	Iceland	_	_	_	_
+GeogWillJ	14	Africa	_	_	_	_
+GeogWillJ	17	New Zealand	_	_	_	_
 GeogWillJ	20	_	_	_	_	_
-GeogWillJ	21	_	_	_	_	_
+GeogWillJ	21	New Zealand	_	_	_	_
 GeoJonna	03	_	_	_	_	QGIS
 GeoJonna	05	_	_	_	_	_
 GeoJonna	09	_	_	_	_	_
@@ -1945,15 +1958,15 @@ GeospatialJ	17	_	_	_	_	_
 GeospatialJ	18	_	_	_	_	_
 GeospatialJ	19	_	_	_	_	_
 geotologist	01	New Zealand	_	population	_	QGIS
-geotologist	02	_	_	_	_	QGIS
+geotologist	02	Niue	_	_	_	QGIS
 geotologist	03	New Zealand	_	_	_	_
 geotologist	04	New Zealand	_	_	_	_
 geotologist	05	New Zealand	_	_	_	_
 geotologist	06	New Zealand	_	_	_	_
 geotologist	07	New Zealand	_	_	_	_
-geotologist	09	_	_	_	_	_
+geotologist	09	New Zealand	_	_	_	_
 geotologist	12	UK	_	_	_	pen and paper
-geotologist	13	_	_	_	_	_
+geotologist	13	New Zealand	_	_	_	_
 GeotoZee	01	_	_	_	_	_
 GeotoZee	02	_	_	_	_	_
 GeotoZee	03	_	_	_	_	_
@@ -2062,6 +2075,7 @@ helenmakesmaps	16	_	_	_	_	QGIS
 helenmakesmaps	17	_	_	_	_	_
 helenmakesmaps	18	_	_	_	_	QGIS
 helenmakesmaps	19	_	_	_	_	QGIS
+helenmakesmaps	20	UK	_	_	_	_
 helenmakesmaps	21	_	_	_	_	_
 Helenmckmck	01	_	_	_	_	QGIS
 Helenmckmck	02	_	_	_	_	QGIS
@@ -2132,6 +2146,7 @@ hireuter	17	_	_	_	_	_
 hireuter	18	Europe	_	_	_	_
 hireuter	19	_	_	_	_	_
 hireuter	20	_	_	_	_	_
+hireuter	21	_	_	_	_	_
 HlneDuval2	17	_	_	_	_	_
 HudaBader7	01	_	_	_	_	_
 HudaBader7	02	_	_	_	_	_
@@ -2139,34 +2154,34 @@ HudaBader7	03	_	_	_	_	_
 HudaBader7	04	Palestine	_	_	_	_
 hughagraham	11	_	_	_	_	R
 hurricanevicky	01	USA	Washington DC	elections	_	_
-hurricanevicky	02	_	_	_	_	_
-hurricanevicky	03	_	_	_	_	_
-hurricanevicky	04	_	_	_	_	_
-hurricanevicky	05	_	_	_	_	_
-hurricanevicky	06	_	_	_	_	_
+hurricanevicky	02	Central America	_	_	_	_
+hurricanevicky	03	USA	_	_	_	_
+hurricanevicky	04	France	_	_	_	_
+hurricanevicky	05	World	_	_	_	_
+hurricanevicky	06	USA	Washington DC	_	_	_
 hurricanevicky	07	New Zealand	_	animals	_	_
-hurricanevicky	08	_	_	_	_	_
+hurricanevicky	08	Germany	Berlin	_	_	_
 hurricanevicky	09	_	_	_	_	_
-hurricanevicky	10	_	_	_	_	_
+hurricanevicky	10	USA	_	_	_	_
 hurricanevicky	11	_	_	_	_	Aerialod
-hurricanevicky	12	_	_	_	_	_
+hurricanevicky	12	_	_	_	_	physical objects
 hurricanevicky	13	_	_	_	_	_
-hurricanevicky	14	_	_	_	_	_
-hurricanevicky	15	_	_	_	_	_
-hurricanevicky	16	_	_	_	_	_
-hurricanevicky	17	_	_	_	_	_
-hurricanevicky	18	_	_	_	_	_
-hurricanevicky	19	_	_	_	_	_
-hurricanevicky	20	_	_	_	_	_
+hurricanevicky	14	USA	_	_	_	_
+hurricanevicky	15	USA	_	_	_	_
+hurricanevicky	16	USA	_	_	_	_
+hurricanevicky	17	World	_	_	_	_
+hurricanevicky	18	USA	Washington DC	_	_	_
+hurricanevicky	19	USA	Washington DC	_	_	_
+hurricanevicky	20	Poland	_	_	_	_
 iamericfletcher	03	USA	_	_	_	R
 iamSimon_A	01	New Zealand	_	_	_	_
-iamSimon_A	02	_	_	_	_	_
-iamSimon_A	03	_	_	_	_	_
-iamSimon_A	04	_	_	_	_	_
+iamSimon_A	02	North America,Central America,South America	_	_	_	_
+iamSimon_A	03	New Zealand	_	_	_	_
+iamSimon_A	04	New Zealand	_	_	_	_
 iamSimon_A	05	New Zealand	Dunedin	_	_	_
 iamSimon_A	06	New Zealand	_	_	joyplot	_
-iamSimon_A	07	_	_	_	_	_
-iamSimon_A	08	_	_	_	_	_
+iamSimon_A	07	New Zealand	_	_	_	_
+iamSimon_A	08	France	Paris	_	_	_
 iamSimon_A	10	New Zealand	_	transport	_	_
 iamSimon_A	12	New Zealand	_	_	_	_
 iamwfx	01	_	_	_	_	_
@@ -2234,6 +2249,7 @@ ijturton	15	_	_	_	_	QGIS
 ijturton	16	_	_	_	_	QGIS
 ijturton	17	_	_	_	_	QGIS
 ijturton	19	_	_	_	_	QGIS
+ijturton	21	_	_	_	_	_
 IKEDA_02	01	_	_	_	_	_
 IKEDA_02	02	_	_	_	_	_
 IKEDA_02	03	_	_	_	_	_
@@ -2254,6 +2270,7 @@ IKEDA_02	17	_	_	_	_	_
 IKEDA_02	18	_	_	_	_	_
 IKEDA_02	19	_	_	_	_	_
 IKEDA_02	20	_	_	_	_	_
+IKEDA_02	21	_	_	_	_	_
 ilarischeinin	16	_	_	_	_	R
 ilianitev	01	_	_	_	_	_
 ilyabo	07	_	_	_	_	_
@@ -2277,6 +2294,7 @@ ilyankou	17	_	_	_	_	_
 ilyankou	18	_	_	_	_	QGIS
 ilyankou	19	_	_	_	_	_
 ilyankou	20	_	_	_	_	QGIS
+ilyankou	21	_	_	_	_	_
 imDebanjan	01	_	_	_	_	_
 imDebanjan	02	_	_	_	_	_
 imDebanjan	03	_	_	_	_	ArcGIS
@@ -2301,6 +2319,7 @@ iMohamedlil	16	_	_	_	_	_
 iMohamedlil	17	_	_	_	_	_
 iMohamedlil	18	_	_	_	_	_
 iMohamedlil	19	_	_	_	_	_
+iMohamedlil	21	_	_	_	_	_
 ImperiiaProject	09	_	_	_	_	_
 inari_ta	01	Europe	_	_	_	OpenStreetMap,QGIS
 inari_ta	02	_	_	_	_	QGIS
@@ -2323,6 +2342,7 @@ isabelnthomas	03	_	_	_	_	_
 It_me_Greg	06	_	_	_	_	_
 It_me_Greg	07	_	_	_	_	_
 ItsSifa	11	_	_	_	_	ArcGIS
+ivanziogeo	21	_	_	_	_	_
 ivelasq3	01	_	_	_	_	R
 iwengraf	01	_	_	_	_	_
 iwengraf	02	_	_	_	_	_
@@ -2374,6 +2394,7 @@ jakub_nowosad	04	_	_	_	_	R
 jakub_nowosad	06	_	_	_	_	R
 jakub_nowosad	07	_	_	_	_	R
 jallejulle	11	_	_	_	_	three.js
+JamesFiord	09	_	_	_	_	_
 JamesFiord	16	_	_	_	_	_
 JamesGABrown	01	_	_	_	_	_
 JamesGABrown	02	_	_	_	_	_
@@ -2542,6 +2563,7 @@ JoeWDavies	17	_	_	_	_	_
 JoeWDavies	18	_	_	_	_	_
 JoeWDavies	19	UK	_	transport	_	Kepler.gl,OpenStreetMap
 JoeWDavies	20	_	_	_	_	_
+JoeWDavies	21	_	_	_	_	_
 JoFMolano	01	_	_	_	_	_
 JoFMolano	02	_	_	_	_	_
 JoFMolano	03	_	_	_	_	_
@@ -2571,10 +2593,12 @@ JonasStillhard	19	_	_	_	_	R
 JonasStillhard	20	_	_	_	_	R
 JonasStillhard	21	_	_	_	_	_
 jonni_walker	11	_	_	_	_	Mapbox
+jonni_walker	21	_	_	_	_	_
 JonoPatterson	17	_	_	_	_	Aerialod
 JonoPatterson	18	_	_	_	_	_
 JonoPatterson	19	_	_	_	_	_
 JonoPatterson	20	UK	_	population	_	Aerialod
+JonoPatterson	21	_	_	_	_	_
 jorandradefig	01	_	_	_	_	_
 jorandradefig	02	_	_	_	_	_
 JoseFMolano	01	_	_	_	_	_
@@ -2603,6 +2627,7 @@ JPeterPeters	05	_	_	_	_	ArcGIS
 JPeterPeters	10	_	_	_	_	ArcGIS
 JPeterPeters	13	_	_	_	_	ArcGIS
 JPeterPeters	17	_	_	_	_	_
+JPeterPeters	21	_	_	_	_	_
 jstnbraaten	01	_	_	_	_	_
 jstnbraaten	02	_	_	_	_	_
 jstnbraaten	03	_	_	_	_	_
@@ -2623,6 +2648,7 @@ jstnbraaten	18	_	_	_	_	_
 jstnbraaten	20	_	_	_	_	_
 JuanEstellerR	01	_	_	_	_	_
 JuanEstellerR	04	_	_	_	_	_
+JuanEstellerR	21	_	_	_	_	_
 Juanizio_C	01	Chile	_	_	_	_
 Juanizio_C	02	Chile	_	_	_	_
 Juanizio_C	03	_	_	_	_	_
@@ -2848,25 +2874,25 @@ kimmohaapakan	05	_	_	_	_	_
 kinotus	21	_	_	_	_	_
 kjsime	01	New Zealand	Auckland	_	_	ArcGIS
 kjsime	02	New Zealand	Auckland	_	_	ArcGIS
-kjsime	03	_	_	_	_	ArcGIS
-kjsime	04	_	_	_	_	ArcGIS
+kjsime	03	New Zealand	Auckland	_	_	ArcGIS
+kjsime	04	New Zealand	Auckland	_	_	ArcGIS
 kjsime	05	New Zealand	Auckland	_	_	ArcGIS
 kjsime	06	New Zealand	Auckland	_	_	ArcGIS
-kjsime	07	_	_	_	_	ArcGIS
+kjsime	07	New Zealand	Auckland	_	_	ArcGIS
 kjsime	08	New Zealand	_	_	_	_
 kjsime	09	New Zealand	_	_	_	ArcGIS
 kjsime	10	New Zealand	_	_	_	ArcGIS
 kjsime	11	New Zealand	Auckland	animals	_	ArcGIS
 kjsime	12	New Zealand	Auckland	_	_	physical objects
 kjsime	13	New Zealand	Auckland	_	_	_
-kjsime	14	_	_	_	_	_
-kjsime	15	_	_	_	_	ArcGIS
-kjsime	16	_	_	_	_	_
+kjsime	14	World	_	_	_	_
+kjsime	15	New Zealand	Auckland	_	_	ArcGIS
+kjsime	16	New Zealand	Auckland	_	_	_
 kjsime	17	New Zealand	Auckland	_	_	ArcGIS
 kjsime	18	New Zealand	Auckland	transport	_	_
 kjsime	19	_	_	_	_	ArcGIS
 kjsime	20	New Zealand	Auckland	_	joyplot	ArcGIS
-kjsime	21	_	_	_	_	_
+kjsime	21	New Zealand	_	_	_	_
 kkakey_	01	_	_	_	_	_
 kkakey_	02	_	_	_	_	_
 klaskarlsson	07	World	_	_	_	_
@@ -2993,6 +3019,7 @@ LandEthics	16	_	_	_	_	_
 LandEthics	18	_	_	_	_	_
 LandEthics	19	_	_	_	_	_
 LandEthics	20	_	_	_	_	_
+LandEthics	21	_	_	_	_	_
 laurentgontier	11	_	_	_	_	_
 laurentgontier	16	_	_	_	_	_
 laurentgontier	17	_	_	_	_	_
@@ -3109,6 +3136,7 @@ m_dizayee	04	Iraq	Erbil	_	_	_
 m_dizayee	05	Iraq	_	_	_	_
 m_michalko	02	_	_	_	_	QGIS
 maartenzam	20	_	_	_	_	_
+maartenzam	21	_	_	_	_	_
 MaedhbhLikeDave	01	Ireland	Dublin	transport	_	_
 MaedhbhLikeDave	02	Ireland	_	transport	_	_
 MaedhbhLikeDave	03	_	_	_	_	QGIS
@@ -3137,6 +3165,7 @@ MaelleAMM	17	_	_	_	_	_
 MaelleAMM	18	_	_	_	_	_
 MaelleAMM	19	_	_	_	_	_
 MaelleAMM	20	_	_	_	_	_
+MaelleAMM	21	_	_	_	_	_
 MAHESHK92842090	01	_	_	_	_	_
 MAHESHK92842090	02	_	_	_	_	_
 MAHESHK92842090	03	_	_	_	_	_
@@ -3151,6 +3180,7 @@ MAHESHK92842090	12	_	_	_	_	_
 MAHESHK92842090	13	_	_	_	_	_
 MAHESHK92842090	16	_	_	_	_	QGIS
 MAHESHK92842090	18	_	_	_	_	QGIS
+Makeo88	21	Australia	Melbourne	_	animation	R
 ManAboutCouch	01	_	_	_	_	_
 ManAboutCouch	03	_	_	_	_	_
 manuelabebe	03	_	_	_	_	QGIS
@@ -3165,7 +3195,7 @@ mapbliss	05	_	_	_	_	_
 MapHustle	01	New Zealand	_	_	_	_
 MapHustle	11	New Zealand	Wellington	_	_	Aerialod
 MapHustle	15	New Zealand	Wellington	earthquakes	_	_
-mapmakerdavid	16	_	_	_	_	_
+mapmakerdavid	16	Oceania	_	_	from memory	physical objects
 MapMakinMeyers	01	_	_	_	_	_
 MapNav_Tom	05	_	_	_	_	QGIS
 MapNav_Tom	06	_	_	_	_	QGIS
@@ -3217,6 +3247,7 @@ mapsbyp	13	_	_	_	_	_
 mapsbyp	16	_	_	_	_	QGIS
 mapsbyp	17	_	_	_	_	_
 mapsbyp	20	_	_	_	_	Aerialod
+mapsbyp	21	_	_	_	_	_
 MapStorms	01	_	_	_	_	_
 MapStorms	02	Netherlands	Amsterdam	_	_	_
 MapStorms	03	_	_	_	_	_
@@ -3373,6 +3404,7 @@ MikeMahoney218	17	_	_	_	_	_
 MikeMahoney218	18	_	_	_	_	QGIS
 MikeMahoney218	19	_	_	_	_	R
 MikeMahoney218	20	_	_	_	_	R
+MikeMahoney218	21	_	_	_	_	_
 mikusthetiger	05	_	_	_	_	QGIS
 mildthing99	03	_	_	_	_	_
 mildthing99	08	_	_	_	_	ArcGIS
@@ -3389,6 +3421,7 @@ MindOverMagma	03	USA	_	volcanoes	animation	ArcGIS
 MindOverMagma	06	_	_	_	_	ArcGIS
 MindOverMagma	07	_	_	_	_	_
 MindOverMagma	09	_	_	_	_	_
+MindOverMagma	12	_	_	_	_	_
 MindOverMagma	13	_	_	_	_	_
 MiniMapMakers	01	_	_	_	_	_
 MiniMapMakers	02	_	_	_	_	_
@@ -3554,11 +3587,13 @@ Neil_py_harris	17	_	_	_	_	_
 Neil_py_harris	18	_	_	_	_	_
 Neil_py_harris	19	_	_	_	_	_
 Neil_py_harris	20	_	_	_	_	_
+Neil_py_harris	21	_	_	_	_	_
 neilcfd1	03	_	_	_	_	Python
 neilcfd1	11	_	_	_	_	Kepler.gl
 neilcfd1	15	_	_	_	_	Python
 neilcfd1	16	_	_	_	_	R
 neilcfd1	17	_	_	_	_	Python
+neilcfd1	21	_	_	_	_	_
 neilcharles_uk	01	_	_	_	_	_
 neilcharles_uk	02	_	_	_	_	QGIS
 neilcharles_uk	03	_	_	_	_	_
@@ -3717,6 +3752,7 @@ OrdnanceSurvey	17	_	_	_	_	_
 OrdnanceSurvey	18	_	_	_	_	_
 OrdnanceSurvey	19	_	_	_	_	_
 OrdnanceSurvey	20	_	_	_	_	_
+OrdnanceSurvey	21	_	_	_	_	_
 OttoKannisto	16	_	_	_	_	_
 OudrySophie	03	_	_	_	_	QGIS
 owenjpowell	01	_	_	_	_	_
@@ -4111,6 +4147,7 @@ RLShelmerdine	17	_	_	_	_	_
 RLShelmerdine	18	_	_	_	_	_
 RLShelmerdine	19	_	_	_	_	_
 RLShelmerdine	20	_	_	_	_	_
+RLShelmerdine	21	_	_	_	_	_
 RMappers	03	Uganda	Kampala	_	_	_
 RobertPazur	02	_	_	_	_	_
 robradburn	01	_	_	_	_	_
@@ -4354,6 +4391,7 @@ SDGeoGirl	08	_	_	_	_	_
 SDGeoGirl	09	_	_	_	_	_
 SDGeoGirl	14	_	_	_	_	_
 SDGeoGirl	15	_	_	_	_	_
+SDGeoGirl	21	_	_	_	_	_
 SeanGorman	11	_	_	_	_	_
 SeanGorman	15	_	_	_	_	_
 seateazen	01	Philippines	_	_	_	_
@@ -4469,10 +4507,10 @@ SmithGIS	18	_	_	_	_	_
 somethinsfischy	20	_	_	_	_	_
 SouthArrowMaps	01	New Zealand	Christchurch	_	_	ArcGIS,Photoshop
 SouthArrowMaps	02	New Zealand	Christchurch	transport	animation	Blender
-SouthArrowMaps	03	_	_	_	_	_
+SouthArrowMaps	03	New Zealand	_	_	_	_
 SouthArrowMaps	07	New Zealand	Christchurch	_	_	_
 SouthArrowMaps	12	New Zealand	_	_	_	_
-SouthArrowMaps	19	_	_	_	_	_
+SouthArrowMaps	19	New Zealand	_	404	_	_
 southmapr	12	_	_	_	_	_
 southmapr	19	_	_	_	_	_
 spardosanchez	01	_	_	_	_	_
@@ -4666,7 +4704,7 @@ Thoughtfulnz	07	New Zealand	_	elections	_	_
 Thoughtfulnz	08	New Zealand	_	elections	_	_
 Thoughtfulnz	09	New Zealand	_	elections	small multiples	_
 Thoughtfulnz	19	New Zealand	_	elections	small multiples	_
-Thoughtfulnz	21	_	_	_	_	_
+Thoughtfulnz	21	Oceania	_	administrative boundaries	_	_
 timbertopper400	01	_	_	_	_	_
 timbertopper400	02	_	_	_	_	_
 timbertopper400	03	_	_	_	_	_
@@ -4941,6 +4979,7 @@ Valtzen	01	_	_	_	_	_
 Valtzen	03	_	_	_	_	_
 Valtzen	05	_	_	_	_	QGIS
 Valtzen	16	_	_	_	_	Aerialod
+Valtzen	21	New Zealand	_	_	_	_
 vanhorssenpeter	14	_	_	_	_	R
 vanhorssenpeter	19	Netherlands	_	population	_	R
 varaktor	01	_	_	_	_	_
@@ -5103,6 +5142,7 @@ whiterabbit_sci	18	_	_	_	_	_
 whiterabbit_sci	19	_	_	_	_	_
 whiterabbit_sci	20	_	_	_	_	_
 whiterabbit_sci	21	_	_	_	_	_
+WillRay3	21	_	_	_	_	_
 wndieps	07	_	_	_	_	_
 WoutervD	05	_	_	_	_	_
 x_y_es	01	Spain	Canary Islands	_	_	three.js
@@ -5200,7 +5240,8 @@ zentree	17	New Zealand	Christchurch	_	_	QGIS
 zentree	18	New Zealand	_	_	_	QGIS
 zentree	19	New Zealand	_	_	_	QGIS
 zentree	20	New Zealand	Christchurch	population,earthquakes	_	QGIS
-zentree	21	_	_	_	_	_
+zentree	21	New Zealand	_	_	_	_
+zentree	22	New Zealand	_	earthquakes	_	QGIS
 zerbembasqwibo	01	_	_	_	_	_
 zerbembasqwibo	02	_	_	_	_	_
 zerbembasqwibo	06	_	_	_	_	_
