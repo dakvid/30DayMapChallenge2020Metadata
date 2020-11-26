@@ -91,20 +91,20 @@ _x_why	01	_	_	_	_	_
 1cartogRaph	05	Europe	_	_	_	QGIS
 1cartogRaph	06	Europe	_	flags	choropleth,cartogram	QGIS
 1cartogRaph	07	Switzerland	Sion	sport	_	QGIS
-1cartogRaph	08	Switzerland	_	_	_	_
+1cartogRaph	08	Switzerland	_	beer	_	QGIS
 1cartogRaph	09	UK	_	animals	_	QGIS
 1cartogRaph	10	Switzerland	_	_	_	_
-1cartogRaph	11	_	_	_	_	R
+1cartogRaph	11	Switzerland	_	_	_	R
 1cartogRaph	12	Switzerland	_	_	_	physical objects
-1cartogRaph	13	Switzerland	_	_	_	_
-1cartogRaph	14	Switzerland	_	_	_	_
-1cartogRaph	15	Switzerland	Lausanne	_	_	_
-1cartogRaph	16	_	_	_	_	_
-1cartogRaph	17	UK	_	_	_	_
-1cartogRaph	18	Switzerland	_	_	_	_
+1cartogRaph	13	Switzerland	_	environment	_	QGIS
+1cartogRaph	14	Switzerland	_	environment	_	QGIS
+1cartogRaph	15	Switzerland	Lausanne	transport	_	QGIS
+1cartogRaph	16	Fictional	_	treasure map	_	_
+1cartogRaph	17	UK	_	transport	_	QGIS
+1cartogRaph	18	Switzerland	_	environment	choropleth	QGIS
 1cartogRaph	19	Switzerland	_	_	_	_
 1cartogRaph	20	Switzerland	_	population	_	_
-1cartogRaph	21	_	_	_	_	_
+1cartogRaph	21	Switzerland	_	hydrology	_	QGIS,Illustrator
 1LuisDavid	01	Mexico	Mexico City	_	_	R
 1LuisDavid	02	Mexico	_	_	_	R
 1LuisDavid	03	Mexico	Mexico City	_	_	R
@@ -377,27 +377,27 @@ antoniolocandro	02	_	_	_	_	_
 antoniolocandro	03	Honduras	_	_	_	_
 aptx4869yuyang	10	USA	_	elections	cartogram	Tableau
 Arash_Hajikhani	12	_	_	_	_	_
-areacartografia	01	_	_	_	_	_
-areacartografia	02	_	_	_	_	_
-areacartografia	03	_	_	_	_	_
-areacartografia	04	_	_	_	_	_
-areacartografia	05	_	_	_	_	_
-areacartografia	06	_	_	_	_	_
-areacartografia	07	_	_	_	_	_
-areacartografia	08	_	_	_	_	_
-areacartografia	09	_	_	_	_	_
-areacartografia	10	_	_	_	_	_
-areacartografia	11	_	_	_	_	QGIS,three.js
-areacartografia	12	_	_	_	_	_
-areacartografia	13	_	_	_	_	_
-areacartografia	14	_	_	_	_	_
-areacartografia	15	_	_	_	_	_
-areacartografia	16	_	_	_	_	_
-areacartografia	17	_	_	_	_	_
-areacartografia	18	_	_	_	_	_
-areacartografia	19	_	_	_	_	_
+areacartografia	01	Andorra	_	_	_	_
+areacartografia	02	Andorra	_	_	_	_
+areacartografia	03	Andorra	_	_	_	_
+areacartografia	04	Andorra	_	_	_	_
+areacartografia	05	Andorra	_	_	_	_
+areacartografia	06	Andorra	_	_	_	_
+areacartografia	07	Andorra	_	_	_	_
+areacartografia	08	Andorra	_	_	_	_
+areacartografia	09	Andorra	Andorra la Vella,Saint Julia de Loria,Ordino,Encamp,Canilla,La Massana	_	_	_
+areacartografia	10	Andorra	_	_	_	_
+areacartografia	11	Andorra	_	_	_	QGIS,three.js
+areacartografia	12	Andorra	_	_	_	_
+areacartografia	13	Andorra	_	_	_	_
+areacartografia	14	Andorra	_	_	_	_
+areacartografia	15	Andorra	_	_	_	_
+areacartografia	16	Andorra	_	_	_	_
+areacartografia	17	Andorra	_	_	_	_
+areacartografia	18	Andorra	_	_	_	_
+areacartografia	19	Andorra	_	_	_	_
 areacartografia	20	Andorra	_	population	cartogram	GeoDa
-areacartografia	21	_	_	_	_	_
+areacartografia	21	Andorra	_	_	_	_
 arkarjun	11	_	_	_	_	_
 armiok	01	Mexico	Mexico City	_	_	QGIS
 armiok	02	Mexico	_	_	_	Python
@@ -502,14 +502,14 @@ assesslife	18	_	_	_	_	R
 assesslife	19	_	_	_	_	_
 assesslife	20	Finland	_	_	_	R
 assesslife	21	_	_	_	_	_
-astronomyblog	01	_	_	_	_	_
-astronomyblog	02	_	_	_	_	_
+astronomyblog	01	UK	_	_	_	_
+astronomyblog	02	Universe	_	_	_	_
 astronomyblog	03	UK	Leeds	_	_	_
-astronomyblog	04	_	_	_	_	_
+astronomyblog	04	UK	_	_	_	_
 astronomyblog	05	_	_	_	_	_
-astronomyblog	06	_	_	_	_	_
-astronomyblog	07	_	_	_	_	_
-astuntech	02	_	_	_	_	QGIS,PostgreSQL
+astronomyblog	06	UK	_	_	_	_
+astronomyblog	07	UK	_	_	_	_
+astuntech	02	UK	_	_	_	QGIS,PostgreSQL
 atdodkonfektes	01	Europe	_	_	_	_
 atdodkonfektes	02	Latvia	_	_	_	_
 atdodkonfektes	03	Latvia	Daugavpils	_	_	_
@@ -531,7 +531,7 @@ atdodkonfektes	18	Latvia	Rīga	_	_	_
 atdodkonfektes	19	Latvia	_	_	_	_
 atdodkonfektes	20	Latvia	_	_	_	_
 atdodkonfektes	21	_	_	_	_	_
-atstyan	02	_	_	_	_	_
+atstyan	02	World	_	_	_	_
 atstyan	06	Australia	_	_	_	_
 atstyan	12	_	_	_	_	_
 atstyan	21	_	_	_	_	_
@@ -549,18 +549,18 @@ AurelienChaumet	16	_	_	_	_	Aerialod
 AurelienChaumet	17	_	_	_	_	Aerialod
 AurelienChaumet	18	_	_	_	_	QGIS
 AurelienChaumet	20	France	_	population	_	Aerialod
-Austromum	01	_	_	_	_	_
-Austromum	02	_	_	_	_	_
-Austromum	03	_	_	_	_	_
-Austromum	06	_	_	_	_	Python
-Austromum	09	_	_	_	_	_
+Austromum	01	Austria	_	_	_	_
+Austromum	02	Austria	Vienna	_	_	_
+Austromum	03	Austria	Vienna	_	_	_
+Austromum	06	Austria	Vienna	_	_	Python
+Austromum	09	Austria	Vienna	_	_	_
 AvTetering	09	_	_	_	_	_
 AvTetering	11	_	_	_	_	_
-AvTetering	17	_	_	_	_	_
+AvTetering	17	Netherlands	Utrecht	_	_	_
 AvTetering	21	_	_	_	_	_
-Axel_AFNEG	01	_	_	_	_	_
-Axel_AFNEG	02	_	_	_	_	_
-Axel_AFNEG	04	_	_	_	_	_
+Axel_AFNEG	01	France	_	_	_	_
+Axel_AFNEG	02	France	_	_	_	_
+Axel_AFNEG	04	France	_	_	_	_
 azolnai	01	_	_	_	_	_
 azolnai	03	_	_	_	_	_
 azolnai	04	_	_	_	_	_
@@ -588,53 +588,53 @@ azzadv	11	Indonesia	Malang	population	interactive	Kepler.gl
 azzadv	12	_	_	_	_	_
 azzadv	13	_	_	_	_	_
 azzadv	16	_	_	_	_	_
-B00Tstrapper	12	_	_	_	_	_
+B00Tstrapper	12	UK	_	_	_	_
 balt_ti	01	Russia	St Petersburg	transport	_	R
-balt_ti	02	_	_	_	_	R
+balt_ti	02	Russia	St Petersburg	_	_	R
 balt_ti	03	_	_	_	_	QGIS
-balt_ti	04	_	_	_	_	R
-balt_ti	05	_	_	_	_	R
-balt_ti	06	_	_	_	_	R
-balt_ti	07	_	_	_	_	R
+balt_ti	04	Russia	_	_	_	R
+balt_ti	05	World	_	_	_	R
+balt_ti	06	Russia	St Petersburg	_	_	R
+balt_ti	07	Russia	St Petersburg	_	_	R
 balt_ti	08	Russia	St Petersburg	_	_	_
-balt_ti	09	_	_	_	_	R
-balt_ti	10	_	_	_	_	R
+balt_ti	09	Russia	St Petersburg	_	_	R
+balt_ti	10	Russia	St Petersburg	population	_	R
 balt_ti	11	_	_	_	_	R
 balt_ti	12	_	_	_	_	_
-balt_ti	13	_	_	_	_	R
+balt_ti	13	Russia	St Petersburg	transport	_	R
 balt_ti	14	Arctic	_	_	animation	R
-balt_ti	15	_	_	_	_	R
+balt_ti	15	Russia	_	_	_	R
 balt_ti	16	_	_	_	_	R
-balt_ti	17	_	_	_	_	R
-balt_ti	18	_	_	_	_	R
-balt_ti	19	_	_	_	_	_
-balt_ti	20	_	_	_	_	R
-balt_ti	21	_	_	_	_	_
+balt_ti	17	Europe	_	_	small multiples	R
+balt_ti	18	Russia	_	_	_	R
+balt_ti	19	Russia	_	_	_	_
+balt_ti	20	World	_	_	choropleth,small multiples	R
+balt_ti	21	Russia	St Petersburg	_	_	_
 BarryRuderman	06	_	_	_	_	_
 BarryRuderman	07	_	_	_	_	_
 basemap	01	_	_	_	_	_
 basemap	02	_	_	_	_	_
-basemap	03	_	_	_	_	_
-basemap	04	_	_	_	_	_
+basemap	03	UK	Manchester	_	_	_
+basemap	04	UK	_	_	_	_
 basemap	05	_	_	_	_	_
-basemap	06	_	_	_	_	_
-basemap	07	_	_	_	_	_
+basemap	06	USA	Seattle	_	_	_
+basemap	07	UK	_	_	_	_
 basemap	09	_	_	_	_	_
 basemap	11	_	_	_	_	_
-basemap	12	_	_	_	_	_
+basemap	12	UK	_	_	_	_
 basemap	13	_	_	_	_	_
-basemap	14	_	_	_	_	_
-basemap	16	_	_	_	_	_
-basemap	17	_	_	_	_	_
+basemap	14	UK	_	_	_	_
+basemap	16	UK	_	_	_	_
+basemap	17	UK	London	_	_	_
 basemap	18	_	_	_	_	_
 basemap	19	_	_	_	_	_
-basemap	22	_	_	_	_	_
-bastimapache	01	_	_	_	_	_
-BBMountClub	11	_	_	_	_	_
+basemap	22	UK	Birmingham	_	_	_
+bastimapache	01	Chile	_	_	_	_
+BBMountClub	11	UK	_	_	_	_
 BBMountClub	12	_	_	_	_	_
-BBMountClub	18	_	_	_	_	_
-BBMountClub	19	_	_	_	_	_
-BBMountClub	20	_	_	_	_	_
+BBMountClub	18	Europe	_	_	_	_
+BBMountClub	19	Africa	_	_	_	_
+BBMountClub	20	UK,Ireland	_	animals	small multiples	_
 bbroex	01	_	_	_	_	_
 bbroex	02	_	_	_	_	_
 bbroex	03	_	_	_	_	_
@@ -2126,8 +2126,8 @@ Hey_Billy	03	_	_	_	_	_
 Hey_Billy	11	_	_	_	_	_
 Hey_Billy	17	_	_	_	_	_
 highrank	01	World	_	COVID-19	interactive	_
-hireuter	01	_	_	_	_	_
-hireuter	02	Europe	_	_	_	_
+hireuter	01	Luxembourg	_	_	_	_
+hireuter	02	Luxembourg	_	_	_	_
 hireuter	03	_	_	_	_	_
 hireuter	04	_	_	_	_	_
 hireuter	05	_	_	_	_	_
@@ -2991,18 +2991,18 @@ lacxrx	06	France	_	_	_	QGIS
 lacxrx	07	France	_	agriculture	_	QGIS
 lacxrx	08	France	_	agriculture	_	QGIS
 lacxrx	09	France	_	environment	_	QGIS
-lacxrx	10	_	_	_	_	QGIS
-lacxrx	11	_	_	_	_	Aerialod
-lacxrx	12	_	_	_	_	_
-lacxrx	13	_	_	_	_	QGIS
-lacxrx	14	_	_	_	_	QGIS
-lacxrx	15	_	_	_	_	QGIS
-lacxrx	16	_	_	_	_	QGIS
-lacxrx	17	_	_	_	_	QGIS
-lacxrx	18	_	_	_	_	QGIS
-lacxrx	19	_	_	_	_	QGIS
-lacxrx	20	_	_	_	_	QGIS
-lacxrx	21	_	_	_	_	_
+lacxrx	10	France	_	environment	_	QGIS
+lacxrx	11	France	_	_	_	Aerialod
+lacxrx	12	France	_	agriculture	_	physical objects
+lacxrx	13	France	_	_	_	QGIS
+lacxrx	14	France	_	agriculture	animation	QGIS
+lacxrx	15	France	_	environment	_	QGIS
+lacxrx	16	France	_	_	_	QGIS
+lacxrx	17	France	_	_	_	QGIS
+lacxrx	18	France	_	_	_	QGIS
+lacxrx	19	France	_	hydrology	_	QGIS
+lacxrx	20	France	_	_	_	QGIS
+lacxrx	21	France	Valence	_	_	QGIS
 LandEthics	01	_	_	_	_	_
 LandEthics	02	_	_	_	_	_
 LandEthics	03	_	_	_	_	_
@@ -3566,43 +3566,43 @@ napo	17	_	_	_	_	_
 napo	19	_	_	_	_	_
 NarrativesUrban	12	_	_	_	_	_
 NarrativesUrban	13	_	_	_	_	_
-Natpatat11	03	_	_	_	_	_
+Natpatat11	03	USA	_	_	_	_
 ncargis	16	_	_	_	_	_
-ncargis	17	_	_	_	_	_
+ncargis	17	Kazakhstan,Uzbekistan	_	_	_	_
 Neil_py_harris	02	UK	_	elevation	joyplot	_
 Neil_py_harris	03	_	_	_	Lego	_
-Neil_py_harris	04	_	_	_	_	_
-Neil_py_harris	05	_	_	_	_	_
-Neil_py_harris	06	_	_	_	_	_
+Neil_py_harris	04	Ireland	_	_	_	_
+Neil_py_harris	05	UK	_	_	_	_
+Neil_py_harris	06	UK	_	animals	_	_
 Neil_py_harris	07	_	_	_	_	_
-Neil_py_harris	09	_	_	_	_	_
+Neil_py_harris	09	World	_	elevation	_	_
 Neil_py_harris	10	_	_	_	_	_
 Neil_py_harris	11	_	_	_	_	_
 Neil_py_harris	12	_	_	_	_	_
-Neil_py_harris	13	_	_	_	_	_
-Neil_py_harris	14	_	_	_	_	_
-Neil_py_harris	15	_	_	_	_	_
-Neil_py_harris	16	_	_	_	_	_
-Neil_py_harris	17	_	_	_	_	_
-Neil_py_harris	18	_	_	_	_	_
-Neil_py_harris	19	_	_	_	_	_
-Neil_py_harris	20	_	_	_	_	_
-Neil_py_harris	21	_	_	_	_	_
-neilcfd1	03	_	_	_	_	Python
-neilcfd1	11	_	_	_	_	Kepler.gl
-neilcfd1	15	_	_	_	_	Python
+Neil_py_harris	13	UK	_	_	_	_
+Neil_py_harris	14	Arctic,Antarctica	_	_	_	_
+Neil_py_harris	15	UK	_	_	_	_
+Neil_py_harris	16	UK	_	_	_	_
+Neil_py_harris	17	UK	_	_	_	_
+Neil_py_harris	18	UK	_	_	_	_
+Neil_py_harris	19	USA	_	_	_	_
+Neil_py_harris	20	UK	_	population	_	_
+Neil_py_harris	21	UK	_	names	_	_
+neilcfd1	03	Ireland	Dublin	_	_	Python
+neilcfd1	11	Ireland	Dublin	_	_	Kepler.gl
+neilcfd1	15	Ireland	Dublin	_	_	Python
 neilcfd1	16	_	_	_	_	R
-neilcfd1	17	_	_	_	_	Python
-neilcfd1	21	_	_	_	_	_
-neilcharles_uk	01	_	_	_	_	_
+neilcfd1	17	Ireland	_	_	_	Python
+neilcfd1	21	Ireland,UK	_	_	_	_
+neilcharles_uk	01	UK	_	_	_	_
 neilcharles_uk	02	_	_	_	_	QGIS
 neilcharles_uk	03	_	_	_	_	_
-neilcharles_uk	04	_	_	_	_	_
+neilcharles_uk	04	UK,Ireland	_	_	_	_
 neilcharles_uk	05	_	_	_	_	_
-neilcharles_uk	06	_	_	_	_	_
-neilcharles_uk	07	_	_	_	_	_
+neilcharles_uk	06	UK	_	_	_	_
+neilcharles_uk	07	Ireland	_	_	_	_
 neilcharles_uk	08	_	_	_	_	Mapbox
-neilcharles_uk	09	_	_	_	_	_
+neilcharles_uk	09	Moon	_	_	_	_
 neilcharles_uk	10	_	_	_	_	_
 neilcharles_uk	11	_	_	_	_	_
 neilcharles_uk	13	_	_	_	_	_
@@ -3637,11 +3637,11 @@ NguynQu59656951	01	_	_	_	_	_
 NguynQu59656951	02	_	_	_	_	_
 NguynQu59656951	03	_	_	_	_	_
 NguynQu59656951	04	_	_	_	_	QGIS
-NguynQu59656951	05	_	_	_	_	QGIS
-NguynQu59656951	06	_	_	_	_	_
-NguynQu59656951	07	_	_	_	_	QGIS
-NguynQu59656951	08	_	_	_	_	Python
-NguynQu59656951	09	_	_	_	_	QGIS
+NguynQu59656951	05	Vietnam	_	_	_	QGIS
+NguynQu59656951	06	Vietnam	_	_	_	_
+NguynQu59656951	07	World	_	_	_	QGIS
+NguynQu59656951	08	World	_	_	_	Python
+NguynQu59656951	09	World	_	administrative boundaries	_	QGIS
 NguynQu59656951	10	_	_	_	_	QGIS
 NguynQu59656951	11	_	_	_	_	_
 NguynQu59656951	12	_	_	_	_	_
@@ -3652,36 +3652,33 @@ NguynQu59656951	20	_	_	_	_	QGIS,Inkscape
 NigraArbaro	01	_	_	_	_	_
 NigraArbaro	02	_	_	_	_	QGIS
 NigraArbaro	03	Germany	_	_	_	QGIS
-Nikolaj_gr	02	_	_	_	_	ArcGIS
-Nikolaj_gr	03	_	_	_	_	ArcGIS
-Nikolaj_gr	06	_	_	_	_	_
-Nikolaj_gr	09	_	_	_	_	ArcGIS
-Nikolaj_gr	13	_	_	_	_	_
-Nikolaj_gr	15	_	_	_	_	_
-Nikolaj_gr	18	_	_	_	_	_
-Nikolaj_gr	19	_	_	_	_	_
-Nikolaj_gr	20	_	_	_	_	_
-niu_haifeng	06	_	_	_	_	_
-niu_haifeng	07	_	_	_	_	_
-niu_haifeng	08	_	_	_	_	_
-njanakiev	01	_	_	_	_	Python
-njanakiev	04	_	_	_	_	Python
-nodirections	02	_	_	_	_	_
+Nikolaj_gr	02	Denmark	_	_	_	ArcGIS
+Nikolaj_gr	03	Denmark	Copenhagen	_	_	ArcGIS
+Nikolaj_gr	06	Europe	_	transport	_	_
+Nikolaj_gr	09	Denmark	Copenhagen	_	_	ArcGIS
+Nikolaj_gr	13	Denmark	_	_	_	_
+Nikolaj_gr	15	USA	_	_	_	_
+Nikolaj_gr	18	Denmark	_	_	_	_
+Nikolaj_gr	19	Denmark	_	_	_	_
+Nikolaj_gr	20	Denmark	_	population	_	_
+njanakiev	01	Europe	_	_	_	Python
+njanakiev	04	USA	_	_	_	Python
+nodirections	02	_	_	_	joyplot	_
 nodirections	03	_	_	_	_	_
 nodirections	04	Canada	Winnipeg	_	_	_
-NoelBallantyne	01	_	_	_	_	_
-NoelBallantyne	02	_	_	_	_	_
+NoelBallantyne	01	Ireland	_	_	_	_
+NoelBallantyne	02	Ireland	_	_	_	_
 NoelBallantyne	03	_	_	_	_	_
 NoelBallantyne	04	_	_	_	_	_
-NoelBallantyne	05	_	_	_	_	_
-northlandiguana	01	_	_	_	_	_
-northlandiguana	02	_	_	_	_	_
-northlandiguana	03	_	_	_	_	_
-notforcasual	01	_	_	_	_	Mapbox
-notforcasual	10	_	_	_	_	_
-nurussadad	01	_	_	_	_	R
-nurussadad	02	_	_	_	_	R
-nurussadad	03	_	_	_	_	R
+NoelBallantyne	05	Ireland	_	_	_	_
+northlandiguana	01	USA	Duluth	_	_	_
+northlandiguana	02	USA	Duluth	_	_	_
+northlandiguana	03	USA	Duluth,Chicago	_	_	_
+notforcasual	01	Singapore	_	_	_	Mapbox
+notforcasual	10	World	_	light	cartogram,charts	_
+nurussadad	01	Indonesia	_	_	_	R
+nurussadad	02	Indonesia	_	_	_	R
+nurussadad	03	Indonesia	_	elections	_	R
 nurussadad	04	_	_	_	_	_
 nwbort	01	Australia	_	_	interactive	R,Leaflet
 nwbort	02	Australia	Sydney	fitness	interactive	R,Leaflet
@@ -3716,43 +3713,43 @@ odile_p	11	France	Grenoble	_	_	pen and paper
 odile_p	12	France	_	_	_	pen and paper
 odile_p	13	France	Rouen	war	_	pen and paper
 odile_p	14	North America,Central America	_	hurricanes	_	pen and paper
-odile_p	15	_	_	_	_	pen and paper
-odile_p	16	_	_	_	_	pen and paper
-odile_p	17	_	_	_	_	pen and paper
-odile_p	18	_	_	_	_	pen and paper
-odile_p	19	_	_	_	_	pen and paper
-odile_p	20	_	_	_	_	pen and paper
-odile_p	21	_	_	_	_	_
+odile_p	15	France	Grenoble	transport	_	pen and paper
+odile_p	16	France	Ile de Ré	floods	_	pen and paper
+odile_p	17	France	Grenoble	_	_	pen and paper
+odile_p	18	France	Grenoble	COVID-19	_	pen and paper
+odile_p	19	Fictional	_	treasure map	_	pen and paper
+odile_p	20	France	Grenoble	urban	_	pen and paper
+odile_p	21	France	Isère	rivers	_	pen and paper
 odilon72	01	_	_	_	_	_
 odilon72	05	_	_	_	_	_
-odilon72	06	_	_	_	_	_
+odilon72	06	World	_	_	_	_
 odilon72	07	_	_	_	_	_
 odilon72	12	_	_	_	_	_
 odilon72	18	_	_	_	_	_
-odilon72	21	_	_	_	_	_
+odilon72	21	Africa	_	_	_	_
 oguzhan_err	01	_	_	_	_	_
-or_oron	02	_	_	_	_	_
+or_oron	02	Europe	_	_	_	_
 or_oron	03	_	_	_	_	_
 OrdnanceSurvey	01	UK	_	_	_	_
-OrdnanceSurvey	02	_	_	_	_	_
+OrdnanceSurvey	02	UK	_	_	_	_
 OrdnanceSurvey	04	UK	_	_	_	_
-OrdnanceSurvey	05	_	_	_	_	_
-OrdnanceSurvey	06	_	_	_	_	_
-OrdnanceSurvey	07	_	_	_	_	_
-OrdnanceSurvey	08	_	_	_	_	_
+OrdnanceSurvey	05	UK	_	_	_	_
+OrdnanceSurvey	06	UK	_	_	_	_
+OrdnanceSurvey	07	UK	_	_	_	_
+OrdnanceSurvey	08	UK	_	_	_	_
 OrdnanceSurvey	09	_	_	_	_	_
-OrdnanceSurvey	10	_	_	_	_	_
-OrdnanceSurvey	11	_	_	_	_	_
+OrdnanceSurvey	10	UK	London	_	cartogram,charts	_
+OrdnanceSurvey	11	UK	_	_	_	_
 OrdnanceSurvey	12	_	_	_	_	_
-OrdnanceSurvey	13	_	_	_	_	_
-OrdnanceSurvey	14	_	_	_	_	_
-OrdnanceSurvey	15	_	_	_	_	_
-OrdnanceSurvey	16	_	_	_	_	_
-OrdnanceSurvey	17	_	_	_	_	_
-OrdnanceSurvey	18	_	_	_	_	_
-OrdnanceSurvey	19	_	_	_	_	_
-OrdnanceSurvey	20	_	_	_	_	_
-OrdnanceSurvey	21	_	_	_	_	_
+OrdnanceSurvey	13	UK	Southampton	_	_	_
+OrdnanceSurvey	14	UK	_	_	_	_
+OrdnanceSurvey	15	UK	_	_	_	_
+OrdnanceSurvey	16	UK	_	_	_	_
+OrdnanceSurvey	17	UK	_	_	_	_
+OrdnanceSurvey	18	UK	_	_	_	_
+OrdnanceSurvey	19	UK	_	_	_	_
+OrdnanceSurvey	20	UK	_	_	_	_
+OrdnanceSurvey	21	Europe	_	_	_	_
 OttoKannisto	16	_	_	_	_	_
 OudrySophie	03	_	_	_	_	QGIS
 owenjpowell	01	_	_	_	_	_
