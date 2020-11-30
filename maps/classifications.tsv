@@ -24,6 +24,13 @@ _anirudhgovind	18	India	Bangalore	_	_	R
 _anirudhgovind	19	India	Bangalore	_	_	R
 _anirudhgovind	20	India	Bangalore	_	_	R
 _anirudhgovind	21	_	_	_	_	_
+_anirudhgovind	22	India	Bangalore	_	_	_
+_anirudhgovind	23	_	_	_	_	_
+_anirudhgovind	24	_	_	_	_	_
+_anirudhgovind	26	_	_	_	_	_
+_anirudhgovind	27	_	_	_	_	_
+_anirudhgovind	28	_	_	_	_	_
+_anirudhgovind	29	_	_	_	_	_
 _DataLoy	04	USA	San Francisco	_	_	_
 _DataLoy	30	Egypt	_	_	_	_
 _dylanledbetter	12	USA	_	_	from memory	pen and paper
@@ -46,6 +53,8 @@ _kyliejane	08	Japan	Tokyo	_	_	_
 _kyliejane	12	_	_	_	_	_
 _kyliejane	13	Japan	_	_	_	_
 _kyliejane	14	Japan	Tokyo	_	_	QGIS
+_kyliejane	22	_	_	_	_	_
+_kyliejane	27	_	_	_	_	_
 _penguin_runner	01	World	_	_	_	QGIS
 _penguin_runner	02	Mexico	Janitzio	_	_	QGIS
 _penguin_runner	03	_	_	_	_	QGIS
@@ -67,6 +76,14 @@ _penguin_runner	18	UK	_	_	_	QGIS
 _penguin_runner	19	New Zealand	_	_	_	QGIS
 _penguin_runner	20	Antarctica	_	animals	_	QGIS
 _penguin_runner	21	_	_	_	_	_
+_penguin_runner	22	_	_	_	_	_
+_penguin_runner	23	_	_	_	_	_
+_penguin_runner	24	_	_	_	_	_
+_penguin_runner	25	_	_	_	_	_
+_penguin_runner	26	_	_	_	_	_
+_penguin_runner	27	_	_	_	_	_
+_penguin_runner	28	UK,Ireland	_	_	_	physical objects
+_penguin_runner	29	_	_	_	_	_
 _piedelimon_	01	World	_	_	_	_
 _piedelimon_	12	World	_	_	_	_
 _skuethe	01	Germany	Berlin	_	_	R,Mapbox
@@ -105,6 +122,14 @@ _x_why	01	_	_	_	_	_
 1cartogRaph	19	Switzerland	_	_	_	_
 1cartogRaph	20	Switzerland	_	population	_	_
 1cartogRaph	21	Switzerland	_	hydrology	_	QGIS,Illustrator
+1cartogRaph	22	_	_	_	_	_
+1cartogRaph	23	Switzerland	_	_	_	_
+1cartogRaph	24	_	_	_	_	_
+1cartogRaph	25	_	_	_	_	_
+1cartogRaph	26	_	_	_	_	_
+1cartogRaph	27	_	_	_	_	_
+1cartogRaph	28	_	_	_	_	_
+1cartogRaph	29	_	_	_	_	_
 1LuisDavid	01	Mexico	Mexico City	_	_	R
 1LuisDavid	02	Mexico	_	_	_	R
 1LuisDavid	03	Mexico	Mexico City	_	_	R
@@ -117,8 +142,12 @@ _x_why	01	_	_	_	_	_
 27aea577f17d4c4	16	_	_	_	_	QGIS
 27aea577f17d4c4	17	_	_	_	_	QGIS
 27aea577f17d4c4	19	_	_	_	_	_
+27aea577f17d4c4	22	_	_	_	_	_
+27aea577f17d4c4	25	_	_	_	_	_
+27aea577f17d4c4	28	_	_	_	_	_
 3DOMFBK	11	_	_	_	_	_
 3DOMFBK	17	_	_	_	_	_
+4hoppers	24	_	_	_	_	_
 57x025	01	_	_	_	_	_
 achillida	01	Spain	Barcelona	_	_	QGIS
 achillida	02	Spain	Barcelona	_	_	QGIS
@@ -135,6 +164,7 @@ adaezehs	03	_	_	_	_	_
 adamdsteer	01	_	_	_	_	_
 adamdsteer	02	_	_	_	_	QGIS,three.js
 adamdsteer	11	_	_	_	_	_
+adamdsteer	24	_	_	_	_	_
 adamjnafa	13	_	_	_	_	R
 AdelineRichez1	12	Africa	_	_	_	_
 adisadit	10	Indonesia	_	elevation	Lego	QGIS
@@ -157,10 +187,15 @@ AFCotroneo	15	_	_	_	_	_
 AFCotroneo	16	_	_	_	_	_
 AFCotroneo	17	_	_	_	_	_
 AFCotroneo	18	_	_	_	_	_
+AFCotroneo	22	Mexico	_	_	_	_
+AFCotroneo	23	_	_	_	_	_
+AFCotroneo	24	_	_	_	_	_
 afrimapr	01	South Sudan	_	_	_	R
 afrimapr	02	_	_	_	_	_
 afrimapr	03	_	_	_	_	R
 afrimapr	04	Africa	_	_	_	R
+afrimapr	23	_	_	_	_	_
+afrimapr	27	_	_	_	_	_
 aina_don	03	_	_	_	_	_
 aina_don	05	_	_	_	_	QGIS
 aina_don	06	_	_	_	_	QGIS
@@ -168,6 +203,7 @@ aina_don	11	_	_	_	_	_
 aina_don	12	_	_	_	_	_
 aina_don	16	_	_	_	_	_
 aina_don	18	_	_	_	_	_
+aina_don	28	_	_	_	_	_
 akadouri	01	_	_	_	_	_
 akadouri	02	USA	New York City	urban,transport	_	QGIS,PostgreSQL,Python
 akadouri	03	_	_	_	_	_
@@ -188,6 +224,14 @@ akadouri	17	_	_	_	_	_
 akadouri	18	_	_	_	_	_
 akadouri	19	_	_	_	_	_
 akadouri	20	_	_	_	_	_
+akadouri	22	_	_	COVID-19	_	_
+akadouri	23	_	_	_	_	_
+akadouri	24	_	_	_	_	_
+akadouri	25	_	_	_	_	_
+akadouri	26	_	_	_	_	_
+akadouri	27	_	_	_	_	_
+akadouri	28	_	_	_	_	_
+akadouri	29	_	_	_	_	_
 akmalfrohman	16	_	_	_	_	_
 AlandcoC	01	World	_	_	_	_
 AlandcoC	02	_	_	_	_	_
@@ -209,6 +253,14 @@ AlandcoC	18	_	_	_	_	_
 AlandcoC	19	_	_	_	_	_
 AlandcoC	20	_	_	_	_	_
 AlandcoC	21	_	_	_	_	_
+AlandcoC	22	_	_	_	_	_
+AlandcoC	23	_	_	_	_	_
+AlandcoC	24	_	_	_	_	_
+AlandcoC	25	_	_	_	_	_
+AlandcoC	26	_	_	_	_	_
+AlandcoC	28	_	_	_	_	_
+AlandcoC	29	_	_	_	_	_
+AlandcoC	30	_	_	_	_	_
 AlbinPCLarsson	01	_	_	_	_	_
 AlbinPCLarsson	02	_	_	_	_	_
 AlbinPCLarsson	03	_	_	_	_	_
@@ -235,6 +287,8 @@ allixender	13	_	_	_	_	Python
 allixender	16	_	_	_	_	Python
 allixender	20	_	_	_	_	Python
 allixender	21	_	_	_	_	_
+allixender	26	_	_	_	_	_
+allixender	27	Antarctica	_	_	animation	Python
 allyoucanmap	01	_	_	_	_	_
 Almuziel_Sara	17	_	_	_	_	_
 alnpierre	01	_	_	_	_	_
@@ -290,6 +344,14 @@ AnatZohar4	17	_	_	_	_	_
 AnatZohar4	18	_	_	_	_	_
 AnatZohar4	19	_	_	_	_	_
 AnatZohar4	20	_	_	_	_	_
+AnatZohar4	22	_	_	_	_	_
+AnatZohar4	23	_	_	_	_	_
+AnatZohar4	24	_	_	_	_	_
+AnatZohar4	25	_	_	_	_	_
+AnatZohar4	26	_	_	_	_	_
+AnatZohar4	27	_	_	_	_	_
+AnatZohar4	28	_	_	_	_	_
+AnatZohar4	29	_	_	_	_	_
 anders_wikstrom	02	_	_	_	_	_
 andrewdc_nz	01	New Zealand	_	elevation	_	_
 andrewdc_nz	02	New Zealand	_	_	_	_
@@ -308,6 +370,10 @@ andrewdc_nz	18	New Zealand	_	_	_	_
 andrewdc_nz	19	World	_	_	uncommon projections	_
 andrewdc_nz	20	New Zealand	_	_	_	_
 andrewdc_nz	21	New Zealand	_	_	_	_
+andrewdc_nz	22	_	_	_	_	_
+andrewdc_nz	27	_	_	_	_	_
+andrewdc_nz	28	_	_	_	_	_
+andrewdc_nz	30	New Zealand	_	_	_	_
 AndrewRenninger	01	USA	_	_	_	_
 AndrewRenninger	02	Australia,Canada,Chile,Czech Republic,Finland,France,Germany,Greece,Ireland,Italy,Luxembourg,Portugal,UK,USA	Adelaide,Antofagasta,Athens,Belfast,Berlin,Bordeaux,Brisbane,Canberra,Detroit,Dublin,Grenoble,Helsinki,Kuopio,Lisbon,Luxembourg,Melbourne,Nantes,Palermo,Paris,Prague,Rennes,Rome,Sydney,Toulouse,Turku,Venice,Winnipeg	transport	animation	_
 AndrewRenninger	03	World	_	_	_	_
@@ -327,6 +393,7 @@ andrewrfrench	12	_	_	_	_	_
 andrewrfrench	13	_	_	_	_	_
 andrewrfrench	14	_	_	_	_	_
 andrewrfrench	15	_	_	_	_	_
+andrewrfrench	24	_	_	_	_	_
 AndriyYaremenko	15	_	_	_	_	_
 andy_rutkowski	01	_	_	_	_	_
 andy_rutkowski	02	_	_	_	_	QGIS
@@ -370,6 +437,13 @@ antoaasa	18	_	_	_	_	_
 antoaasa	19	_	_	_	_	_
 antoaasa	20	_	_	_	_	_
 antoaasa	21	_	_	_	_	_
+antoaasa	22	_	_	_	_	_
+antoaasa	23	_	_	_	_	_
+antoaasa	24	Estonia	_	elevation	ASCII	R
+antoaasa	25	_	_	_	_	_
+antoaasa	26	World	_	_	_	Excel
+antoaasa	28	_	_	_	_	_
+antoaasa	29	_	_	_	_	_
 AntoninBorgnon	03	_	_	_	_	_
 AntoninBorgnon	15	_	_	_	_	_
 antoniolocandro	01	_	_	_	_	Leaflet
@@ -398,7 +472,17 @@ areacartografia	18	Andorra	_	_	_	_
 areacartografia	19	Andorra	_	_	_	_
 areacartografia	20	Andorra	_	population	cartogram	GeoDa
 areacartografia	21	Andorra	_	_	_	_
+areacartografia	22	_	_	_	_	_
+areacartografia	23	_	_	_	_	_
+areacartografia	24	_	_	_	_	_
+areacartografia	25	_	_	_	_	_
+areacartografia	26	_	_	_	_	_
+areacartografia	27	_	_	_	_	_
+areacartografia	28	_	_	_	_	_
+areacartografia	29	_	_	_	_	_
 arkarjun	11	_	_	_	_	_
+arkarjun	25	_	_	_	_	_
+arkarjun	26	_	_	_	_	_
 armiok	01	Mexico	Mexico City	_	_	QGIS
 armiok	02	Mexico	_	_	_	Python
 armiok	03	_	_	_	_	_
@@ -419,6 +503,15 @@ armiok	17	Mexico	_	_	_	QGIS
 armiok	18	Mexico	_	_	_	_
 armiok	19	_	_	_	_	Python
 armiok	20	_	_	_	_	QGIS
+armiok	21	_	_	_	_	_
+armiok	22	_	_	_	_	_
+armiok	23	_	_	_	_	_
+armiok	24	_	_	_	_	_
+armiok	25	_	_	_	_	_
+armiok	26	_	_	_	_	_
+armiok	27	_	_	_	_	_
+armiok	28	_	_	_	_	_
+armiok	29	_	_	_	_	_
 Armire	01	_	_	_	_	_
 Armire	02	_	_	_	_	_
 Arnold_Platon	01	_	_	_	_	_
@@ -430,6 +523,8 @@ Arnold_Platon	10	_	_	_	_	Inkscape,Python
 Arnold_Platon	17	_	_	_	_	_
 Arnold_Platon	19	_	_	_	_	_
 Arnold_Platon	20	_	_	_	_	_
+Arnold_Platon	27	_	_	_	_	_
+Arnold_Platon	28	_	_	_	_	_
 arriskeus	01	_	_	_	_	_
 arriskeus	02	_	_	_	_	_
 arriskeus	03	_	_	_	_	_
@@ -450,6 +545,10 @@ arriskeus	17	_	_	_	_	_
 arriskeus	18	_	_	_	_	_
 arriskeus	19	Andorra	_	_	_	_
 Articque	17	_	_	_	_	_
+Articque	22	_	_	_	_	_
+Articque	23	Europe	_	_	_	_
+Articque	25	_	_	_	_	_
+Articque	28	_	_	_	_	_
 Artisans_Cartos	01	_	_	_	_	_
 Artisans_Cartos	02	_	_	_	_	_
 Artisans_Cartos	03	_	_	_	_	_
@@ -463,6 +562,11 @@ Artisans_Cartos	16	_	_	_	_	_
 Artisans_Cartos	18	_	_	_	_	_
 Artisans_Cartos	19	_	_	_	_	ArcGIS
 Artisans_Cartos	21	_	_	_	_	_
+Artisans_Cartos	22	_	_	_	_	_
+Artisans_Cartos	25	_	_	_	_	_
+Artisans_Cartos	26	_	_	_	_	_
+Artisans_Cartos	28	_	_	_	_	_
+Artisans_Cartos	29	_	_	_	_	_
 ArunVishwanat10	08	_	_	_	_	QGIS
 ArunVishwanat10	09	_	_	_	_	QGIS
 asc_miriam	01	_	_	_	_	_
@@ -502,6 +606,15 @@ assesslife	18	_	_	_	_	R
 assesslife	19	_	_	_	_	_
 assesslife	20	Finland	_	_	_	R
 assesslife	21	_	_	_	_	_
+assesslife	22	_	_	_	_	_
+assesslife	23	_	_	_	_	_
+assesslife	24	_	_	_	_	_
+assesslife	25	_	_	_	_	_
+assesslife	26	_	_	_	_	_
+assesslife	27	_	_	_	_	_
+assesslife	28	_	_	_	_	_
+assesslife	29	_	_	_	_	_
+assesslife	30	World	_	_	_	_
 astronomyblog	01	UK	_	_	_	_
 astronomyblog	02	Universe	_	_	_	_
 astronomyblog	03	UK	Leeds	_	_	_
@@ -531,6 +644,14 @@ atdodkonfektes	18	Latvia	Rīga	_	_	_
 atdodkonfektes	19	Latvia	_	_	_	_
 atdodkonfektes	20	Latvia	_	_	_	_
 atdodkonfektes	21	_	_	_	_	_
+atdodkonfektes	22	_	_	_	_	_
+atdodkonfektes	23	_	_	_	_	_
+atdodkonfektes	24	_	_	_	_	_
+atdodkonfektes	25	_	_	_	_	_
+atdodkonfektes	26	_	_	_	_	_
+atdodkonfektes	27	_	_	_	_	_
+atdodkonfektes	28	_	_	_	_	_
+atdodkonfektes	29	_	_	_	_	_
 atstyan	02	World	_	_	_	_
 atstyan	06	Australia	_	_	_	_
 atstyan	12	_	_	_	_	_
@@ -549,6 +670,9 @@ AurelienChaumet	16	_	_	_	_	Aerialod
 AurelienChaumet	17	_	_	_	_	Aerialod
 AurelienChaumet	18	_	_	_	_	QGIS
 AurelienChaumet	20	France	_	population	_	Aerialod
+AurelienChaumet	24	_	_	_	_	_
+AurelienChaumet	26	_	_	_	_	_
+AurelienChaumet	28	_	_	_	_	_
 Austromum	01	Austria	_	_	_	_
 Austromum	02	Austria	Vienna	_	_	_
 Austromum	03	Austria	Vienna	_	_	_
@@ -558,6 +682,10 @@ AvTetering	09	_	_	_	_	_
 AvTetering	11	_	_	_	_	_
 AvTetering	17	Netherlands	Utrecht	_	_	_
 AvTetering	21	_	_	_	_	_
+AvTetering	23	_	_	_	_	_
+AvTetering	24	_	_	_	_	_
+AvTetering	25	_	_	_	_	_
+AvTetering	29	_	_	_	_	_
 Axel_AFNEG	01	France	_	_	_	_
 Axel_AFNEG	02	France	_	_	_	_
 Axel_AFNEG	04	France	_	_	_	_
@@ -578,6 +706,14 @@ azolnai	18	_	_	_	_	_
 azolnai	19	_	_	_	_	_
 azolnai	20	_	_	_	_	_
 azolnai	21	_	_	_	_	_
+azolnai	22	_	_	_	_	_
+azolnai	23	_	_	_	_	_
+azolnai	24	_	_	_	_	_
+azolnai	25	_	_	_	_	_
+azolnai	26	_	_	_	_	_
+azolnai	27	_	_	_	_	_
+azolnai	28	_	_	_	_	_
+azolnai	29	Mars	_	_	_	_
 azzadv	04	_	_	_	_	_
 azzadv	06	_	_	_	_	_
 azzadv	07	_	_	_	_	_
@@ -610,6 +746,15 @@ balt_ti	18	Russia	_	_	_	R
 balt_ti	19	Russia	_	_	_	_
 balt_ti	20	World	_	_	choropleth,small multiples	R
 balt_ti	21	Russia	St Petersburg	_	_	_
+balt_ti	22	_	_	_	_	_
+balt_ti	23	Russia	_	_	_	_
+balt_ti	24	_	_	_	_	_
+balt_ti	25	_	_	_	_	_
+balt_ti	26	_	_	_	_	_
+balt_ti	27	_	_	_	_	_
+balt_ti	28	_	_	_	_	_
+balt_ti	29	_	_	_	_	_
+balt_ti	30	Russia	_	_	joyplot	R
 BarryRuderman	06	_	_	_	_	_
 BarryRuderman	07	_	_	_	_	_
 basemap	01	_	_	_	_	_
@@ -629,18 +774,29 @@ basemap	17	UK	London	_	_	_
 basemap	18	_	_	_	_	_
 basemap	19	_	_	_	_	_
 basemap	22	UK	Birmingham	_	_	_
+basemap	25	_	_	_	_	_
+basemap	27	_	_	_	_	_
+basemap	28	_	_	_	_	_
 bastimapache	01	Chile	_	_	_	_
+battailb	28	_	_	_	_	_
 BBMountClub	11	UK	_	_	_	_
 BBMountClub	12	_	_	_	_	_
 BBMountClub	18	Europe	_	_	_	_
 BBMountClub	19	Africa	_	_	_	_
 BBMountClub	20	UK,Ireland	_	animals	small multiples	_
+BBMountClub	22	World	_	_	_	_
+BBMountClub	24	_	_	_	_	_
+BBMountClub	25	_	_	_	_	_
+BBMountClub	27	_	_	_	_	_
+BBMountClub	28	_	_	_	_	_
+BBMountClub	29	_	_	_	_	_
 bbroex	01	_	_	_	_	_
 bbroex	02	_	_	_	_	_
 bbroex	03	_	_	_	_	_
 bcsweb	05	_	_	_	_	_
 bcsweb	09	_	_	_	_	_
 beautheory	05	_	_	_	_	_
+BecViv	30	France	_	_	_	physical objects
 BellMenna	01	_	_	_	_	QGIS
 BellMenna	02	_	_	_	_	QGIS
 BellMenna	03	_	_	_	_	QGIS
@@ -662,6 +818,7 @@ benfriin	05	France	_	_	_	_
 benfriin	06	France	_	_	_	_
 benfriin	07	France	Rennes	_	_	_
 benfriin	10	France	_	_	_	QGIS
+BertilleLgrc	25	Brazil	_	_	_	_
 BertrandHoud	01	_	_	_	_	_
 BertrandHoud	02	_	_	_	_	_
 BertrandHoud	03	_	_	_	_	_
@@ -671,6 +828,8 @@ bhupathi_boom	02	_	_	_	_	ArcGIS
 bhupathi_boom	03	_	_	_	_	_
 bhupathi_boom	20	_	_	_	_	_
 bhupathi_boom	21	_	_	_	_	_
+bhupathi_boom	22	_	_	_	_	_
+bhupathi_boom	24	_	_	_	_	_
 BjnNowak	06	_	_	_	_	_
 BjnNowak	09	_	_	_	_	R
 BjnNowak	10	_	_	_	_	R
@@ -683,6 +842,7 @@ BjnNowak	17	_	_	_	_	QGIS,R
 BjnNowak	18	_	_	_	_	R
 BjnNowak	19	_	_	_	_	QGIS
 BjnNowak	20	_	_	_	_	R
+bjperson	30	France	Paris	_	_	_
 BKG_Bund	18	_	_	_	_	_
 BlackburnStat	12	_	_	_	_	_
 BlandfordBread	01	_	_	_	_	_
@@ -706,6 +866,12 @@ BlandfordBread	18	_	_	_	_	QGIS
 BlandfordBread	19	_	_	_	_	_
 BlandfordBread	20	_	_	_	_	QGIS,three.js
 BlandfordBread	21	_	_	_	_	_
+BlandfordBread	22	_	_	_	_	_
+BlandfordBread	23	_	_	_	_	_
+BlandfordBread	25	_	_	_	_	_
+BlandfordBread	26	_	_	_	_	_
+BlandfordBread	27	_	_	_	_	_
+BlandfordBread	29	_	_	_	_	_
 BlayFoldex	09	_	_	_	_	_
 BlayFoldex	12	_	_	_	_	_
 bobackiel	01	_	_	_	_	_
@@ -739,6 +905,10 @@ BrittLonneville	11	_	_	_	_	_
 BrittLonneville	12	_	_	_	_	_
 BrittLonneville	15	_	_	_	_	_
 BrittLonneville	17	_	_	_	_	_
+BrittLonneville	22	_	_	_	_	_
+BrittLonneville	23	World	_	_	uncommon projections	_
+BrittLonneville	24	_	_	_	_	_
+BrittLonneville	25	_	_	_	_	_
 Brown_GIS	01	_	_	_	_	_
 Brown_GIS	02	_	_	_	_	_
 Brown_GIS	11	_	_	_	_	_
@@ -768,6 +938,14 @@ burdGIS	17	_	_	_	_	_
 burdGIS	18	_	_	_	_	_
 burdGIS	19	_	_	_	_	QGIS
 burdGIS	20	_	_	_	_	QGIS
+burdGIS	22	UK	London	_	_	_
+burdGIS	23	_	_	_	_	_
+burdGIS	24	_	_	_	_	_
+burdGIS	25	_	_	_	_	_
+burdGIS	26	_	_	_	_	_
+burdGIS	27	_	_	_	_	_
+burdGIS	28	_	_	_	_	_
+burdGIS	29	_	_	_	_	_
 bus_jus	01	_	_	_	_	R
 bus_jus	04	_	_	_	_	R
 bus_jus	05	_	_	_	_	R
@@ -796,6 +974,14 @@ BZgeo	18	_	_	_	_	_
 BZgeo	19	_	_	_	_	_
 BZgeo	20	_	_	_	_	_
 BZgeo	21	_	_	_	_	_
+BZgeo	22	_	_	_	_	_
+BZgeo	23	_	_	_	_	_
+BZgeo	24	_	_	_	_	_
+BZgeo	25	_	_	_	_	_
+BZgeo	26	_	_	_	_	_
+BZgeo	27	_	_	_	_	_
+BZgeo	28	_	_	_	_	_
+BZgeo	29	_	_	_	_	_
 cabinentaxi	19	_	_	_	_	_
 CadenaGaitan	03	_	_	_	_	_
 caglarkoylu	15	_	_	_	_	_
@@ -862,6 +1048,13 @@ CaRobson	18	_	_	_	_	_
 CaRobson	19	_	_	_	_	_
 CaRobson	20	_	_	_	_	_
 CaRobson	21	_	_	_	_	_
+CaRobson	22	_	_	_	_	_
+CaRobson	23	_	_	_	_	_
+CaRobson	24	_	_	_	_	_
+CaRobson	25	_	_	_	_	_
+CaRobson	26	_	_	_	_	physical objects
+CaRobson	27	_	_	_	_	_
+CaRobson	29	_	_	_	_	_
 caroline_msgu	03	_	_	_	_	_
 carolpos	01	_	_	_	_	_
 carolpos	02	_	_	_	_	_
@@ -876,7 +1069,10 @@ Carto_ALex	17	_	_	_	_	_
 Cartografia_AMB	11	_	_	_	_	_
 Cartografia_AMB	17	_	_	_	_	_
 Cartografia_AMB	21	_	_	_	_	_
+Cartografia_AMB	24	_	_	_	_	_
 CartoKorn	10	_	_	_	_	_
+CartoKorn	24	_	_	_	_	_
+CartoKorn	25	_	_	_	_	_
 cartolycee	15	_	_	_	_	_
 carvalho_c_urb	01	_	_	_	_	_
 cas_maps	01	UK	_	_	_	QGIS
@@ -899,6 +1095,13 @@ cas_maps	17	_	_	_	_	_
 cas_maps	18	_	_	_	_	_
 cas_maps	19	_	_	_	_	_
 cas_maps	20	_	_	_	_	_
+cas_maps	22	_	_	_	_	_
+cas_maps	23	_	_	_	_	_
+cas_maps	24	_	_	_	_	_
+cas_maps	25	_	_	_	_	_
+cas_maps	26	_	_	_	_	_
+cas_maps	27	_	_	_	_	_
+cas_maps	29	_	_	_	_	_
 CassClouston	01	_	_	_	_	_
 CassClouston	02	_	_	_	_	_
 CassClouston	03	_	_	_	_	_
@@ -925,6 +1128,7 @@ Cchurchili	18	_	_	_	_	_
 Cchurchili	19	_	_	_	_	_
 Cchurchili	20	_	_	_	_	_
 Cchurchili	21	_	_	_	_	_
+cdlseldon	22	_	_	_	_	_
 cedricr	16	_	_	_	_	_
 ceren_do	17	_	_	_	_	_
 chartbearx	20	_	_	_	_	Python
@@ -967,9 +1171,15 @@ ChrisLyons26	17	_	_	_	_	_
 ChrisLyons26	18	_	_	_	_	_
 ChrisLyons26	20	_	_	_	_	_
 ChrisLyons26	21	_	_	_	_	_
+ChrisLyons26	22	_	_	_	_	_
+ChrisLyons26	23	Israel	_	_	_	_
+ChrisLyons26	24	_	_	_	_	_
+ChrisLyons26	26	Mars	_	_	_	_
 chrisstelz	06	_	_	_	_	Python
+chrisstelz	27	_	_	_	_	_
 chxmonesimo	12	_	_	_	_	_
 chxmonesimo	13	_	_	_	_	R
+chxmonesimo	25	_	_	_	_	_
 cj_maps	01	_	_	_	_	_
 cj_maps	02	_	_	_	_	_
 cj_maps	03	World	_	_	_	QGIS
@@ -991,6 +1201,15 @@ cj_maps	18	_	_	_	_	_
 cj_maps	19	_	_	_	_	_
 cj_maps	20	_	_	_	_	Aerialod
 cj_maps	21	_	_	_	_	_
+cj_maps	22	_	_	_	_	_
+cj_maps	23	_	_	_	_	_
+cj_maps	24	_	_	_	_	_
+cj_maps	25	_	_	_	_	_
+cj_maps	26	_	_	_	_	Blender
+cj_maps	27	_	_	_	_	_
+cj_maps	28	_	_	_	_	_
+cj_maps	29	_	_	_	_	_
+ClaudiaBlagu	01	_	_	_	_	_
 clintyMw	01	_	_	_	_	_
 clintyMw	04	_	_	_	_	_
 clintyMw	05	_	_	_	_	_
@@ -1028,8 +1247,10 @@ CosicJaka	16	_	_	_	_	_
 CosicJaka	17	_	_	_	_	_
 CosicJaka	18	_	_	_	_	_
 CosicJaka	20	_	_	_	_	QGIS
+CosicJaka	26	_	_	_	_	_
 courtney_geo	01	_	_	_	_	_
 courtney_geo	02	_	_	_	_	QGIS
+cpchabert	24	Europe	_	_	_	_
 crisalpuche	01	_	_	_	_	_
 crisalpuche	02	_	_	_	_	_
 crisalpuche	03	_	_	_	_	_
@@ -1068,6 +1289,14 @@ CRVanPollard	18	_	_	_	_	ArcGIS
 CRVanPollard	19	Fictional	_	_	_	Minecraft
 CRVanPollard	20	_	_	_	_	_
 CRVanPollard	21	_	_	_	_	_
+CRVanPollard	22	_	_	_	_	_
+CRVanPollard	23	_	_	_	_	_
+CRVanPollard	24	_	_	_	_	_
+CRVanPollard	25	_	_	_	_	_
+CRVanPollard	26	_	_	_	_	_
+CRVanPollard	27	_	_	_	_	_
+CRVanPollard	28	_	_	_	_	_
+CRVanPollard	29	_	_	_	_	_
 Crys_Conway	01	_	_	_	_	_
 Crys_Conway	02	_	_	_	_	_
 Crys_Conway	03	_	_	_	_	_
@@ -1092,10 +1321,16 @@ cstats1	18	_	_	_	_	R
 cstats1	19	_	_	_	_	R
 cstats1	20	_	_	_	_	R
 cstats1	21	_	_	_	_	_
+cstats1	22	_	_	_	_	_
+cstats1	23	USA	_	_	_	_
+cstats1	24	_	_	_	_	_
+cstats1	25	_	_	_	_	_
 cullen_carto	01	_	_	_	_	ArcGIS
 daderidd	10	_	_	_	_	_
 dakvid	04	New Zealand	_	elections	cartogram	R,Leaflet
 dakvid	12	New Zealand	Wellington	_	ASCII	jp2a
+dakvid	16	New Zealand	_	_	_	R
+dakvid	19	Australia	_	population	choropleth,interactive	Datawrapper
 damienMaps	18	_	_	_	_	_
 damienMaps	19	_	_	_	_	_
 damienMaps	20	_	_	_	_	_
@@ -1120,6 +1355,15 @@ DanaeKontou	18	_	_	_	_	QGIS
 DanaeKontou	19	_	_	_	_	QGIS
 DanaeKontou	20	_	_	_	_	_
 DanaeKontou	21	_	_	_	_	_
+DanaeKontou	22	_	_	_	_	_
+DanaeKontou	23	Arctic	_	administrative boundaries	_	pen and paper
+DanaeKontou	24	_	_	_	_	_
+DanaeKontou	25	_	_	_	_	_
+DanaeKontou	26	_	_	_	_	_
+DanaeKontou	27	_	_	_	_	_
+DanaeKontou	28	_	_	_	_	_
+DanaeKontou	29	_	_	_	_	_
+danc00ks0n	25	_	_	_	_	_
 dandanduhnnnn	01	UK	London	transport	_	_
 dandanduhnnnn	02	_	_	_	_	_
 dandanduhnnnn	03	_	_	_	_	_
@@ -1145,6 +1389,8 @@ darenw	18	_	_	_	_	_
 darenw	19	_	_	_	_	_
 darenw	20	_	_	_	_	_
 darenw	21	_	_	_	_	_
+darenw	22	_	_	_	_	_
+darenw	23	_	_	_	_	_
 darioingiusto	01	_	_	_	_	_
 darioingiusto	02	_	_	_	_	_
 darioingiusto	03	_	_	_	_	_
@@ -1165,9 +1411,14 @@ darwinanddavis	10	_	_	_	_	R
 darwinanddavis	11	_	_	_	_	R,Mapbox
 darwinanddavis	14	_	_	_	_	R
 darwinanddavis	16	_	_	_	_	R
+darwinanddavis	23	World	_	_	_	_
+darwinanddavis	25	_	_	_	_	_
+darwinanddavis	26	_	_	_	_	_
+darwinanddavis	30	_	_	_	_	_
 dasklaerwerk	21	_	_	_	_	_
 Data_Wax	02	Senegal	Dakar	_	_	QGIS
 Data_Wax	12	_	_	_	_	_
+datagistips	24	_	_	_	_	_
 dataisawesomeo	01	_	_	_	_	_
 dataisawesomeo	02	_	_	_	_	_
 dataisawesomeo	03	_	_	_	_	_
@@ -1188,6 +1439,11 @@ dataisawesomeo	17	_	_	_	_	_
 dataisawesomeo	19	_	_	_	_	_
 dataisawesomeo	20	_	_	_	_	_
 dataisawesomeo	21	_	_	_	_	_
+dataisawesomeo	22	_	_	_	_	_
+dataisawesomeo	23	_	_	_	_	_
+dataisawesomeo	24	_	_	_	_	_
+dataisawesomeo	28	_	_	_	_	_
+dataisawesomeo	29	_	_	_	_	_
 datamanAK	02	_	_	_	_	_
 DatavizAdventuR	01	_	_	_	_	_
 DatavizAdventuR	05	Peru	_	agriculture	cartogram	_
@@ -1202,6 +1458,7 @@ david_leather	18	_	_	_	_	_
 david_leather	19	_	_	_	_	_
 david_leather	20	_	_	_	_	_
 david_leather	21	_	_	_	_	_
+davidBerre2	26	_	_	_	_	_
 davidia_antiqua	06	_	_	_	_	_
 DavidNg96191301	01	_	_	_	_	_
 DavidNg96191301	02	_	_	_	_	_
@@ -1227,6 +1484,7 @@ dbgoody	16	_	_	_	_	_
 dbgoody	17	_	_	_	_	_
 dbgoody	18	_	_	_	_	_
 dbgoody	19	_	_	_	_	_
+dbgoody	22	_	_	_	_	_
 deboleenam5	01	_	_	_	_	_
 deboleenam5	02	_	_	_	_	_
 deboleenam5	04	_	_	_	_	QGIS
@@ -1256,6 +1514,15 @@ dgplacenames	18	_	_	_	_	QGIS
 dgplacenames	19	_	_	_	_	_
 dgplacenames	20	_	_	_	_	QGIS
 dgplacenames	21	_	_	_	_	_
+dgplacenames	22	_	_	_	_	_
+dgplacenames	23	UK	_	_	_	_
+dgplacenames	24	_	_	_	_	_
+dgplacenames	25	_	_	_	_	_
+dgplacenames	26	_	_	_	_	_
+dgplacenames	27	_	_	_	_	_
+dgplacenames	28	_	_	_	_	_
+dgplacenames	29	_	_	_	_	_
+dgplacenames	30	_	_	_	_	_
 Di_dyne	01	_	_	_	_	_
 Di_dyne	02	_	_	_	_	QGIS
 Di_dyne	03	_	_	_	_	_
@@ -1280,6 +1547,7 @@ DiasporaDan	18	_	_	_	_	_
 DiasporaDan	19	_	_	_	_	_
 DiasporaDan	20	_	_	_	_	_
 DiasporaDan	21	_	_	_	_	_
+DiasporaDan	24	_	_	_	_	_
 dic1991	01	_	_	_	_	_
 dic1991	02	_	_	_	_	_
 dic1991	03	_	_	_	_	_
@@ -1295,6 +1563,9 @@ dic1991	12	_	_	_	_	_
 dic1991	13	_	_	_	_	_
 dic1991	14	_	_	_	_	_
 dic1991	15	Spain	_	transport	_	_
+dic1991	22	_	_	_	_	_
+dic1991	23	_	_	_	_	_
+dic1991	24	_	_	_	_	_
 dickoah	01	_	_	_	_	R
 dickoah	02	_	_	_	_	_
 dickoah	03	Mali	_	_	_	R
@@ -1315,6 +1586,13 @@ dickoah	17	_	_	_	_	R
 dickoah	18	Africa	_	_	_	R
 dickoah	20	_	_	_	_	R
 dickoah	21	_	_	_	_	_
+dickoah	22	_	_	_	_	_
+dickoah	23	_	_	_	_	_
+dickoah	24	_	_	_	_	_
+dickoah	25	_	_	_	_	_
+dickoah	26	World	_	_	_	asciiworld
+dickoah	27	_	_	_	_	_
+dickoah	29	_	_	_	_	_
 dkwiens	11	_	_	_	_	_
 dr_xeo	01	_	_	_	_	R
 dr_xeo	02	_	_	_	_	R
@@ -1332,6 +1610,11 @@ dr_xeo	14	Spain,Portugal	_	_	small multiples	R
 dr_xeo	15	_	_	_	_	R
 dr_xeo	18	_	_	_	_	R
 dr_xeo	21	_	_	_	_	_
+dr_xeo	22	_	_	_	_	_
+dr_xeo	23	Germany	_	_	choropleth	_
+dr_xeo	24	_	_	_	_	_
+dr_xeo	26	_	_	_	_	_
+dr_xeo	29	_	_	_	_	_
 DrChrisGeoSci	01	USA,Canada	_	_	_	_
 DrChrisGeoSci	02	Canada	_	_	_	ArcGIS
 DrChrisGeoSci	03	Europe	_	_	_	ArcGIS
@@ -1353,6 +1636,14 @@ DrChrisGeoSci	18	Canada	_	_	_	ArcGIS
 DrChrisGeoSci	19	Africa	_	_	_	ArcGIS
 DrChrisGeoSci	20	Australia	_	_	_	ArcGIS
 DrChrisGeoSci	21	_	_	_	_	_
+DrChrisGeoSci	22	_	_	_	_	_
+DrChrisGeoSci	23	_	_	_	_	_
+DrChrisGeoSci	24	_	_	_	_	_
+DrChrisGeoSci	25	_	_	_	_	_
+DrChrisGeoSci	26	_	_	_	not a map	ArcGIS,Python
+DrChrisGeoSci	27	_	_	_	_	_
+DrChrisGeoSci	28	_	_	_	_	_
+DrChrisGeoSci	29	_	_	_	_	_
 DrGeoffSmith	01	_	_	_	_	_
 DrGeoffSmith	02	_	_	_	_	_
 DrGeoffSmith	03	_	_	_	_	_
@@ -1371,6 +1662,11 @@ DrGeoffSmith	18	_	_	_	_	_
 DrGeoffSmith	19	_	_	_	_	_
 DrGeoffSmith	20	_	_	_	_	_
 DrGeoffSmith	21	_	_	_	_	_
+DrGeoffSmith	22	_	_	_	_	_
+DrGeoffSmith	23	_	_	_	_	_
+DrGeoffSmith	24	_	_	_	_	_
+DrGeoffSmith	27	_	_	_	_	_
+DrGeoffSmith	29	_	_	_	_	_
 DrNicNacks	01	World	_	_	_	_
 DrNicNacks	02	World	_	_	_	_
 DrNicNacks	03	Italy	Venice	_	_	_
@@ -1392,11 +1688,20 @@ DrNicNacks	18	South Africa	Cape Town	_	_	_
 DrNicNacks	19	_	_	_	blank	_
 DrNicNacks	20	South Africa	_	population	_	_
 DrNicNacks	21	_	_	_	_	_
+DrNicNacks	22	_	_	_	_	_
+DrNicNacks	23	_	_	_	_	_
+DrNicNacks	24	_	_	_	_	_
+DrNicNacks	25	_	_	_	_	_
+DrNicNacks	26	_	_	_	_	_
+DrNicNacks	27	_	_	_	_	_
+DrNicNacks	28	_	_	_	_	_
+DrNicNacks	29	_	_	_	_	_
 dusziv	01	Serbia	_	_	_	QGIS
 dusziv	02	_	_	_	_	_
 dusziv	09	_	_	_	_	_
 dusziv	14	North America	_	_	_	_
 dusziv	16	Denmark	Faroe Islands	_	_	QGIS
+dusziv	29	_	_	_	_	_
 DVDMaps	01	Iceland	_	_	_	_
 DVDMaps	02	_	_	_	_	_
 DVDMaps	03	_	_	_	_	_
@@ -1418,6 +1723,14 @@ DVDMaps	18	_	_	_	_	_
 DVDMaps	19	_	_	_	_	_
 DVDMaps	20	Europe	_	food	_	_
 DVDMaps	21	_	_	_	_	_
+DVDMaps	22	_	_	_	_	_
+DVDMaps	23	_	_	_	_	_
+DVDMaps	24	Uzbekistan	_	_	_	_
+DVDMaps	25	_	_	_	_	_
+DVDMaps	26	_	_	_	_	_
+DVDMaps	27	_	_	_	_	_
+DVDMaps	28	_	_	_	_	_
+DVDMaps	29	_	_	_	_	_
 DylanMoriarty	01	World	_	_	_	Mapbox
 e2molin	01	_	_	_	_	_
 e2molin	02	_	_	_	_	_
@@ -1439,6 +1752,7 @@ Edgards04	07	_	_	_	_	_
 EFisherWX	08	_	_	_	_	_
 EFisherWX	21	_	_	_	_	_
 egrabska	16	_	_	_	_	ArcGIS
+egrabska	22	_	_	_	_	_
 ehab_hessy	01	_	_	_	_	_
 ehab_hessy	02	_	_	_	_	_
 ehab_hessy	03	_	_	_	_	_
@@ -1454,6 +1768,7 @@ EI_Manny	13	_	_	_	_	_
 ElevationApi	02	_	_	_	_	_
 ElevationApi	03	_	_	_	_	_
 ElevationApi	11	_	_	_	_	_
+ElevationApi	24	_	_	_	_	_
 Elio_Javi	20	_	_	_	_	R
 EljarmouniMed	01	_	_	_	_	_
 EljarmouniMed	02	_	_	_	_	_
@@ -1475,6 +1790,14 @@ EljarmouniMed	18	_	_	_	_	_
 EljarmouniMed	19	_	_	_	_	_
 EljarmouniMed	20	_	_	_	_	_
 EljarmouniMed	21	_	_	_	_	_
+EljarmouniMed	22	_	_	_	_	_
+EljarmouniMed	23	Morocco,Mauritania	_	_	_	_
+EljarmouniMed	24	Morocco	_	_	_	_
+EljarmouniMed	25	_	_	_	_	_
+EljarmouniMed	26	_	_	_	_	_
+EljarmouniMed	27	_	_	_	_	_
+EljarmouniMed	28	_	_	_	_	_
+EljarmouniMed	29	_	_	_	_	_
 EllipSIG	01	_	_	_	_	_
 elmalovestrees	01	UK	_	_	_	_
 elmalovestrees	02	UK	_	_	_	_
@@ -1509,6 +1832,12 @@ emilmalta	16	Greenland	_	_	_	_
 emilmalta	17	Greenland	_	_	_	R
 emilmalta	18	Greenland	_	_	_	_
 emilmalta	20	Greenland	_	_	_	R,Aerialod
+emilmalta	22	Greenland	_	_	animation	_
+emilmalta	23	Greenland	_	_	_	_
+emilmalta	24	_	_	_	_	_
+emilmalta	25	_	_	_	_	_
+emilmalta	26	Greenland	Nuuk	_	_	QGIS
+emilmalta	29	_	_	_	_	_
 emu_info	01	UK	_	_	_	_
 emu_info	02	UK	London	transport	interactive	_
 emu_info	03	World	_	_	interactive	_
@@ -1529,6 +1858,8 @@ emu_info	17	World	_	_	_	_
 emu_info	18	UK	London	_	_	_
 emu_info	20	UK	_	_	_	_
 EngFod	21	_	_	_	_	_
+EngFod	23	Saudi Arabia	_	administrative boundaries	_	_
+EngFod	24	_	_	_	_	_
 enjalot	15	_	_	_	_	_
 EnriquePablito	01	_	_	_	_	_
 EnriquePablito	02	_	_	_	_	QGIS
@@ -1564,6 +1895,8 @@ erindataviz	15	_	_	_	_	_
 erindataviz	16	_	_	_	_	_
 erindataviz	17	_	_	_	_	_
 erindataviz	21	_	_	_	_	_
+erindataviz	23	_	_	_	_	_
+erindataviz	24	_	_	_	_	_
 ErwanRivault	01	_	_	_	_	_
 ErwanRivault	02	_	_	_	_	_
 ErwanRivault	03	_	_	_	_	_
@@ -1579,6 +1912,7 @@ ErwanRivault	16	_	_	_	_	_
 ErwanRivault	17	_	_	_	_	_
 ErwanRivault	18	_	_	_	_	_
 ErwanRivault	19	_	_	_	_	_
+eshakss	25	Palestine	_	COVID-19	_	_
 est987	01	Israel	_	_	_	QGIS
 est987	02	_	_	_	_	QGIS
 est987	03	_	_	_	_	QGIS
@@ -1598,6 +1932,14 @@ est987	17	_	_	_	_	QGIS
 est987	18	_	_	_	_	_
 est987	20	_	_	_	_	_
 est987	21	_	_	_	_	_
+est987	22	_	_	_	_	_
+est987	23	Israel	_	_	_	_
+est987	24	_	_	_	_	_
+est987	25	_	_	_	_	_
+est987	26	_	_	_	_	_
+est987	27	_	_	_	_	_
+est987	28	_	_	_	_	_
+est987	29	_	_	_	_	_
 evelynuuemaa	01	_	_	_	_	QGIS
 evelynuuemaa	02	_	_	_	_	QGIS
 evelynuuemaa	03	Estonia	_	administrative boundaries	animation	QGIS
@@ -1619,6 +1961,15 @@ evelynuuemaa	18	_	_	_	_	QGIS
 evelynuuemaa	19	_	_	_	_	QGIS
 evelynuuemaa	20	_	_	_	_	_
 evelynuuemaa	21	_	_	_	_	_
+evelynuuemaa	22	_	_	_	_	_
+evelynuuemaa	23	_	_	_	_	_
+evelynuuemaa	24	_	_	_	_	_
+evelynuuemaa	25	_	_	_	_	_
+evelynuuemaa	26	_	_	_	_	_
+evelynuuemaa	27	Estonia	_	names	_	_
+evelynuuemaa	28	_	_	_	_	_
+evelynuuemaa	29	_	_	_	_	_
+evelynuuemaa	30	Estonia	_	_	_	_
 Explorer_Hos	09	_	_	_	_	_
 F00o00d	01	Saudi Arabia	_	population	_	_
 F00o00d	03	_	_	_	_	Aerialod
@@ -1626,10 +1977,13 @@ F00o00d	12	_	_	_	_	_
 F00o00d	20	_	_	_	_	_
 fairsnape	11	_	_	_	_	_
 FastClouds	03	_	_	_	_	QGIS
+FayeAlexandre4	28	_	_	_	_	_
 fbahoken	05	_	_	_	_	_
 fbahoken	07	_	_	_	_	_
 fbahoken	08	_	_	_	_	_
 fbahoken	09	_	_	_	_	_
+fbahoken	22	World	_	_	_	_
+fbahoken	26	World	_	_	_	Arabesque
 fede_gaspari	01	_	_	_	_	QGIS
 fede_gaspari	02	_	_	_	_	_
 fede_gaspari	03	_	_	_	_	QGIS
@@ -1669,6 +2023,10 @@ fleischkas	18	_	_	_	_	_
 fleischkas	19	_	_	_	_	_
 fleischkas	20	_	_	_	_	_
 fleischkas	21	_	_	_	_	_
+fleischkas	22	_	_	_	_	_
+fleischkas	27	Austria	_	_	_	_
+fleischkas	28	_	_	_	_	_
+fleischkas	29	_	_	_	_	_
 FMEEvangelist	12	_	_	_	_	_
 footloose_nil	03	_	_	_	_	R,Leaflet
 footloose_nil	04	_	_	_	_	R
@@ -1688,6 +2046,12 @@ footloose_nil	18	_	_	_	_	R
 footloose_nil	19	_	_	_	_	R
 footloose_nil	20	_	_	_	_	R
 footloose_nil	21	_	_	_	_	_
+footloose_nil	22	_	_	_	_	_
+footloose_nil	23	_	_	_	_	_
+footloose_nil	24	_	_	_	_	_
+footloose_nil	25	_	_	_	_	_
+footloose_nil	26	_	_	_	_	_
+FOSSGIS_Konf	22	_	_	_	_	_
 FrancescaPontin	02	_	_	_	_	_
 FrancescaPontin	03	_	_	_	_	_
 FrancescaPontin	04	_	_	_	_	_
@@ -1730,6 +2094,8 @@ Gaelle_Sutton	09	_	_	_	_	_
 Gaelle_Sutton	13	_	_	_	_	_
 Gaelle_Sutton	17	_	_	_	_	_
 Gaelle_Sutton	21	_	_	_	_	_
+Gaelle_Sutton	23	_	_	_	_	_
+Gaelle_Sutton	28	_	_	_	_	_
 Gala_Shine	04	_	_	_	_	_
 gartn001	01	_	_	_	_	_
 gartn001	02	_	_	_	_	_
@@ -1743,6 +2109,7 @@ gartn001	16	_	_	_	_	_
 gartn001	17	_	_	_	_	_
 gartn001	18	_	_	_	_	_
 gartn001	20	_	_	_	_	_
+gartn001	22	_	_	_	_	_
 gconant	13	_	_	_	_	_
 Generally_Geo	01	New Zealand	_	animals	_	QGIS,Inkscape
 Generally_Geo	03	_	_	_	_	QGIS,Inkscape
@@ -1781,6 +2148,14 @@ geo_alyaqout	18	_	_	_	_	QGIS
 geo_alyaqout	19	_	_	_	_	QGIS
 geo_alyaqout	20	Kuwait	_	population	choropleth	QGIS,Blender
 geo_alyaqout	21	_	_	_	_	_
+geo_alyaqout	22	_	_	_	_	_
+geo_alyaqout	23	_	_	_	_	_
+geo_alyaqout	24	_	_	_	_	_
+geo_alyaqout	25	_	_	_	_	_
+geo_alyaqout	26	_	_	_	_	_
+geo_alyaqout	27	_	_	_	_	_
+geo_alyaqout	28	_	_	_	_	_
+geo_alyaqout	29	_	_	_	_	_
 geo_brady	01	_	_	_	_	_
 geo_brady	02	_	_	_	_	_
 geo_brady	07	_	_	_	_	_
@@ -1810,6 +2185,7 @@ geocarta	16	_	_	_	_	_
 geocarta	17	_	_	_	_	_
 geocarta	18	_	_	_	_	_
 geocarta	20	_	_	_	_	_
+geocarta	25	_	_	_	_	_
 geochrsphr	17	_	_	_	_	_
 geochrsphr	19	_	_	_	_	_
 GeoConor	07	_	_	_	_	_
@@ -1817,6 +2193,9 @@ GeoConor	11	_	_	_	_	_
 GeoConor	19	UK	_	_	_	_
 GeoConor	20	_	_	_	_	_
 GeoConor	21	_	_	_	_	_
+GeoConor	22	_	_	_	_	_
+GeoConor	23	_	_	_	_	_
+GeoConor	27	_	_	_	_	_
 geodatascience	01	_	_	_	_	QGIS,R
 geodatascience	02	_	_	_	_	R
 geodatascience	03	_	_	_	_	_
@@ -1837,6 +2216,11 @@ geodatascience	18	_	_	_	_	R
 geodatascience	19	_	_	_	_	_
 geodatascience	20	_	_	_	_	_
 geodatascience	21	_	_	_	_	_
+geodatascience	22	_	_	_	_	_
+geodatascience	23	_	_	_	_	_
+geodatascience	24	_	_	_	_	_
+geodatascience	25	_	_	_	_	_
+geodatascience	26	_	_	_	_	_
 GeoDave5280	01	_	_	_	_	_
 GeoDave5280	02	_	_	_	_	_
 GeoDave5280	03	_	_	_	_	_
@@ -1853,6 +2237,8 @@ GeogWillJ	14	Africa	_	_	_	_
 GeogWillJ	17	New Zealand	_	_	_	_
 GeogWillJ	20	_	_	_	_	_
 GeogWillJ	21	New Zealand	_	_	_	_
+GeogWillJ	26	_	_	_	_	_
+GeogWillJ	27	_	_	_	_	_
 GeoJonna	03	_	_	_	_	QGIS
 GeoJonna	05	_	_	_	_	_
 GeoJonna	09	_	_	_	_	_
@@ -1874,6 +2260,10 @@ geojuffie	18	_	_	_	_	QGIS
 geojuffie	19	_	_	_	_	QGIS
 geojuffie	20	_	_	_	_	QGIS
 geojuffie	21	_	_	_	_	_
+geojuffie	22	_	_	_	_	_
+geojuffie	23	_	_	_	_	_
+geojuffie	26	_	_	_	_	_
+geojuffie	29	_	_	_	_	_
 geokaramanis	01	_	_	_	_	R
 geokaramanis	02	_	_	_	_	_
 geokaramanis	03	_	_	_	_	_
@@ -1899,6 +2289,11 @@ geologyjesse	16	_	_	_	_	QGIS,Mapbox
 geologyjesse	18	_	_	_	_	_
 geologyjesse	19	_	_	_	_	_
 geologyjesse	20	_	_	_	_	_
+geologyjesse	23	_	_	_	_	_
+geologyjesse	24	_	_	_	_	_
+geologyjesse	25	_	_	_	_	_
+geologyjesse	26	_	_	_	_	_
+geologyjesse	27	_	_	_	_	_
 geomigr	06	_	_	_	_	_
 geomigr	07	_	_	_	_	_
 geomigr	08	_	_	_	_	_
@@ -1910,7 +2305,12 @@ geoObserver_	11	_	_	_	_	_
 geoObserver_	16	_	_	_	_	_
 geoObserver_	17	_	_	_	_	_
 geoObserver_	19	_	_	_	_	_
+geoObserver_	28	_	_	_	_	_
 GeopipeInc	19	_	_	_	_	_
+GeopipeInc	22	_	_	_	_	_
+GeopipeInc	24	_	_	_	_	_
+GeopipeInc	25	_	_	_	_	_
+GeopipeInc	29	_	_	_	_	_
 geoscentricos	01	_	_	_	_	QGIS
 geoscentricos	02	_	_	_	_	QGIS
 geoscentricos	03	_	_	_	_	QGIS
@@ -1928,6 +2328,7 @@ geoscentricos	14	_	_	_	_	QGIS
 geoscentricos	16	_	_	_	_	QGIS
 geoscentricos	18	_	_	_	_	QGIS
 geoscentricos	19	_	_	_	_	_
+geoscentricos	23	Australia	_	_	_	_
 geospacedman	01	UK	_	names	_	GeoNames
 geospacedman	02	_	_	_	_	_
 geospacedman	03	USA	_	_	_	R
@@ -1949,6 +2350,14 @@ geospacedman	18	_	_	_	_	_
 geospacedman	19	_	_	_	_	_
 geospacedman	20	_	_	_	_	_
 geospacedman	21	_	_	_	_	_
+geospacedman	22	_	_	_	_	_
+geospacedman	23	_	_	_	_	_
+geospacedman	24	_	_	_	_	_
+geospacedman	25	_	_	_	_	_
+geospacedman	26	_	_	_	_	_
+geospacedman	27	_	_	_	_	_
+geospacedman	28	_	_	_	_	_
+geospacedman	29	_	_	_	_	_
 GeospatialJ	01	_	_	_	_	Python
 GeospatialJ	02	_	_	_	_	_
 GeospatialJ	03	_	_	_	_	_
@@ -1957,6 +2366,8 @@ GeospatialJ	15	_	_	_	_	_
 GeospatialJ	17	_	_	_	_	_
 GeospatialJ	18	_	_	_	_	_
 GeospatialJ	19	_	_	_	_	_
+GeospatialJ	24	_	_	_	_	_
+GeospatialJ	27	_	_	_	_	_
 geotologist	01	New Zealand	_	population	_	QGIS
 geotologist	02	Niue	_	_	_	QGIS
 geotologist	03	New Zealand	_	_	_	_
@@ -1976,6 +2387,7 @@ giambattistam	12	_	_	_	_	_
 GIS_Manipulator	07	_	_	_	_	ArcGIS
 GIS_Manipulator	08	_	_	_	_	ArcGIS
 GIS_Manipulator	09	_	_	_	_	ArcGIS
+GIS_Manipulator	23	UK	_	_	_	_
 gis_naren	03	_	_	_	_	_
 gis3700	01	Belgium	Tongeren	_	_	ArcGIS
 gis3700	02	Belgium	Tongeren	history	_	QGIS
@@ -1992,11 +2404,20 @@ gis3700	12	Belgium	Tongeren	transport	_	_
 gis3700	13	Belgium,Netherlands,Germany,France	_	history	_	QGIS
 gis3700	14	Europe	Antwerp	_	animation	QGIS
 gis3700	15	Belgium	_	ecology	_	_
+gis3700	16	World	_	_	_	QGIS
 gis3700	17	Belgium	Tongeren	_	interactive	ArcGIS
 gis3700	18	Belgium	_	history	_	QGIS
 gis3700	19	Belgium	_	water	_	QGIS
 gis3700	20	Belgium	_	population	_	QGIS
 gis3700	21	_	_	_	_	_
+gis3700	22	Belgium	Tongeren	_	_	_
+gis3700	23	World,Belgium	Torgeren	_	_	QGIS,Photoshop
+gis3700	24	Belgium	Tongeren	_	_	_
+gis3700	25	Belgium	Tongeren	_	_	_
+gis3700	26	_	_	_	_	_
+gis3700	27	_	_	_	_	_
+gis3700	28	_	_	_	_	_
+gis3700	29	_	_	_	_	_
 gischops	01	_	_	_	_	_
 gisordie	01	_	_	_	_	_
 gisordie	02	_	_	_	_	_
@@ -2029,6 +2450,13 @@ gontsa	18	Ukraine	Sumy	_	_	QGIS
 gontsa	19	Ukraine	_	_	_	QGIS,Python
 gontsa	20	Ukraine	_	population	cartogram	QGIS
 gontsa	21	_	_	_	_	_
+gontsa	22	Ukraine	Lviv	_	_	_
+gontsa	24	_	_	_	_	_
+gontsa	25	_	_	_	_	_
+gontsa	26	_	_	_	_	_
+gontsa	27	_	_	_	_	_
+gontsa	28	_	_	_	_	_
+gontsa	29	_	_	_	_	_
 gonzalotalavera	01	Peru	Lima	_	_	_
 gonzalotalavera	02	Peru	Lima	_	_	_
 gonzalotalavera	03	Peru	Lima	_	_	_
@@ -2048,6 +2476,7 @@ hannahker11	07	_	_	_	_	Mapbox
 hannahker11	12	_	_	_	_	_
 hannahker11	13	_	_	_	_	_
 hannahker11	18	_	_	_	_	_
+hansakwas  t	24	Netherlands	_	elevation	joyplot	_
 hansakwast	01	_	_	_	_	QGIS
 hansakwast	02	_	_	_	_	QGIS
 hansakwast	03	_	_	_	_	QGIS
@@ -2061,6 +2490,8 @@ hansakwast	12	_	_	_	_	_
 hansakwast	13	_	_	_	_	QGIS
 hansakwast	15	_	_	_	_	QGIS
 hansakwast	21	_	_	_	_	_
+hansakwast	23	_	_	_	_	_
+hansakwast	25	_	_	_	_	_
 HarelDan	01	_	_	_	_	_
 HarelDan	19	_	_	_	_	_
 HarvardMapColl	02	_	_	_	_	_
@@ -2077,6 +2508,14 @@ helenmakesmaps	18	_	_	_	_	QGIS
 helenmakesmaps	19	_	_	_	_	QGIS
 helenmakesmaps	20	UK	_	_	_	_
 helenmakesmaps	21	_	_	_	_	_
+helenmakesmaps	22	_	_	_	_	_
+helenmakesmaps	23	UK	London	_	_	_
+helenmakesmaps	24	UK	_	_	joyplot	R
+helenmakesmaps	25	World	_	food	choropleth	QGIS,Excel
+helenmakesmaps	26	Vietnam	_	population	_	Blender
+helenmakesmaps	27	_	_	_	_	_
+helenmakesmaps	28	_	_	_	_	_
+helenmakesmaps	29	_	_	_	_	_
 Helenmckmck	01	_	_	_	_	QGIS
 Helenmckmck	02	_	_	_	_	QGIS
 Helenmckmck	03	_	_	_	_	_
@@ -2147,6 +2586,14 @@ hireuter	18	Europe	_	_	_	_
 hireuter	19	_	_	_	_	_
 hireuter	20	_	_	_	_	_
 hireuter	21	_	_	_	_	_
+hireuter	22	_	_	_	_	_
+hireuter	23	Europe_	_	_	_	_
+hireuter	24	_	_	_	_	_
+hireuter	25	_	_	_	_	_
+hireuter	26	_	_	_	_	_
+hireuter	27	_	_	_	_	_
+hireuter	28	_	_	_	_	_
+hireuter	29	_	_	_	_	_
 HlneDuval2	17	_	_	_	_	_
 HudaBader7	01	_	_	_	_	_
 HudaBader7	02	_	_	_	_	_
@@ -2173,6 +2620,7 @@ hurricanevicky	17	World	_	_	_	_
 hurricanevicky	18	USA	Washington DC	_	_	_
 hurricanevicky	19	USA	Washington DC	_	_	_
 hurricanevicky	20	Poland	_	_	_	_
+hurricanevicky	25	North America	_	animals	_	_
 iamericfletcher	03	USA	_	_	_	R
 iamSimon_A	01	New Zealand	_	_	_	_
 iamSimon_A	02	North America,Central America,South America	_	_	_	_
@@ -2206,6 +2654,7 @@ Iawmatthew	16	_	_	_	_	_
 Iawmatthew	17	_	_	_	_	_
 Iawmatthew	19	_	_	_	_	_
 Iawmatthew	20	_	_	_	_	_
+Iawmatthew	24	_	_	_	_	_
 ibltzr	02	_	_	_	_	_
 Ichisa5	04	South America	_	animals	_	R
 igeolise	03	_	_	_	_	QGIS
@@ -2234,6 +2683,13 @@ IIEGJ	18	_	_	_	_	_
 IIEGJ	19	_	_	_	_	_
 IIEGJ	20	_	_	_	_	_
 IIEGJ	21	_	_	_	_	_
+IIEGJ	23	_	_	_	_	_
+IIEGJ	24	_	_	_	_	_
+IIEGJ	25	_	_	_	_	_
+IIEGJ	26	_	_	_	_	_
+IIEGJ	27	_	_	_	_	_
+IIEGJ	28	_	_	_	_	_
+IIEGJ	29	_	_	_	_	_
 ijturton	01	_	_	_	_	QGIS
 ijturton	02	_	_	_	_	QGIS
 ijturton	03	USA	_	administrative boundaries,elections	_	GeoServer,GIMP
@@ -2250,6 +2706,7 @@ ijturton	16	_	_	_	_	QGIS
 ijturton	17	_	_	_	_	QGIS
 ijturton	19	_	_	_	_	QGIS
 ijturton	21	_	_	_	_	_
+ijturton	24	_	_	_	_	_
 IKEDA_02	01	_	_	_	_	_
 IKEDA_02	02	_	_	_	_	_
 IKEDA_02	03	_	_	_	_	_
@@ -2271,9 +2728,17 @@ IKEDA_02	18	_	_	_	_	_
 IKEDA_02	19	_	_	_	_	_
 IKEDA_02	20	_	_	_	_	_
 IKEDA_02	21	_	_	_	_	_
+IKEDA_02	22	_	_	_	_	_
+IKEDA_02	23	_	_	_	_	_
+IKEDA_02	24	_	_	_	_	_
+IKEDA_02	26	_	_	_	_	_
+IKEDA_02	27	_	_	_	_	_
+IKEDA_02	28	_	_	_	_	_
+IKEDA_02	29	_	_	_	_	_
 ilarischeinin	16	_	_	_	_	R
 ilianitev	01	_	_	_	_	_
 ilyabo	07	_	_	_	_	_
+ilyabo	26	_	_	_	_	_
 ilyankou	01	_	_	_	_	_
 ilyankou	02	_	_	_	_	_
 ilyankou	03	_	_	_	_	_
@@ -2295,11 +2760,14 @@ ilyankou	18	_	_	_	_	QGIS
 ilyankou	19	_	_	_	_	_
 ilyankou	20	_	_	_	_	QGIS
 ilyankou	21	_	_	_	_	_
+ilyankou	23	_	_	_	_	_
+ilyankou	24	_	_	_	_	_
 imDebanjan	01	_	_	_	_	_
 imDebanjan	02	_	_	_	_	_
 imDebanjan	03	_	_	_	_	ArcGIS
 imDebanjan	04	_	_	_	_	ArcGIS
 imDebanjan	05	_	_	_	_	_
+imfremoe	29	_	_	_	_	_
 iMohamedlil	01	_	_	_	_	_
 iMohamedlil	02	_	_	_	_	_
 iMohamedlil	03	_	_	_	_	_
@@ -2320,6 +2788,9 @@ iMohamedlil	17	_	_	_	_	_
 iMohamedlil	18	_	_	_	_	_
 iMohamedlil	19	_	_	_	_	_
 iMohamedlil	21	_	_	_	_	_
+iMohamedlil	23	Saudi Arabia	_	_	_	_
+iMohamedlil	24	_	_	_	_	_
+iMohamedlil	25	Saudi Arabia	_	_	_	_
 ImperiiaProject	09	_	_	_	_	_
 inari_ta	01	Europe	_	_	_	OpenStreetMap,QGIS
 inari_ta	02	_	_	_	_	QGIS
@@ -2338,11 +2809,15 @@ IngeTolenaars	02	_	_	_	_	_
 inguibona	01	_	_	_	_	_
 inguibona	03	_	_	_	_	_
 io_exception	02	Mexico	_	earthquakes	joyplot	Python
+IsaacSCastro	24	_	_	_	_	_
 isabelnthomas	03	_	_	_	_	_
 It_me_Greg	06	_	_	_	_	_
 It_me_Greg	07	_	_	_	_	_
 ItsSifa	11	_	_	_	_	ArcGIS
 ivanziogeo	21	_	_	_	_	_
+ivanziogeo	24	_	_	_	_	_
+ivanziogeo	27	_	_	_	_	_
+ivanziogeo	28	_	_	_	_	_
 ivelasq3	01	_	_	_	_	R
 iwengraf	01	_	_	_	_	_
 iwengraf	02	_	_	_	_	_
@@ -2364,6 +2839,8 @@ iwengraf	17	_	_	_	_	_
 iwengraf	18	_	_	_	_	R
 iwengraf	19	_	_	_	_	_
 iwengraf	20	_	_	_	_	R
+iwengraf	23	_	_	_	_	_
+iwengraf	24	_	_	_	_	_
 j_igarashi	21	_	_	_	_	_
 j_masselink	12	USA	_	_	_	Paint
 j_masselink	18	_	_	_	_	_
@@ -2390,9 +2867,8 @@ jackffrench	11	_	_	_	_	Aerialod
 jackffrench	14	_	_	_	_	_
 jackffrench	17	_	_	_	_	_
 jacopofochi	21	_	_	_	_	_
-jakub_nowosad	04	_	_	_	_	R
-jakub_nowosad	06	_	_	_	_	R
-jakub_nowosad	07	_	_	_	_	R
+jacopofochi	22	_	_	_	_	_
+jacopofochi	23	Belgium	Brussels	_	_	_
 jallejulle	11	_	_	_	_	three.js
 JamesFiord	09	_	_	_	_	_
 JamesFiord	16	_	_	_	_	_
@@ -2421,6 +2897,14 @@ JanPhilippKolb	17	World	_	administrative boundaries	_	R
 JanPhilippKolb	19	_	_	_	_	R
 JanPhilippKolb	20	_	_	_	_	_
 JanPhilippKolb	21	_	_	_	_	_
+JanPhilippKolb	22	Spain	Barcelona	transport	_	R
+JanPhilippKolb	23	USA	_	_	_	_
+JanPhilippKolb	24	_	_	_	_	_
+JanPhilippKolb	25	_	_	_	_	_
+JanPhilippKolb	26	_	_	_	_	_
+JanPhilippKolb	27	_	_	_	_	_
+JanPhilippKolb	28	_	_	_	_	_
+JanPhilippKolb	29	_	_	_	_	_
 JCamilOrt	01	_	_	_	_	_
 JCamilOrt	02	_	_	_	_	_
 JCamilOrt	03	_	_	_	_	_
@@ -2448,6 +2932,13 @@ jdeltoro1973	17	_	_	_	_	_
 jdeltoro1973	18	_	_	_	_	_
 jdeltoro1973	19	_	_	_	_	_
 jdeltoro1973	20	_	_	_	_	_
+jdeltoro1973	22	_	_	_	_	_
+jdeltoro1973	23	Mexico	_	_	_	_
+jdeltoro1973	24	_	_	_	_	_
+jdeltoro1973	26	_	_	_	_	_
+jdeltoro1973	27	_	_	_	_	_
+jdeltoro1973	28	_	_	_	_	_
+jdeltoro1973	29	_	_	_	_	_
 Jens_D_Mueller	14	_	_	_	_	R,Python
 jerry_shannon	05	_	_	_	_	_
 jerry_shannon	15	_	_	_	_	_
@@ -2469,6 +2960,8 @@ jgoodyear9	12	_	_	_	_	_
 jgoodyear9	16	_	_	_	_	_
 jgoodyear9	18	_	_	_	_	_
 jgoodyear9	21	_	_	_	_	_
+jgoodyear9	23	_	_	_	_	_
+jgoodyear9	24	_	_	_	_	_
 jh550	01	_	_	_	_	_
 jh550	02	_	_	_	_	ArcGIS
 jh550	03	_	_	_	_	_
@@ -2479,6 +2972,7 @@ Jingrong_Zhang	10	China	_	_	Lego	_
 Jingrong_Zhang	12	_	_	_	_	_
 Jingrong_Zhang	17	Nepal	_	_	_	_
 Jingrong_Zhang	18	Nepal	_	_	_	_
+Jingrong_Zhang	27	_	_	_	_	_
 JkariukiDev	02	_	_	_	_	QGIS
 JkariukiDev	03	_	_	_	_	_
 JkariukiDev	04	_	_	_	_	QGIS
@@ -2527,6 +3021,8 @@ jmccarty_geo	18	_	_	_	_	_
 jmccarty_geo	19	_	_	_	_	_
 jmccarty_geo	20	_	_	_	_	_
 jmccarty_geo	21	_	_	_	_	_
+jmccarty_geo	22	_	_	_	_	_
+jmccarty_geo	23	Europe	_	_	_	_
 jmtoralc	01	_	_	_	_	_
 jmtoralc	02	_	_	_	_	_
 jmtoralc	03	_	_	_	_	_
@@ -2564,6 +3060,9 @@ JoeWDavies	18	_	_	_	_	_
 JoeWDavies	19	UK	_	transport	_	Kepler.gl,OpenStreetMap
 JoeWDavies	20	_	_	_	_	_
 JoeWDavies	21	_	_	_	_	_
+JoeWDavies	26	_	_	_	_	_
+JoeWDavies	27	_	_	_	_	_
+JoeWDavies	30	_	_	_	_	_
 JoFMolano	01	_	_	_	_	_
 JoFMolano	02	_	_	_	_	_
 JoFMolano	03	_	_	_	_	_
@@ -2573,6 +3072,8 @@ JohannesRahlf	03	_	_	_	_	R
 JonasNelson19	16	_	_	_	_	_
 JonasNelson19	17	_	_	_	_	_
 JonasNelson19	20	_	_	_	_	_
+JonasNelson19	22	_	_	_	_	_
+JonasNelson19	24	_	_	_	_	_
 JonasStillhard	03	Ukraine	_	forest	_	R
 JonasStillhard	04	_	_	_	_	R
 JonasStillhard	05	_	_	_	_	R
@@ -2592,6 +3093,14 @@ JonasStillhard	18	_	_	_	_	R
 JonasStillhard	19	_	_	_	_	R
 JonasStillhard	20	_	_	_	_	R
 JonasStillhard	21	_	_	_	_	_
+JonasStillhard	22	_	_	_	_	_
+JonasStillhard	23	_	_	_	_	_
+JonasStillhard	24	_	_	_	_	_
+JonasStillhard	25	_	_	_	_	_
+JonasStillhard	26	_	_	_	_	_
+JonasStillhard	27	_	_	_	_	_
+JonasStillhard	28	_	_	_	_	_
+JonasStillhard	29	_	_	_	_	_
 jonni_walker	11	_	_	_	_	Mapbox
 jonni_walker	21	_	_	_	_	_
 JonoPatterson	17	_	_	_	_	Aerialod
@@ -2599,6 +3108,8 @@ JonoPatterson	18	_	_	_	_	_
 JonoPatterson	19	_	_	_	_	_
 JonoPatterson	20	UK	_	population	_	Aerialod
 JonoPatterson	21	_	_	_	_	_
+JonoPatterson	23	_	_	_	_	_
+JonoPatterson	25	_	_	_	_	_
 jorandradefig	01	_	_	_	_	_
 jorandradefig	02	_	_	_	_	_
 JoseFMolano	01	_	_	_	_	_
@@ -2611,6 +3122,10 @@ JoshCopping	10	World	_	_	_	R
 JoshCopping	13	_	_	_	_	R
 JoshCopping	20	_	_	_	_	R
 JoshCopping	21	_	_	_	_	_
+JoshCopping	22	_	_	_	_	_
+JoshCopping	24	UK	_	_	Lego	_
+JoshCopping	26	_	_	_	_	_
+JoshCopping	29	_	_	_	_	_
 jpablovallejog	01	_	_	_	_	QGIS
 jpablovallejog	02	_	_	_	_	QGIS
 jpablovallejog	03	_	_	_	_	QGIS
@@ -2628,6 +3143,7 @@ JPeterPeters	10	_	_	_	_	ArcGIS
 JPeterPeters	13	_	_	_	_	ArcGIS
 JPeterPeters	17	_	_	_	_	_
 JPeterPeters	21	_	_	_	_	_
+JPeterPeters	25	_	_	_	_	_
 jstnbraaten	01	_	_	_	_	_
 jstnbraaten	02	_	_	_	_	_
 jstnbraaten	03	_	_	_	_	_
@@ -2646,6 +3162,7 @@ jstnbraaten	16	_	_	_	_	_
 jstnbraaten	17	_	_	_	_	_
 jstnbraaten	18	_	_	_	_	_
 jstnbraaten	20	_	_	_	_	_
+jstnbraaten	21	_	_	_	_	_
 JuanEstellerR	01	_	_	_	_	_
 JuanEstellerR	04	_	_	_	_	_
 JuanEstellerR	21	_	_	_	_	_
@@ -2668,6 +3185,12 @@ juanluistv_	11	_	_	_	_	QGIS,three.js
 juanluistv_	12	_	_	_	_	_
 juanluistv_	15	_	_	_	_	QGIS
 juanluistv_	16	_	_	_	_	_
+juanluistv_	22	_	_	_	_	_
+juanluistv_	24	_	_	_	_	_
+juanluistv_	25	_	_	_	_	_
+juanluistv_	26	_	_	_	_	_
+juanluistv_	29	_	_	_	_	_
+juanluistv_	30	South America	_	_	_	_
 JulesGrandin	01	_	_	_	_	_
 JulesGrandin	02	_	_	_	_	_
 JulesGrandin	03	_	_	_	_	_
@@ -2689,6 +3212,15 @@ JulesGrandin	18	_	_	_	_	_
 JulesGrandin	19	_	_	_	_	_
 JulesGrandin	20	_	_	_	_	_
 JulesGrandin	21	_	_	_	_	_
+JulesGrandin	22	_	_	_	_	_
+JulesGrandin	23	_	_	_	_	_
+JulesGrandin	24	_	_	_	_	_
+JulesGrandin	25	_	_	_	_	_
+JulesGrandin	26	_	_	_	_	physical objects
+JulesGrandin	27	_	_	_	_	_
+JulesGrandin	28	_	_	_	_	_
+JulesGrandin	29	_	_	_	_	_
+JulesGrandin	30	_	_	_	_	_
 JulianaMapper	01	_	_	_	_	_
 JulianaMapper	02	_	_	_	_	_
 JulianaMapper	03	USA	_	administrative boundaries,elections	_	_
@@ -2714,6 +3246,14 @@ JulienQuotidien	18	_	_	_	_	_
 JulienQuotidien	19	_	_	_	_	_
 JulienQuotidien	20	_	_	_	_	_
 JulienQuotidien	21	_	_	_	_	_
+JulienQuotidien	22	_	_	_	_	_
+JulienQuotidien	23	_	_	_	_	_
+JulienQuotidien	24	_	_	_	_	_
+JulienQuotidien	25	_	_	_	_	_
+JulienQuotidien	26	_	_	_	_	_
+JulienQuotidien	27	_	_	_	_	_
+JulienQuotidien	28	_	_	_	_	_
+JulienQuotidien	29	_	_	_	_	_
 Jumbostation	01	_	_	_	_	QGIS
 Jumbostation	02	_	_	_	_	QGIS
 Jumbostation	03	_	_	_	_	QGIS
@@ -2739,12 +3279,19 @@ Junevgt	18	_	_	_	_	_
 Junevgt	19	_	_	_	_	_
 Junevgt	20	_	_	_	_	_
 Junevgt	21	_	_	_	_	_
+Junevgt	22	_	_	_	_	_
+Junevgt	23	_	_	_	_	_
+Junevgt	24	_	_	_	_	_
+Junevgt	25	_	_	_	_	_
+Junevgt	28	_	_	_	_	_
+Junevgt	29	_	_	_	_	_
 JuvenalCamposF	01	_	_	_	_	_
 JuvenalCamposF	02	_	_	_	_	_
 JuvenalCamposF	06	_	_	_	_	R
 JuvenalCamposF	08	_	_	_	_	R
 JuvenalCamposF	09	_	_	_	_	R
 JuvenalCamposF	12	Fictional	_	_	_	_
+JuvenalCamposF	25	_	_	_	_	_
 k_zoar	01	Japan	Kawagoe	_	_	Leaflet,D3.js
 k_zoar	02	_	_	_	_	QGIS,D3.js,Leaflet
 k_zoar	03	_	_	_	_	QGIS,D3.js,Leaflet
@@ -2768,6 +3315,7 @@ Kantzakata	15	_	_	_	_	_
 Kantzakata	16	_	_	_	_	_
 Kantzakata	17	_	_	_	_	QGIS
 Kantzakata	20	_	_	_	_	_
+Kantzakata	25	_	_	_	_	_
 karopasa	01	_	_	_	_	_
 karopasa	02	_	_	_	_	_
 karopasa	03	_	_	_	_	_
@@ -2794,6 +3342,15 @@ Kartokobri	18	_	_	_	_	_
 Kartokobri	19	_	_	_	_	_
 Kartokobri	20	_	_	_	_	_
 Kartokobri	21	_	_	_	_	_
+Kartokobri	22	Central America	_	hurricanes	_	_
+Kartokobri	23	_	_	_	_	_
+Kartokobri	24	_	_	_	_	_
+Kartokobri	25	_	_	_	_	_
+Kartokobri	26	World	_	_	_	physical objects
+Kartokobri	27	_	_	_	_	_
+Kartokobri	28	_	_	_	_	_
+Kartokobri	29	_	_	_	_	_
+Kartokobri	30	World	_	_	_	_
 katiejolly6	01	_	_	_	_	R
 katiejolly6	02	_	_	_	_	_
 katiejolly6	03	_	_	_	_	QGIS,R
@@ -2825,6 +3382,13 @@ keirtography	18	_	_	_	_	_
 keirtography	19	_	_	_	_	_
 keirtography	20	_	_	_	_	_
 keirtography	21	_	_	_	_	_
+keirtography	22	_	_	_	_	_
+keirtography	23	_	_	_	_	_
+keirtography	24	_	_	_	_	_
+keirtography	25	_	_	_	_	_
+keirtography	26	_	_	_	_	_
+keirtography	27	_	_	_	_	_
+keirtography	28	_	_	_	_	_
 ken_goulding	13	_	_	_	_	_
 ken_goulding	20	_	_	_	_	_
 Kenneth_KHW	02	_	_	_	_	_
@@ -2839,6 +3403,7 @@ Kenneth_KHW	14	_	_	_	_	R
 Kenneth_KHW	15	_	_	_	_	R,ArcGIS
 Kenneth_KHW	20	Japan	_	population	_	Aerialod
 Kenneth_KHW	21	_	_	_	_	_
+Kenneth_KHW	24	_	_	_	_	_
 kennethfield	01	_	_	_	_	_
 kennethfield	02	_	_	_	_	_
 kennethfield	03	_	_	_	_	_
@@ -2855,6 +3420,13 @@ kennethfield	18	_	_	_	_	_
 kennethfield	19	World	_	_	interactive	ArcGIS
 kennethfield	20	_	_	_	_	_
 kennethfield	21	_	_	_	_	_
+kennethfield	22	_	_	_	_	_
+kennethfield	23	USA	_	_	_	_
+kennethfield	24	_	_	_	_	_
+kennethfield	25	USA	_	_	_	_
+kennethfield	26	USA	_	elections	cartogram,charts	_
+kennethfield	27	_	_	_	_	_
+kennethfield	28	_	_	_	_	_
 kermmartian	09	_	_	_	_	_
 kgjenkins	01	_	_	_	_	QGIS
 kgjenkins	02	_	_	_	_	QGIS
@@ -2870,6 +3442,11 @@ kgjenkins	12	_	_	_	ASCII,not a map	Linux
 kgjenkins	13	_	_	_	_	QGIS
 kgjenkins	15	_	_	_	_	_
 kgjenkins	16	_	_	_	_	_
+kgjenkins	21	_	_	_	_	_
+kgjenkins	22	_	_	_	_	_
+kgjenkins	24	_	_	_	_	_
+kgjenkins	25	_	_	_	_	_
+kgjenkins	28	_	_	_	_	_
 kimmohaapakan	05	_	_	_	_	_
 kinotus	21	_	_	_	_	_
 kjsime	01	New Zealand	Auckland	_	_	ArcGIS
@@ -2893,9 +3470,18 @@ kjsime	18	New Zealand	Auckland	transport	_	_
 kjsime	19	_	_	_	_	ArcGIS
 kjsime	20	New Zealand	Auckland	_	joyplot	ArcGIS
 kjsime	21	New Zealand	_	_	_	_
+kjsime	22	New Zealand	Auckland	transport	_	_
+kjsime	23	_	_	_	_	_
+kjsime	24	New Zealand	Auckland	_	_	_
+kjsime	25	New Zealand	Auckland	COVID-19	_	_
+kjsime	26	New Zealand	Auckland	_	_	_
+kjsime	27	_	_	_	_	_
+kjsime	28	_	_	_	_	_
+kjsime	29	_	_	_	_	_
 kkakey_	01	_	_	_	_	_
 kkakey_	02	_	_	_	_	_
 klaskarlsson	07	World	_	_	_	_
+klaskarlsson	29	_	_	_	_	_
 KoalaGeo	04	_	_	_	_	QGIS
 Koen_VdE	01	_	_	_	_	Mapbox
 Koen_VdE	02	_	_	_	_	_
@@ -2914,6 +3500,10 @@ Koen_VdE	16	New Zealand	_	population	_	Aerialod
 Koen_VdE	17	_	_	_	_	_
 Koen_VdE	19	_	_	_	_	_
 Koen_VdE	21	_	_	_	_	_
+Koen_VdE	22	_	_	_	_	_
+Koen_VdE	27	_	_	_	_	_
+Koen_VdE	28	_	_	_	_	_
+Koen_VdE	29	_	_	_	_	_
 KonturInc	01	Portugal	Lisbon	_	_	Kontur
 KonturInc	02	_	_	_	_	_
 KonturInc	03	_	_	_	_	_
@@ -2935,7 +3525,16 @@ KonturInc	18	_	_	_	_	_
 KonturInc	19	_	_	_	_	_
 KonturInc	20	_	_	_	_	_
 KonturInc	21	_	_	_	_	_
+KonturInc	22	World	_	_	_	_
+KonturInc	23	World	_	_	_	_
+KonturInc	24	_	_	_	_	_
+KonturInc	25	_	_	_	_	_
+KonturInc	26	_	_	_	_	_
+KonturInc	27	_	_	_	_	_
+KonturInc	28	_	_	_	_	_
+KonturInc	29	_	_	_	_	_
 kovalainenaa	12	_	_	_	_	_
+KRB_the_Mapper	22	_	_	_	_	_
 kriksine	01	_	_	_	_	_
 kriksine	02	_	_	_	_	_
 kriksine	03	_	_	_	_	_
@@ -2955,6 +3554,11 @@ kriksine	16	_	_	_	_	_
 kriksine	17	_	_	_	_	_
 kriksine	18	_	_	_	_	_
 kriksine	19	_	_	_	_	_
+kriksine	22	_	_	_	_	_
+kriksine	23	_	_	_	_	_
+kriksine	24	_	_	_	_	_
+kriksine	25	_	_	_	_	_
+kriksine	26	_	_	_	_	_
 ksituan	01	Canada	_	population	_	QGIS,Inkscape
 ksituan	02	Canada	_	population,transport	_	QGIS,Inkscape
 ksituan	03	Canada	_	culture	_	QGIS,Inkscape
@@ -2976,6 +3580,14 @@ ksituan	18	Canada	_	_	_	QGIS,Inkscape
 ksituan	19	Canada	_	_	_	QGIS,Inkscape
 ksituan	20	Canada	_	population	charts	_
 ksituan	21	Canada	_	_	_	_
+ksituan	22	_	_	_	_	_
+ksituan	23	_	_	_	_	_
+ksituan	24	_	_	_	_	_
+ksituan	25	_	_	_	_	_
+ksituan	26	_	_	_	_	_
+ksituan	27	_	_	_	_	_
+ksituan	28	_	_	_	_	_
+ksituan	29	_	_	_	_	_
 Kulbinderdio	01	_	_	_	_	_
 Kulbinderdio	03	_	_	_	_	_
 kushtrimvisoka	01	_	_	_	_	_
@@ -3003,6 +3615,15 @@ lacxrx	18	France	_	_	_	QGIS
 lacxrx	19	France	_	hydrology	_	QGIS
 lacxrx	20	France	_	_	_	QGIS
 lacxrx	21	France	Valence	_	_	QGIS
+lacxrx	22	_	_	_	_	_
+lacxrx	23	_	_	_	_	_
+lacxrx	24	_	_	_	_	_
+lacxrx	25	_	_	_	_	_
+lacxrx	26	_	_	_	_	_
+lacxrx	27	France	_	_	_	_
+lacxrx	28	Fictional	_	_	_	_
+lacxrx	29	_	_	_	_	_
+lacxrx	30	_	_	_	_	_
 LandEthics	01	_	_	_	_	_
 LandEthics	02	_	_	_	_	_
 LandEthics	03	_	_	_	_	_
@@ -3023,6 +3644,7 @@ LandEthics	21	_	_	_	_	_
 laurentgontier	11	_	_	_	_	_
 laurentgontier	16	_	_	_	_	_
 laurentgontier	17	_	_	_	_	_
+laurentgontier	25	_	_	_	_	_
 lecartographe	01	_	_	_	_	ArcGIS
 lecartographe	02	_	_	_	_	_
 lecartographe	03	_	_	_	_	_
@@ -3035,6 +3657,8 @@ lecartographe	09	_	_	_	_	_
 lecartographe	12	_	_	_	_	_
 lecartographe	13	_	_	_	_	_
 lecartographe	18	_	_	_	_	_
+lecartographe	20	World	_	_	_	_
+lecartographe	24	France	_	_	_	_
 lemuscanovas	01	_	_	_	_	_
 lemuscanovas	02	_	_	_	_	R
 Lene_Fischer	01	_	_	_	_	_
@@ -3057,6 +3681,7 @@ Lene_Fischer	19	_	_	_	_	_
 Lene_Fischer	20	_	_	_	_	_
 LenkaHas	12	_	_	_	_	_
 LenkaHas	15	_	_	_	_	R
+LenkaHas	22	_	_	_	_	_
 Letyludigital	01	Mexico	_	_	_	QGIS
 Letyludigital	02	_	_	_	_	QGIS,Python
 Letyludigital	03	_	_	_	_	QGIS
@@ -3082,6 +3707,7 @@ LizbethBastid11	06	_	_	_	_	_
 LizbethBastid11	07	_	_	_	_	_
 LizbethBastid11	08	_	_	_	_	_
 LizbethBastid11	13	_	_	_	_	_
+LizbethBastid11	23	_	_	_	_	_
 lizhvania	02	_	_	_	_	QGIS
 LocationArtist2	03	USA	_	_	_	ArcGIS,Python
 LouiseSmith_Geo	01	_	_	_	_	_
@@ -3101,6 +3727,10 @@ Lubin_Picard	13	_	_	_	_	QGIS
 Lubin_Picard	15	_	_	_	_	QGIS
 Lubin_Picard	16	_	_	_	_	QGIS
 Lubin_Picard	19	_	_	_	_	_
+Lubin_Picard	23	_	_	_	_	_
+Lubin_Picard	26	_	_	_	_	_
+Lubin_Picard	27	_	_	_	_	_
+Lubin_Picard	28	_	_	_	_	_
 LuciaNavrro	02	_	_	_	_	_
 LuciaNavrro	04	_	_	_	_	_
 LuciaNavrro	06	_	_	_	_	_
@@ -3117,6 +3747,7 @@ LuisAguilarCruz	03	_	_	_	_	_
 LuizGalizia	04	_	_	_	_	R
 LuizGalizia	09	_	_	_	_	R
 LuizGalizia	11	_	_	_	_	R
+LuizGalizia	21	_	_	_	_	_
 lxndrkp	01	Germany	Berlin	transport	_	R
 lxndrkp	02	_	_	_	_	R
 lxndrkp	03	_	_	_	_	R
@@ -3129,6 +3760,8 @@ lxndrkp	11	_	_	_	_	R,Mapbox
 lxndrkp	13	_	_	_	_	R
 lxndrkp	14	_	_	_	_	R
 lxndrkp	20	_	_	_	_	Leaflet,R
+lxndrkp	22	_	_	_	_	_
+lxndrkp	26	_	_	_	_	_
 m_dizayee	01	_	_	_	_	_
 m_dizayee	02	_	_	_	_	QGIS
 m_dizayee	03	_	_	_	_	_
@@ -3166,6 +3799,12 @@ MaelleAMM	18	_	_	_	_	_
 MaelleAMM	19	_	_	_	_	_
 MaelleAMM	20	_	_	_	_	_
 MaelleAMM	21	_	_	_	_	_
+MaelleAMM	23	_	_	_	_	_
+MaelleAMM	24	_	_	_	_	_
+MaelleAMM	25	_	_	_	_	_
+MaelleAMM	26	_	_	_	_	_
+MaelleAMM	27	_	_	_	_	_
+MaelleAMM	29	Mars	_	_	animation	_
 MAHESHK92842090	01	_	_	_	_	_
 MAHESHK92842090	02	_	_	_	_	_
 MAHESHK92842090	03	_	_	_	_	_
@@ -3195,6 +3834,7 @@ mapbliss	05	_	_	_	_	_
 MapHustle	01	New Zealand	_	_	_	_
 MapHustle	11	New Zealand	Wellington	_	_	Aerialod
 MapHustle	15	New Zealand	Wellington	earthquakes	_	_
+MapHustle	24	New Zealand	_	_	_	_
 mapmakerdavid	16	Oceania	_	_	from memory	physical objects
 MapMakinMeyers	01	_	_	_	_	_
 MapNav_Tom	05	_	_	_	_	QGIS
@@ -3214,6 +3854,7 @@ mapperfr	09	_	_	_	_	Aerialod
 mapperfr	10	_	_	_	_	Aerialod
 mapperfr	16	_	_	_	_	QGIS,Mapbox
 mapperfr	17	_	_	_	_	_
+mapperfr	28	_	_	_	_	_
 MapsByAntonia	01	_	_	_	_	_
 MapsByAntonia	02	_	_	_	_	_
 MapsByAntonia	03	_	_	_	_	ArcGIS
@@ -3235,6 +3876,11 @@ MapsByAntonia	18	_	_	_	_	_
 MapsByAntonia	19	_	_	_	_	_
 MapsByAntonia	20	_	_	_	_	_
 MapsByAntonia	21	_	_	_	_	_
+MapsByAntonia	22	_	_	_	_	_
+MapsByAntonia	26	_	_	_	_	_
+MapsByAntonia	27	_	_	_	_	_
+MapsByAntonia	28	_	_	_	_	_
+MapsByAntonia	29	_	_	_	_	_
 mapsbyp	02	_	_	_	_	_
 mapsbyp	03	_	_	_	_	_
 mapsbyp	05	_	_	_	_	_
@@ -3258,6 +3904,8 @@ MapStorms	07	_	_	_	_	_
 MapStorms	08	_	_	_	_	_
 MapStorms	09	_	_	_	_	_
 maptheclouds	11	_	_	_	_	_
+maptheclouds	25	_	_	_	_	_
+maptheclouds	26	_	_	_	_	_
 marcel__dekker	02	_	_	_	_	_
 marcel__dekker	03	_	_	_	_	_
 marcel__dekker	08	_	_	_	_	_
@@ -3285,9 +3933,19 @@ MarcoMinghini	18	_	_	_	_	QGIS
 MarcoMinghini	19	_	_	_	_	_
 MarcoMinghini	20	_	_	_	_	QGIS
 MarcoMinghini	21	_	_	_	_	_
+MarcoMinghini	22	_	_	_	_	_
+MarcoMinghini	23	Europe,Africa	_	_	_	_
+MarcoMinghini	24	_	_	_	_	_
+MarcoMinghini	25	_	_	_	_	_
+MarcoMinghini	26	_	_	_	_	_
+MarcoMinghini	27	_	_	_	_	_
+MarcoMinghini	28	_	_	_	_	_
+MarcoMinghini	29	_	_	_	_	_
+MarcoMinghini	30	_	_	_	_	_
 marcreid	09	_	_	_	_	Mapbox
 marcreid	14	_	_	_	_	_
 marcreid	20	_	_	_	_	Mapbox
+marcreid	22	_	_	_	_	_
 martgnz	13	_	_	_	_	_
 MartinBangratz	01	_	_	_	_	_
 MartinBangratz	02	_	_	_	_	QGIS
@@ -3305,6 +3963,8 @@ MartinBangratz	17	_	_	_	_	_
 MartinBangratz	18	_	_	_	_	_
 MartinBangratz	19	_	_	_	_	_
 MartinBangratz	20	_	_	_	_	QGIS
+MartinBangratz	24	_	_	_	_	_
+MartinBangratz	28	_	_	_	_	_
 martinfernandoo	01	World	_	30DayMapChallenge	_	_
 martinfernandoo	02	Argentina	_	transport	_	R,QGIS
 martinfernandoo	03	_	_	_	_	_
@@ -3318,6 +3978,7 @@ martinfernandoo	10	Argentina	_	sport	_	_
 martinfernandoo	12	_	_	_	_	Inkscape
 martinfernandoo	13	_	_	_	_	_
 MartinSenn6	10	_	_	_	_	QGIS
+mathieuchartie2	23	USA	Washington DC	_	_	_
 MattDzugan	20	_	_	_	_	_
 MattHaul1	01	_	_	_	_	_
 MattiJKokkonen	01	France	_	_	_	QGIS
@@ -3330,6 +3991,7 @@ MattiJKokkonen	10	_	_	_	_	Aerialod
 MattiJKokkonen	11	_	_	_	_	Aerialod
 MattiJKokkonen	12	Finland	_	_	ASCII	Word
 MattiJKokkonen	15	_	_	_	_	QGIS
+MattiJKokkonen	29	_	_	_	_	_
 mc17murali	02	_	_	_	_	_
 Mcguiness_	16	_	_	_	_	_
 MdZakariaHasan7	01	Bangladesh	_	_	_	_
@@ -3349,8 +4011,17 @@ meandmaps	11	_	_	_	_	Inkscape,three.js,Mapbox,Python
 meandmaps	13	_	_	_	_	_
 meandmaps	20	_	_	_	_	_
 meandmaps	21	_	_	_	_	_
+meandmaps	22	_	_	_	_	_
+meandmaps	24	_	_	_	_	_
+meandmaps	25	_	_	_	_	_
+meandmaps	26	_	_	_	_	_
+meandmaps	27	_	_	_	_	_
+meandmaps	29	_	_	_	_	_
+meandmaps	30	France	_	_	_	_
 meme_raz	18	_	_	_	_	_
 meme_raz	20	_	_	_	_	_
+meme_raz	23	Saudi Arabia	_	_	_	_
+meme_raz	29	_	_	_	_	_
 MerDe_Noms	11	_	_	_	_	QGIS
 MiaDP	01	_	_	_	_	_
 MichaelDorman84	03	_	_	_	_	_
@@ -3380,6 +4051,12 @@ MikeCoatsDotCom	17	_	_	_	_	_
 MikeCoatsDotCom	18	_	_	_	_	_
 MikeCoatsDotCom	19	_	_	_	_	_
 MikeCoatsDotCom	20	_	_	_	_	_
+MikeCoatsDotCom	22	UK	_	animals	animation	_
+MikeCoatsDotCom	24	_	_	_	_	_
+MikeCoatsDotCom	25	_	_	_	_	_
+MikeCoatsDotCom	27	_	_	_	_	_
+MikeCoatsDotCom	28	_	_	_	_	_
+MikeCoatsDotCom	29	_	_	_	_	_
 mikejschmidty	01	_	_	_	_	R
 mikejschmidty	02	_	_	_	_	R
 mikejschmidty	07	_	_	_	_	R
@@ -3405,6 +4082,11 @@ MikeMahoney218	18	_	_	_	_	QGIS
 MikeMahoney218	19	_	_	_	_	R
 MikeMahoney218	20	_	_	_	_	R
 MikeMahoney218	21	_	_	_	_	_
+MikeMahoney218	22	_	_	_	_	_
+MikeMahoney218	25	_	_	_	_	_
+MikeMahoney218	26	_	_	_	_	_
+MikeMahoney218	27	_	_	_	_	_
+MikeMahoney218	29	_	_	_	_	_
 mikusthetiger	05	_	_	_	_	QGIS
 mildthing99	03	_	_	_	_	_
 mildthing99	08	_	_	_	_	ArcGIS
@@ -3416,6 +4098,13 @@ mildthing99	16	_	_	_	_	_
 mildthing99	17	_	_	_	_	_
 mildthing99	18	_	_	_	_	_
 mildthing99	21	_	_	_	_	_
+mildthing99	22	_	_	_	_	_
+mildthing99	23	_	_	_	_	_
+mildthing99	24	_	_	_	_	_
+mildthing99	27	_	_	_	_	_
+mildthing99	28	_	_	_	_	_
+mildthing99	29	_	_	_	_	_
+mildthing99	30	_	_	_	_	_
 MindOverMagma	01	_	_	_	_	ArcGIS
 MindOverMagma	03	USA	_	volcanoes	animation	ArcGIS
 MindOverMagma	06	_	_	_	_	ArcGIS
@@ -3423,10 +4112,12 @@ MindOverMagma	07	_	_	_	_	_
 MindOverMagma	09	_	_	_	_	_
 MindOverMagma	12	_	_	_	_	_
 MindOverMagma	13	_	_	_	_	_
+MindOverMagma	24	_	_	_	_	_
 MiniMapMakers	01	_	_	_	_	_
 MiniMapMakers	02	_	_	_	_	_
 MiniMapMakers	07	World	_	_	_	_
 MiniMapMakers	13	_	_	_	_	_
+MiniMapMakers	29	_	_	_	_	_
 MiniTigri	01	Colombia	_	population	_	QGIS
 MiniTigri	02	Colombia	_	experimental	graphic	QGIS
 MiniTigri	03	Colombia	Medellín	experimental	graphic	QGIS
@@ -3437,6 +4128,7 @@ MiniTigri	07	South America	_	forest	_	QGIS
 MiniTigri	08	North America,Central America,South America	_	animals	_	QGIS
 MiniTigri	09	_	_	_	_	QGIS
 MiniTigri	10	_	_	_	_	_
+minus34	27	_	_	_	_	_
 mirzacengic	01	_	_	_	_	R
 mirzacengic	02	_	_	_	_	R
 mizuta_kenji	03	_	_	_	_	_
@@ -3449,6 +4141,8 @@ mjezwysoko	09	_	_	_	_	QGIS
 mjezwysoko	10	_	_	_	_	QGIS
 mjezwysoko	19	_	_	_	_	QGIS
 mjezwysoko	20	_	_	_	_	Aerialod
+mjezwysoko	22	_	_	_	_	_
+mjezwysoko	29	_	_	_	_	_
 mjlegg	04	_	_	_	_	Python
 mjlegg	05	_	_	_	_	Python
 mjlegg	07	_	_	_	_	_
@@ -3461,6 +4155,8 @@ mjlegg	13	_	_	_	_	Aerialod,QGIS
 mjlegg	16	_	_	_	_	QGIS
 mjlegg	17	_	_	_	_	QGIS,Aerialod
 mjlegg	21	_	_	_	_	_
+mjlegg	24	_	_	_	_	_
+mjlegg	25	_	_	_	_	_
 Mjstoroz	01	_	_	_	_	_
 Mjstoroz	02	_	_	_	_	_
 Mjstoroz	03	_	_	_	_	_
@@ -3483,6 +4179,11 @@ mmdolbow	16	_	_	_	_	_
 mmdolbow	17	_	_	_	_	_
 mmdolbow	20	_	_	_	_	_
 mmdolbow	21	_	_	_	_	_
+mmdolbow	24	_	_	_	_	_
+mmdolbow	26	_	_	_	_	_
+mmdolbow	27	_	_	_	_	_
+mmdolbow	28	_	_	_	_	_
+mmdolbow	29	_	_	_	_	_
 mmits003	01	World	_	earthquakes	animation	_
 mmits003	04	_	_	_	_	_
 mmits003	05	Japan	_	names	_	_
@@ -3492,6 +4193,7 @@ moaimx	03	_	_	_	_	_
 moaimx	04	_	_	_	_	_
 moaimx	05	_	_	_	_	_
 monabartling	21	_	_	_	_	_
+monabartling	23	South America	_	_	_	_
 Monk_Po	01	_	_	_	_	QGIS
 Monk_Po	06	_	_	_	_	QGIS
 Monk_Po	09	_	_	_	_	QGIS
@@ -3515,10 +4217,15 @@ MrNSheehan	15	UK	Manchester	_	_	_
 MrNSheehan	16	_	_	_	_	QGIS
 MrNSheehan	18	_	_	_	_	_
 MrNSheehan	21	_	_	_	_	_
+MrNSheehan	24	_	_	_	_	_
+MrNSheehan	25	_	_	_	_	_
+MrNSheehan	26	_	_	_	_	_
+MrNSheehan	28	_	_	_	_	_
 MRuehringer	01	World	_	_	_	QGIS,Illustrator
 MRuehringer	04	_	_	_	_	QGIS
 MRuehringer	12	_	_	_	_	_
 MRuehringer	21	_	_	_	_	_
+MRuehringer	22	_	_	_	_	_
 Ms_Pixels	01	_	_	_	_	_
 Ms_Pixels	02	_	_	_	_	_
 Ms_Pixels	03	_	_	_	_	_
@@ -3546,6 +4253,13 @@ my_physical	18	_	_	_	_	_
 my_physical	19	_	_	_	_	_
 my_physical	20	_	_	_	_	_
 my_physical	21	_	_	_	_	_
+my_physical	22	_	_	_	_	_
+my_physical	24	_	_	_	_	_
+my_physical	25	_	_	_	_	_
+my_physical	26	_	_	_	_	_
+my_physical	27	_	_	_	_	_
+my_physical	28	_	_	_	_	_
+my_physical	29	_	_	_	_	_
 napo	01	_	_	_	_	_
 napo	02	_	_	_	_	_
 napo	03	_	_	_	_	_
@@ -3594,6 +4308,7 @@ neilcfd1	15	Ireland	Dublin	_	_	Python
 neilcfd1	16	_	_	_	_	R
 neilcfd1	17	Ireland	_	_	_	Python
 neilcfd1	21	Ireland,UK	_	_	_	_
+neilcfd1	22	Ireland	_	_	_	_
 neilcharles_uk	01	UK	_	_	_	_
 neilcharles_uk	02	_	_	_	_	QGIS
 neilcharles_uk	03	_	_	_	_	_
@@ -3630,9 +4345,20 @@ neocartocnrs	18	_	_	_	_	_
 neocartocnrs	19	_	_	_	_	_
 neocartocnrs	20	_	_	_	_	_
 neocartocnrs	21	_	_	_	_	_
+neocartocnrs	22	_	_	_	_	_
+neocartocnrs	23	_	_	_	_	_
+neocartocnrs	24	_	_	_	_	_
+neocartocnrs	25	France	_	_	_	_
+neocartocnrs	26	_	_	_	_	_
+neocartocnrs	27	_	_	_	_	_
+neocartocnrs	28	_	_	_	_	_
+neocartocnrs	29	_	_	_	_	_
+neogeo_fr	24	_	_	_	_	_
 neogeografen	01	_	_	_	_	_
 neogeografen	03	_	_	_	_	QGIS
 neogeografen	05	_	_	_	_	_
+neogeografen	22	_	_	_	_	_
+neogeografen	29	_	_	_	_	_
 NguynQu59656951	01	_	_	_	_	_
 NguynQu59656951	02	_	_	_	_	_
 NguynQu59656951	03	_	_	_	_	_
@@ -3676,6 +4402,7 @@ northlandiguana	02	USA	Duluth	_	_	_
 northlandiguana	03	USA	Duluth,Chicago	_	_	_
 notforcasual	01	Singapore	_	_	_	Mapbox
 notforcasual	10	World	_	light	cartogram,charts	_
+notforcasual	23	_	_	_	_	_
 nurussadad	01	Indonesia	_	_	_	R
 nurussadad	02	Indonesia	_	_	_	R
 nurussadad	03	Indonesia	_	elections	_	R
@@ -3699,6 +4426,13 @@ nwbort	16	New Zealand	_	_	_	R
 nwbort	17	Australia	Sydney	administrative boundaries	small multiples	R
 nwbort	18	Australia	_	_	_	Leaflet
 nwbort	19	Australia	_	_	_	Leaflet
+nwbort	22	New Zealand	Auckland	transport	animation	R,Leaflet
+nwbort	23	New Zealand	_	sport	_	R,Leaflet
+nwbort	24	Australia	_	_	_	R
+nwbort	25	Australia	Sydney	COVID-19	_	R,Leaflet
+nwbort	26	World	_	entertainment	animation	R,Mapbox
+nwbort	27	_	_	_	_	_
+nwbort	28	_	_	_	_	_
 odile_p	01	France	Grenoble	_	_	pen and paper
 odile_p	02	France	Grenoble	transport	_	pen and paper
 odile_p	03	France	Grenoble	COVID-19	_	pen and paper
@@ -3720,6 +4454,14 @@ odile_p	18	France	Grenoble	COVID-19	_	pen and paper
 odile_p	19	Fictional	_	treasure map	_	pen and paper
 odile_p	20	France	Grenoble	urban	_	pen and paper
 odile_p	21	France	Isère	rivers	_	pen and paper
+odile_p	22	_	_	_	_	_
+odile_p	23	_	_	_	_	_
+odile_p	24	_	_	_	_	_
+odile_p	25	_	_	_	_	_
+odile_p	26	_	_	_	_	_
+odile_p	27	_	_	_	_	_
+odile_p	28	_	_	_	_	_
+odile_p	29	_	_	_	_	_
 odilon72	01	_	_	_	_	_
 odilon72	05	_	_	_	_	_
 odilon72	06	World	_	_	_	_
@@ -3728,6 +4470,7 @@ odilon72	12	_	_	_	_	_
 odilon72	18	_	_	_	_	_
 odilon72	21	Africa	_	_	_	_
 oguzhan_err	01	_	_	_	_	_
+oisoetoe	01	_	_	_	_	_
 or_oron	02	Europe	_	_	_	_
 or_oron	03	_	_	_	_	_
 OrdnanceSurvey	01	UK	_	_	_	_
@@ -3773,9 +4516,18 @@ owenjpowell	18	_	_	_	_	_
 owenjpowell	19	_	_	_	_	_
 owenjpowell	20	_	_	_	_	_
 owenjpowell	21	_	_	_	_	_
+owenjpowell	22	_	_	_	_	_
+owenjpowell	23	_	_	_	_	_
+owenjpowell	24	_	_	_	_	_
+owenjpowell	25	_	_	_	_	_
+owenjpowell	26	_	_	_	_	_
+owenjpowell	27	_	_	_	_	_
+owenjpowell	28	_	_	_	_	_
+owenjpowell	29	_	_	_	_	_
 p_kil89	01	_	_	_	_	_
 p_kil89	02	_	_	_	_	_
 p_kil89	03	_	_	_	_	_
+Paola_barbarbo	16	_	_	_	_	_
 PascalSchetelat	01	_	_	_	_	Python
 PascalSchetelat	02	_	_	_	_	_
 PascalSchetelat	03	_	_	_	_	_
@@ -3816,6 +4568,12 @@ pheebely	17	_	_	_	_	QGIS
 pheebely	18	_	_	_	_	QGIS
 pheebely	19	USA	_	_	_	QGIS
 pheebely	20	_	_	_	_	QGIS
+pheebely	22	_	_	_	_	_
+pheebely	23	_	_	_	_	_
+pheebely	28	_	_	_	_	_
+pheebely	29	_	_	_	_	_
+pheeelicks	24	_	_	_	_	_
+pheeelicks	26	_	_	_	_	_
 Phil_M_Barrett	02	_	_	_	_	_
 Phil_M_Barrett	09	_	_	_	_	_
 Phil_M_Barrett	11	_	_	_	_	_
@@ -3855,10 +4613,16 @@ pivanputs	18	_	_	_	_	_
 pivanputs	19	_	_	_	_	_
 pivanputs	20	_	_	_	_	R
 pivanputs	21	_	_	_	_	_
+pivanputs	23	USA	_	_	_	_
+pivanputs	24	_	_	_	_	_
+pivanputs	25	_	_	_	_	_
+pivanputs	27	Sweden	_	historical,humour	_	OpenStreetMap
 plablo09	03	_	_	_	_	_
 plablo09	04	_	_	_	_	_
 PlaceNPurpose	12	_	_	_	_	_
 PlaceNPurpose	19	_	_	_	_	_
+PlaceNPurpose	27	_	_	_	_	_
+pleautaud	29	_	_	_	_	_
 pnwgeogeek	01	_	_	_	_	_
 pnwgeogeek	04	USA	_	_	_	_
 pnwgeogeek	05	_	_	_	_	_
@@ -3908,6 +4672,14 @@ popelnuhh	18	_	_	_	_	_
 popelnuhh	19	_	_	_	_	_
 popelnuhh	20	_	_	_	_	_
 popelnuhh	21	_	_	_	_	_
+popelnuhh	22	_	_	_	_	_
+popelnuhh	23	_	_	_	_	_
+popelnuhh	24	_	_	_	_	_
+popelnuhh	25	_	_	_	_	_
+popelnuhh	26	_	_	_	_	_
+popelnuhh	27	_	_	_	_	_
+popelnuhh	28	_	_	_	_	_
+popelnuhh	29	_	_	_	_	_
 positium	02	_	_	_	_	_
 positium	03	_	_	_	_	_
 positium	04	_	_	_	_	_
@@ -3915,6 +4687,9 @@ positium	05	_	_	_	_	_
 positium	10	_	_	_	_	QGIS
 positium	11	_	_	_	_	_
 positium	15	_	_	_	_	_
+positium	22	_	_	_	_	_
+positium	23	_	_	_	_	_
+positium	24	_	_	_	_	_
 Pow__C	01	_	_	_	_	ArcGIS
 Pow__C	02	_	_	_	_	ArcGIS
 Pow__C	03	_	_	_	_	_
@@ -3928,6 +4703,21 @@ Pow__C	10	UK	_	_	_	QGIS
 Pow__C	11	_	_	_	_	_
 Pow__C	12	_	_	_	_	_
 Pow__C	14	_	_	_	_	_
+Pow__C	15	_	_	_	_	_
+Pow__C	16	_	_	_	_	_
+Pow__C	17	_	_	_	_	_
+Pow__C	18	_	_	_	_	_
+Pow__C	19	_	_	_	_	_
+Pow__C	20	_	_	_	_	_
+Pow__C	21	_	_	_	_	_
+Pow__C	22	_	_	_	_	_
+Pow__C	23	_	_	_	_	_
+Pow__C	24	_	_	_	_	_
+Pow__C	25	_	_	_	_	_
+Pow__C	26	_	_	_	_	_
+Pow__C	27	_	_	_	_	_
+Pow__C	28	New Zealand	_	_	_	_
+Pow__C	29	_	_	_	_	_
 Pragabhava	06	_	_	_	_	_
 PratapVardhan	01	_	_	_	_	_
 PratapVardhan	02	_	_	_	_	Python
@@ -3949,6 +4739,14 @@ PratapVardhan	17	_	_	_	_	R
 PratapVardhan	18	_	_	_	_	Python
 PratapVardhan	19	India	_	transport	_	Python
 PratapVardhan	20	_	_	_	_	QGIS,R
+PratapVardhan	22	_	_	_	_	_
+PratapVardhan	23	India	_	_	_	_
+PratapVardhan	24	_	_	_	_	_
+PratapVardhan	25	India	_	COVID-19	_	_
+PratapVardhan	26	_	_	_	_	_
+PratapVardhan	27	_	_	_	_	_
+PratapVardhan	28	_	_	_	_	_
+PratapVardhan	29	_	_	_	_	_
 professorkao	01	_	_	_	_	ArcGIS
 professorkao	02	_	_	_	_	ArcGIS
 professorkao	03	_	_	_	_	QGIS
@@ -3970,6 +4768,15 @@ professorkao	18	_	_	_	_	QGIS
 professorkao	19	_	_	_	_	_
 professorkao	20	_	_	_	_	ArcGIS
 professorkao	21	_	_	_	_	_
+professorkao	22	World	_	_	_	_
+professorkao	23	Canada	Ottawa	_	_	_
+professorkao	24	_	_	_	_	_
+professorkao	25	_	_	_	_	_
+professorkao	26	_	_	_	_	_
+professorkao	27	_	_	_	_	_
+professorkao	28	_	_	_	_	_
+professorkao	29	_	_	_	_	_
+professorkao	30	USA	_	_	_	_
 project4_4	01	_	_	_	_	_
 Properati_Data	05	_	_	_	_	_
 Properati_Data	06	_	_	_	_	_
@@ -4006,6 +4813,14 @@ rajbhagatt	18	_	_	_	_	_
 rajbhagatt	19	_	_	_	_	_
 rajbhagatt	20	_	_	_	_	_
 rajbhagatt	21	_	_	_	_	_
+rajbhagatt	22	_	_	_	_	_
+rajbhagatt	23	_	_	_	_	_
+rajbhagatt	24	_	_	_	_	_
+rajbhagatt	25	_	_	_	_	_
+rajbhagatt	26	_	_	_	_	_
+rajbhagatt	27	_	_	_	_	_
+rajbhagatt	28	_	_	_	_	_
+rajbhagatt	29	_	_	_	_	_
 raul_casbar	04	_	_	_	_	_
 raveydave76	01	_	_	_	_	ArcGIS
 raveydave76	18	_	_	_	_	_
@@ -4050,6 +4865,7 @@ resource_watch	09	_	_	_	_	_
 resource_watch	10	New Zealand	_	_	_	_
 resource_watch	17	_	_	_	_	_
 resource_watch	20	_	_	_	_	_
+resource_watch	23	_	_	_	_	_
 ReynardSubtil	01	_	_	_	_	_
 ReynardSubtil	02	_	_	_	_	_
 ReynardSubtil	03	_	_	_	_	_
@@ -4065,6 +4881,7 @@ ReynardSubtil	16	_	_	_	_	_
 ReynardSubtil	17	_	_	_	_	QGIS
 ReynardSubtil	18	_	_	_	_	_
 ReynardSubtil	20	_	_	_	_	_
+ReynardSubtil	27	_	_	_	_	_
 RFinerman	01	_	_	_	_	QGIS
 RFinerman	02	_	_	_	_	_
 RFinerman	03	_	_	_	_	_
@@ -4081,6 +4898,13 @@ RFinerman	15	Japan	_	transport	_	QGIS
 RFinerman	16	Japan	_	_	_	_
 RFinerman	17	_	_	_	_	_
 RFinerman	18	_	_	_	_	QGIS
+RFinerman	20	USA	_	_	_	_
+RFinerman	21	Japan	_	_	_	_
+RFinerman	23	China	_	_	_	_
+RFinerman	24	_	_	_	_	_
+RFinerman	25	_	_	_	_	_
+RFinerman	27	Ireland	_	_	_	_
+RFinerman	28	_	_	_	_	_
 rgeomatic	01	_	_	_	_	R
 rgeomatic	02	_	_	_	_	R
 rgeomatic	03	_	_	_	_	R
@@ -4114,6 +4938,14 @@ richard_vogg	18	_	_	_	_	_
 richard_vogg	19	_	_	_	_	_
 richard_vogg	20	_	_	_	_	_
 richard_vogg	21	_	_	_	_	_
+richard_vogg	22	_	_	_	_	_
+richard_vogg	23	_	_	_	_	_
+richard_vogg	24	_	_	_	_	_
+richard_vogg	25	_	_	_	_	_
+richard_vogg	26	_	_	_	_	_
+richard_vogg	27	_	_	_	_	_
+richard_vogg	28	_	_	_	_	_
+richard_vogg	29	_	_	_	_	_
 RichardZimerman	01	_	_	_	_	_
 RichardZimerman	02	_	_	_	_	_
 RichardZimerman	03	_	_	_	_	_
@@ -4145,6 +4977,14 @@ RLShelmerdine	18	_	_	_	_	_
 RLShelmerdine	19	_	_	_	_	_
 RLShelmerdine	20	_	_	_	_	_
 RLShelmerdine	21	_	_	_	_	_
+RLShelmerdine	22	_	_	_	_	_
+RLShelmerdine	23	_	_	_	_	_
+RLShelmerdine	24	_	_	_	_	_
+RLShelmerdine	25	_	_	_	_	_
+RLShelmerdine	26	_	_	_	_	_
+RLShelmerdine	27	_	_	_	_	_
+RLShelmerdine	28	_	_	_	_	_
+RLShelmerdine	29	_	_	_	_	_
 RMappers	03	Uganda	Kampala	_	_	_
 RobertPazur	02	_	_	_	_	_
 robradburn	01	_	_	_	_	_
@@ -4168,6 +5008,15 @@ robradburn	18	_	_	_	_	_
 robradburn	19	_	_	_	_	_
 robradburn	20	UK	London	population	small multiples,cartogram,charts	_
 robradburn	21	_	_	_	_	_
+robradburn	22	_	_	_	_	_
+robradburn	23	_	_	_	_	_
+robradburn	24	_	_	_	_	_
+robradburn	25	_	_	_	_	_
+robradburn	26	_	_	_	_	_
+robradburn	27	_	_	_	_	_
+robradburn	28	_	_	_	_	_
+robradburn	29	_	_	_	_	_
+robradburn	30	_	_	_	_	_
 rocasaja	01	_	_	_	_	_
 rocasaja	04	_	_	_	_	_
 rocasaja	05	_	_	_	_	_
@@ -4217,6 +5066,9 @@ rsfrankl	03	_	_	_	_	_
 rsfrankl	12	_	_	_	_	_
 rsfrankl	19	_	_	_	_	_
 rsfrankl	20	_	_	_	_	_
+rsfrankl	28	_	_	_	_	_
+RunEveryStreet	22	USA	New York City	_	_	_
+RunEveryStreet	23	USA	New York City	_	_	_
 saabrs	02	_	_	_	_	_
 Saadbarca8	01	_	_	_	_	_
 SabinaFn	18	_	_	_	_	_
@@ -4242,6 +5094,13 @@ Saint_GIS	17	_	_	_	_	_
 Saint_GIS	18	_	_	_	_	_
 Saint_GIS	19	_	_	_	_	_
 Saint_GIS	20	_	_	_	_	_
+Saint_GIS	22	_	_	_	_	_
+Saint_GIS	23	_	_	_	_	_
+Saint_GIS	24	_	_	_	_	_
+Saint_GIS	25	_	_	_	_	_
+Saint_GIS	26	_	_	_	_	_
+Saint_GIS	27	_	_	_	_	_
+Saint_GIS	28	_	_	_	_	_
 sajbelcart	02	_	_	_	_	_
 salmayarista	03	Indonesia,Netherlands	Bekasi,Delft	_	_	_
 salmayarista	05	Indonesia	_	_	_	ArcGIS
@@ -4266,12 +5125,22 @@ samwise_v	17	USA	_	_	_	_
 samwise_v	18	UK	_	_	small multiples	_
 samwise_v	19	Africa	Null Island	_	_	_
 samwise_v	20	UK	London	population	charts	QGIS,Aerialod
+samwise_v	22	_	_	_	_	_
+samwise_v	23	_	_	_	_	_
+samwise_v	24	_	_	_	_	_
+samwise_v	25	_	_	_	_	_
+samwise_v	26	_	_	_	_	_
+samwise_v	27	_	_	_	_	_
+samwise_v	28	_	_	_	_	_
+samwise_v	29	_	_	_	_	_
 san_andreas_	01	_	_	_	_	_
 san_andreas_	02	_	_	_	_	_
 san_andreas_	03	_	_	_	_	QGIS
 san_andreas_	04	_	_	_	_	_
 san_andreas_	07	_	_	_	_	_
 san_andreas_	11	_	_	_	_	_
+SangJKiprop	24	Kenya	_	_	_	_
+SangJKiprop	26	_	_	_	_	_
 SannaJokela1	01	Finland	Turku	_	_	QGIS,Inkscape
 SannaJokela1	02	_	_	_	_	QGIS
 SannaJokela1	03	_	_	_	_	QGIS
@@ -4293,6 +5162,15 @@ SannaJokela1	18	_	_	_	_	QGIS
 SannaJokela1	19	_	_	_	_	QGIS
 SannaJokela1	20	_	_	_	_	QGIS
 SannaJokela1	21	_	_	_	_	_
+SannaJokela1	22	_	_	_	_	_
+SannaJokela1	23	_	_	_	_	_
+SannaJokela1	24	_	_	_	_	_
+SannaJokela1	25	_	_	_	_	_
+SannaJokela1	26	_	_	personal	_	Minecraft
+SannaJokela1	27	_	_	_	_	_
+SannaJokela1	28	_	_	_	_	_
+SannaJokela1	29	_	_	_	_	_
+SannaJokela1	30	_	_	_	_	_
 santihpuig	01	Greenland	_	_	_	_
 santihpuig	02	Greenland	_	_	_	_
 santihpuig	03	_	_	_	_	_
@@ -4306,6 +5184,8 @@ santihpuig	11	_	_	_	_	_
 santihpuig	12	_	_	_	_	_
 santihpuig	13	_	_	_	_	_
 santihpuig	17	_	_	_	_	_
+santihpuig	23	_	_	_	_	_
+santihpuig	24	_	_	_	_	_
 SaraChaoukis	01	France	_	_	_	_
 SaraChaoukis	02	_	_	_	_	_
 sarah_wilson7	01	_	_	_	_	_
@@ -4328,8 +5208,12 @@ sarah_wilson7	17	_	_	_	_	_
 sarah_wilson7	18	_	_	_	_	_
 sarah_wilson7	19	World	_	_	uncommon projections	_
 sarah_wilson7	20	_	_	_	_	_
+sarah_wilson7	22	World	_	_	_	_
+sarah_wilson7	23	_	_	_	_	_
+sarah_wilson7	24	_	_	_	_	_
 sarahbellmaps	02	_	_	_	_	_
 sarahbellmaps	19	_	_	_	_	_
+sarahbellmaps	24	_	_	_	_	_
 sarhoyoshoyos	01	_	_	_	_	_
 sarhoyoshoyos	03	_	_	_	_	QGIS
 sarhoyoshoyos	09	_	_	_	_	QGIS
@@ -4355,6 +5239,14 @@ SavoirsEnBulles	18	_	_	_	_	_
 SavoirsEnBulles	19	_	_	_	_	_
 SavoirsEnBulles	20	_	_	_	_	_
 SavoirsEnBulles	21	_	_	_	_	_
+SavoirsEnBulles	22	France	_	_	_	_
+SavoirsEnBulles	23	_	_	_	_	_
+SavoirsEnBulles	24	_	_	_	_	_
+SavoirsEnBulles	25	_	_	_	_	_
+SavoirsEnBulles	26	_	_	_	_	_
+SavoirsEnBulles	27	_	_	_	_	_
+SavoirsEnBulles	28	_	_	_	_	_
+SavoirsEnBulles	29	_	_	_	_	_
 ScientistSoph	09	_	_	_	_	_
 sciremotesense	01	_	_	_	_	_
 sciremotesense	02	_	_	_	_	_
@@ -4377,6 +5269,10 @@ sciremotesense	18	_	_	_	_	_
 sciremotesense	19	UK	_	_	_	_
 sciremotesense	20	_	_	_	_	_
 sciremotesense	21	_	_	_	_	_
+sciremotesense	23	_	_	_	_	_
+sciremotesense	24	_	_	_	_	_
+sciremotesense	27	UK	_	personal	_	_
+sciremotesense	28	_	_	_	_	_
 sdbernard	11	_	_	_	_	_
 sdbernard	15	_	_	_	_	_
 sdbernard	20	_	_	_	_	_
@@ -4412,6 +5308,15 @@ seateazen	18	_	_	_	_	_
 seateazen	19	_	_	_	_	_
 seateazen	20	_	_	_	_	_
 seateazen	21	_	_	_	_	_
+seateazen	22	_	_	_	_	_
+seateazen	23	_	_	_	_	_
+seateazen	24	_	_	_	_	_
+seateazen	25	_	_	_	_	_
+seateazen	26	_	_	_	_	_
+seateazen	27	_	_	_	_	_
+seateazen	28	_	_	_	_	_
+seateazen	29	_	_	_	_	_
+seateazen	30	Philippines	_	_	_	QGIS
 seb_meier	01	_	_	_	_	QGIS
 seb_meier	02	_	_	_	_	_
 seb_meier	03	_	_	_	_	_
@@ -4432,6 +5337,15 @@ seb_meier	18	_	_	_	_	_
 seb_meier	19	_	_	_	_	_
 seb_meier	20	_	_	_	_	QGIS,PostgreSQL
 seb_meier	21	_	_	_	_	_
+seb_meier	22	_	_	_	_	_
+seb_meier	23	Germany	Berlin	_	_	_
+seb_meier	24	_	_	_	_	_
+seb_meier	25	_	_	_	_	_
+seb_meier	26	_	_	_	_	_
+seb_meier	27	_	_	_	_	_
+seb_meier	28	_	_	_	_	_
+seb_meier	29	_	_	_	_	_
+seb_meier	30	_	_	_	_	_
 SergiiShchus	01	_	_	_	_	_
 SergiiShchus	02	_	_	_	_	_
 serialc	04	_	_	_	_	_
@@ -4489,6 +5403,14 @@ simonmleech	18	_	_	_	_	_
 simonmleech	19	_	_	_	_	_
 simonmleech	20	_	_	_	_	_
 simonmleech	21	_	_	_	_	_
+simonmleech	22	_	_	_	_	_
+simonmleech	23	_	_	_	_	_
+simonmleech	24	_	_	_	_	_
+simonmleech	25	_	_	_	_	_
+simonmleech	26	Portugal	_	_	_	_
+simonmleech	27	_	_	_	_	_
+simonmleech	28	_	_	_	_	_
+simonmleech	29	_	_	_	_	_
 SirJanosFroglez	05	_	_	_	_	_
 SirJanosFroglez	07	_	_	_	_	_
 SirJanosFroglez	10	_	_	_	_	_
@@ -4499,15 +5421,22 @@ SirJanosFroglez	14	_	_	_	_	_
 SirJanosFroglez	16	_	_	_	_	_
 SirJanosFroglez	17	_	_	_	_	_
 SirJanosFroglez	20	_	_	_	_	_
+SirJanosFroglez	22	Norway	_	_	_	_
 sixfootdestiny	10	_	_	_	_	_
 SmithGIS	18	_	_	_	_	_
 somethinsfischy	20	_	_	_	_	_
+somethinsfischy	23	USA	_	_	_	_
+somethinsfischy	24	_	_	_	_	_
 SouthArrowMaps	01	New Zealand	Christchurch	_	_	ArcGIS,Photoshop
 SouthArrowMaps	02	New Zealand	Christchurch	transport	animation	Blender
 SouthArrowMaps	03	New Zealand	_	_	_	_
 SouthArrowMaps	07	New Zealand	Christchurch	_	_	_
+SouthArrowMaps	10	New Zealand	_	_	_	_
 SouthArrowMaps	12	New Zealand	_	_	_	_
 SouthArrowMaps	19	New Zealand	_	404	_	_
+SouthArrowMaps	24	New Zealand	_	_	_	_
+SouthArrowMaps	25	New Zealand	_	COVID-19,personal	_	_
+SouthArrowMaps	27	_	_	_	_	_
 southmapr	12	_	_	_	_	_
 southmapr	19	_	_	_	_	_
 spardosanchez	01	_	_	_	_	_
@@ -4520,6 +5449,8 @@ spatialoccasio1	11	_	_	_	_	_
 spatialoccasio1	12	Europe	_	_	_	Illustrator,Photoshop
 spatialoccasio1	14	_	_	_	_	_
 spatialoccasio1	16	_	_	_	_	QGIS
+spatialoccasio1	24	_	_	_	_	_
+spatialoccasio1	29	_	_	_	_	_
 sporella	01	_	_	_	_	R
 sporella	02	_	_	_	_	R
 sporella	03	_	_	_	_	R
@@ -4540,6 +5471,22 @@ sporella	17	_	_	_	_	QGIS,R
 sporella	18	_	_	_	_	R
 sporella	19	_	_	_	_	R
 sporella	20	_	_	_	_	R
+sporella	22	_	_	_	_	_
+sporella	23	Antarctica	_	_	_	_
+sporella	24	_	_	_	_	_
+sporella	25	_	_	_	_	_
+sporella	26	_	_	_	_	_
+sporella	27	_	_	_	_	_
+sporella	28	_	_	_	_	_
+sporella	29	_	_	_	_	_
+StaridasGeo	22	_	_	_	_	_
+StaridasGeo	23	_	_	_	_	_
+StaridasGeo	24	_	_	_	_	_
+StaridasGeo	25	_	_	_	_	_
+StaridasGeo	26	_	_	_	_	_
+StaridasGeo	27	_	_	_	_	_
+StaridasGeo	28	_	_	_	_	_
+StaridasGeo	29	World	_	_	uncommon projections	ArcGIS
 STATISTIK_AT	02	_	_	transport	_	_
 STATISTIK_AT	20	_	_	_	_	_
 StephaneAugry	03	_	_	_	_	QGIS
@@ -4564,6 +5511,13 @@ stevefaeembra	18	_	_	_	_	QGIS
 stevefaeembra	19	_	_	_	_	Blender
 stevefaeembra	20	_	_	_	_	Python
 stevefaeembra	21	_	_	_	_	_
+stevefaeembra	22	_	_	_	_	_
+stevefaeembra	23	_	_	_	_	_
+stevefaeembra	24	_	_	_	_	_
+stevefaeembra	26	_	_	_	_	_
+stevefaeembra	27	_	_	_	_	_
+stevefaeembra	28	_	_	_	_	_
+stevefaeembra	29	_	_	_	_	_
 steven4320555	01	_	_	_	_	_
 steven4320555	02	_	_	_	_	_
 steven4320555	03	_	_	_	_	_
@@ -4588,11 +5542,21 @@ StrathSlater	18	_	_	_	_	_
 StrathSlater	19	_	_	_	_	_
 StrathSlater	20	_	_	_	_	_
 StrathSlater	21	_	_	_	_	_
+StrathSlater	22	_	_	_	_	_
+StrathSlater	23	_	_	_	_	_
+StrathSlater	24	_	_	_	_	_
+StrathSlater	25	Antarctica	_	_	_	_
+StrathSlater	26	_	_	_	_	_
+StrathSlater	27	_	_	_	_	_
+StrathSlater	28	_	_	_	_	_
+StrathSlater	29	World,Mars,Moon	_	_	_	_
 sugoiboi40	01	_	_	_	_	_
 sugoiboi40	02	_	_	_	_	_
 sugoiboi40	03	_	_	_	_	_
 sugoiboi40	09	_	_	_	_	_
 sugoiboi40	10	_	_	_	_	_
+sugoiboi40	24	_	_	_	_	_
+sugoiboi40	26	_	_	_	_	_
 Super_Explorer	01	_	_	_	_	R
 Super_Explorer	02	_	_	_	_	R,Mapbox
 Super_Explorer	03	_	_	_	_	R
@@ -4627,6 +5591,10 @@ Tabularthur	16	_	_	_	_	_
 Tabularthur	17	_	_	_	_	_
 Tabularthur	19	_	_	_	_	_
 Tabularthur	21	_	_	_	_	_
+Tabularthur	23	_	_	_	_	_
+Tabularthur	24	_	_	_	_	_
+Tabularthur	25	_	_	_	_	_
+Tabularthur	26	_	_	_	_	_
 TectonixGEO	03	_	_	_	_	_
 TeemuSaloriutta	01	_	_	_	_	_
 TeemuSaloriutta	02	_	_	_	_	QGIS
@@ -4637,6 +5605,9 @@ TeemuSaloriutta	09	_	_	_	_	_
 TeemuSaloriutta	16	_	_	_	_	_
 TeemuSaloriutta	20	_	_	_	_	_
 TeemuSaloriutta	21	_	_	_	_	_
+TeemuSaloriutta	22	_	_	_	_	_
+TeemuSaloriutta	23	_	_	_	_	_
+TeemuSaloriutta	24	_	_	_	_	_
 tenkahen	15	_	_	_	_	_
 terglobo	11	_	_	_	_	QGIS
 terglobo	16	_	_	_	_	QGIS
@@ -4675,6 +5646,15 @@ tgsousa_	18	_	_	_	_	_
 tgsousa_	19	_	_	_	_	_
 tgsousa_	20	_	_	_	_	_
 tgsousa_	21	_	_	_	_	_
+tgsousa_	22	_	_	_	_	_
+tgsousa_	23	_	_	_	_	_
+tgsousa_	24	_	_	_	_	_
+tgsousa_	25	_	_	_	_	_
+tgsousa_	26	_	_	_	_	_
+tgsousa_	27	_	_	_	_	_
+tgsousa_	28	_	_	_	_	_
+tgsousa_	29	_	_	_	_	_
+thadk	24	_	_	_	_	_
 thecfelix	01	_	_	_	_	Mapbox
 TheGISGirl	05	World	_	religion	_	_
 TheGISGirl	06	Africa	_	animals	_	_
@@ -4682,6 +5662,15 @@ theklaneh	11	_	_	_	_	_
 theklaneh	19	_	_	_	_	_
 theklaneh	20	_	_	_	_	_
 theklaneh	21	_	_	_	_	_
+theklaneh	22	_	_	_	_	_
+theklaneh	23	_	_	_	_	_
+theklaneh	24	_	_	_	_	_
+theklaneh	25	_	_	_	_	_
+theklaneh	26	_	_	_	_	_
+theklaneh	27	_	_	_	_	_
+theklaneh	28	_	_	_	_	_
+theklaneh	29	_	_	_	_	_
+theklaneh	30	_	_	_	_	QGIS,Aerialod
 thekuhugupta	01	_	_	_	_	_
 thekuhugupta	02	_	_	_	_	_
 thekuhugupta	03	_	_	_	_	_
@@ -4702,6 +5691,8 @@ Thoughtfulnz	08	New Zealand	_	elections	_	_
 Thoughtfulnz	09	New Zealand	_	elections	small multiples	_
 Thoughtfulnz	19	New Zealand	_	elections	small multiples	_
 Thoughtfulnz	21	Oceania	_	administrative boundaries	_	_
+Thoughtfulnz	22	_	_	_	_	_
+Thoughtfulnz	25	USA	_	_	_	_
 timbertopper400	01	_	_	_	_	_
 timbertopper400	02	_	_	_	_	_
 timbertopper400	03	_	_	_	_	_
@@ -4723,7 +5714,13 @@ timbertopper400	18	_	_	_	_	_
 timbertopper400	19	_	_	_	_	_
 timbertopper400	20	_	_	_	_	_
 timbertopper400	21	_	_	_	_	_
+timbertopper400	23	UK	_	_	_	_
+timbertopper400	24	_	_	_	_	_
+timbertopper400	26	_	_	_	_	_
+timbertopper400	27	_	_	_	_	_
+timbertopper400	29	_	_	_	_	_
 Timepixuk	17	_	_	_	_	_
+timforrester4	23	UK	_	_	_	_
 TimRodaway	01	_	_	_	_	ArcGIS
 TimRodaway	02	_	_	_	_	_
 TimRodaway	03	_	_	_	_	_
@@ -4755,6 +5752,13 @@ tjukanov	18	Finland	Helsinki	_	animation	_
 tjukanov	19	Finland	_	_	_	_
 tjukanov	20	Finland	_	animals	_	_
 tjukanov	21	Finland	_	_	_	_
+tjukanov	22	_	_	_	_	_
+tjukanov	23	_	_	_	_	_
+tjukanov	24	_	_	_	_	_
+tjukanov	25	_	_	_	_	_
+tjukanov	26	Finland	_	population	cartogram	GeoDa
+tjukanov	27	_	_	_	_	_
+tjukanov	29	_	_	_	_	_
 tkardi	01	_	_	_	_	QGIS,Inkscape,PostgreSQL
 tkardi	02	_	_	_	_	QGIS,PostgreSQL
 tkardi	03	_	_	_	_	QGIS,PostgreSQL
@@ -4776,6 +5780,13 @@ tkardi	18	_	_	_	_	_
 tkardi	19	_	_	_	_	PostgreSQL
 tkardi	20	_	_	_	_	_
 tkardi	21	_	_	_	_	_
+tkardi	22	_	_	_	_	_
+tkardi	23	_	_	_	_	_
+tkardi	24	New Zealand	_	_	_	_
+tkardi	25	_	_	_	_	_
+tkardi	26	_	_	_	_	_
+tkardi	27	_	_	_	_	_
+tkardi	28	_	_	_	_	_
 tobi_aiyelokun	01	Nigeria	_	_	_	QGIS
 tobi_aiyelokun	02	_	_	_	_	_
 tobi_aiyelokun	03	_	_	_	_	_
@@ -4788,6 +5799,7 @@ ToddMostak	10	_	_	_	_	_
 ToddMostak	11	_	_	_	_	Mapbox
 ToddMostak	17	_	_	_	_	_
 ToddMostak	20	_	_	_	_	_
+ToddMostak	25	_	_	_	_	_
 tom5ive	01	_	_	_	_	_
 tomasral	01	_	_	_	_	_
 tomasral	02	_	_	_	_	_
@@ -4809,6 +5821,13 @@ tomasral	17	_	_	_	_	_
 tomasral	18	_	_	_	_	_
 tomasral	19	_	_	_	_	_
 tomasral	20	Spain	_	population	choropleth,charts	_
+tomasral	22	_	_	_	_	_
+tomasral	23	_	_	_	_	_
+tomasral	24	_	_	_	_	_
+tomasral	27	_	_	_	_	_
+tomasral	28	_	_	_	_	_
+tomasral	29	_	_	_	_	_
+tomasral	30	_	_	_	_	_
 tomodraco	01	Europe	_	sport	_	D3.js,Acorn
 tomodraco	02	_	_	_	_	QGIS
 tomodraco	03	_	_	_	_	_
@@ -4828,6 +5847,12 @@ tomodraco	18	_	_	_	_	Mapbox
 tomodraco	19	_	_	_	_	_
 tomodraco	20	_	_	_	_	_
 tomodraco	21	_	_	_	_	_
+tomodraco	22	_	_	_	_	_
+tomodraco	24	World	_	sport	uncommon projections	D3.js
+tomodraco	25	_	_	_	_	_
+tomodraco	26	_	_	_	_	_
+tomodraco	27	_	_	_	_	_
+tomodraco	29	_	_	_	_	_
 TomTheMap	01	_	_	_	_	_
 TomTheMap	02	_	_	_	_	_
 TomTheMap	03	_	_	_	_	_
@@ -4849,6 +5874,14 @@ TomTheMap	18	_	_	_	_	_
 TomTheMap	19	_	_	_	_	_
 TomTheMap	20	_	_	_	_	_
 TomTheMap	21	_	_	_	_	_
+TomTheMap	22	_	_	_	_	_
+TomTheMap	23	_	_	_	_	_
+TomTheMap	24	_	_	_	_	_
+TomTheMap	25	_	_	_	_	_
+TomTheMap	26	_	_	_	_	_
+TomTheMap	27	_	_	_	_	_
+TomTheMap	28	_	_	_	_	_
+TomTheMap	29	_	_	_	_	_
 tonuoja	04	Estonia	_	_	_	QGIS
 tonuoja	05	_	_	_	_	_
 tonuoja	06	_	_	_	_	_
@@ -4867,6 +5900,14 @@ tonuoja	18	_	_	_	_	_
 tonuoja	19	_	_	_	_	_
 tonuoja	20	_	_	_	_	_
 tonuoja	21	_	_	_	_	_
+tonuoja	22	_	_	_	_	_
+tonuoja	23	_	_	_	_	_
+tonuoja	24	_	_	_	_	_
+tonuoja	25	_	_	_	_	_
+tonuoja	26	_	_	_	_	_
+tonuoja	27	_	_	_	_	_
+tonuoja	28	_	_	_	_	_
+tonuoja	29	_	_	_	_	_
 too_sham	01	_	_	_	_	_
 topographos2	01	_	_	_	_	R
 topographos2	02	Syria	_	archaeology	_	R
@@ -4888,6 +5929,7 @@ TorKraft	09	_	_	_	_	_
 tqwhitetech	01	_	_	_	_	_
 tqwhitetech	02	_	_	_	_	_
 triply_at	04	_	_	_	_	Python
+triply_at	22	_	_	_	_	_
 tristramg	01	_	_	_	_	QGIS
 tristramg	02	_	_	_	_	_
 tristramg	03	_	_	_	_	_
@@ -4901,12 +5943,15 @@ tristramg	11	_	_	_	_	_
 tristramg	16	_	_	_	_	QGIS
 tristramg	17	_	_	_	_	_
 tristramg	19	_	_	_	_	_
+tristramg	23	_	_	_	_	_
+tristramg	24	_	_	_	_	_
 Troctolite10	01	India	_	earthquakes	_	QGIS
 Troctolite10	02	_	_	_	_	QGIS
 Troctolite10	03	_	_	_	_	QGIS
 Troctolite10	05	_	_	_	_	_
 Troctolite10	12	_	_	_	_	_
 Troctolite10	18	_	_	_	_	_
+Troctolite10	29	_	_	_	_	_
 trolleway	01	_	_	_	_	_
 trolleway	02	_	_	_	_	_
 tsskowronski	09	_	_	_	_	_
@@ -4930,6 +5975,8 @@ undertheraedar	11	_	_	_	_	_
 undertheraedar	12	World	_	population	_	Excel
 undertheraedar	16	_	_	_	_	_
 undertheraedar	17	_	_	_	_	_
+unepwcmc	26	_	_	_	_	_
+UrbanDemog	29	_	_	_	_	_
 UT_moblab	01	_	_	_	_	_
 UT_moblab	02	_	_	_	_	_
 UT_moblab	03	Estonia	_	_	_	_
@@ -4951,6 +5998,13 @@ UT_moblab	18	_	_	_	_	_
 UT_moblab	19	_	_	_	_	_
 UT_moblab	20	_	_	_	_	QGIS
 UT_moblab	21	_	_	_	_	_
+UT_moblab	23	_	_	_	_	_
+UT_moblab	24	_	_	_	_	_
+UT_moblab	25	_	_	_	_	_
+UT_moblab	26	_	_	_	_	_
+UT_moblab	27	_	_	_	_	_
+UT_moblab	28	_	_	_	_	_
+UT_moblab	29	_	_	_	_	_
 UUDreams	05	_	_	_	_	_
 uvfns	01	_	_	_	_	_
 uvfns	02	_	_	_	_	_
@@ -4961,6 +6015,8 @@ uvfns	09	_	_	_	_	_
 uvfns	11	_	_	_	_	_
 uvfns	12	_	_	_	_	_
 uvfns	13	_	_	_	_	_
+uvfns	24	_	_	_	_	_
+v_valealb	25	_	_	_	_	_
 valen_ibiza	01	_	_	_	_	_
 valen_ibiza	02	_	_	_	_	_
 valen_ibiza	03	_	_	_	_	_
@@ -4972,6 +6028,17 @@ valen_ibiza	08	_	_	_	_	_
 valen_ibiza	09	_	_	_	_	_
 valen_ibiza	10	_	_	_	_	_
 valen_ibiza	21	_	_	_	_	_
+valen_ibiza	22	_	_	_	_	_
+valen_ibiza	23	World	_	_	_	_
+valen_ibiza	24	_	_	_	_	_
+valen_ibiza	25	_	_	_	_	_
+valen_ibiza	26	_	_	_	_	_
+valen_ibiza	27	_	_	_	_	_
+valen_ibiza	28	Mars	_	_	_	_
+valen_ibiza	29	_	_	_	_	_
+valeriiashur	22	_	_	_	_	_
+valeriiashur	24	Italy	_	elevation	joyplot	R
+valeriiashur	29	_	_	_	_	_
 Valtzen	01	_	_	_	_	_
 Valtzen	03	_	_	_	_	_
 Valtzen	05	_	_	_	_	QGIS
@@ -4996,6 +6063,7 @@ varaktor	17	_	_	_	_	R
 varaktor	18	_	_	_	_	R
 varaktor	19	_	_	_	_	_
 varaktor	20	_	_	_	_	R
+varaktor	22	Europe	_	transport	_	R
 vaylafi	08	_	_	_	_	_
 vaylafi	15	_	_	_	_	_
 vecinosdela80	03	_	_	_	_	_
@@ -5026,6 +6094,14 @@ VictimOfMaths	18	_	_	_	_	_
 VictimOfMaths	19	_	_	_	_	_
 VictimOfMaths	20	_	_	_	_	Aerialod
 VictimOfMaths	21	_	_	_	_	_
+VictimOfMaths	22	UK	_	COVID-19	animation,hexmap	R
+VictimOfMaths	23	_	_	_	_	_
+VictimOfMaths	24	_	_	_	_	_
+VictimOfMaths	25	UK	_	COVID-19	_	Aerialod,R
+VictimOfMaths	26	UK	_	elevation	_	VeloViewer
+VictimOfMaths	27	_	_	_	_	_
+VictimOfMaths	28	_	_	_	_	_
+VictimOfMaths	29	_	_	_	_	_
 victor_medel9	01	_	_	_	_	_
 victor_medel9	03	_	_	_	_	_
 victor_medel9	05	_	_	_	_	_
@@ -5056,6 +6132,14 @@ vivekparasharr	18	_	_	_	_	_
 vivekparasharr	19	_	_	_	_	Python
 vivekparasharr	20	_	_	_	_	Kepler.gl,Python
 vivekparasharr	21	_	_	_	_	_
+vivekparasharr	22	_	_	_	_	_
+vivekparasharr	23	_	_	_	_	_
+vivekparasharr	24	_	_	_	_	_
+vivekparasharr	25	_	_	_	_	_
+vivekparasharr	26	_	_	_	_	_
+vivekparasharr	27	_	_	_	_	_
+vivekparasharr	28	_	_	_	_	_
+vivekparasharr	29	_	_	_	_	_
 vizowl	01	New Zealand	_	elections	point	_
 vizualdatos	02	_	_	_	_	_
 vlckel	01	World	_	energy	_	gvSIG
@@ -5075,6 +6159,7 @@ vlckel	16	New Zealand	_	population,animals	_	ArcGIS
 vlckel	17	_	_	_	_	_
 vlckel	20	Czech Republic	_	population	joyplot	_
 vlckel	21	_	_	_	_	_
+vlckel	24	_	_	_	_	_
 vtcraghead	01	_	_	_	_	_
 vtcraghead	02	_	_	_	_	_
 vtcraghead	03	_	_	_	_	_
@@ -5096,8 +6181,17 @@ vtcraghead	18	USA	_	_	_	PostgreSQL
 vtcraghead	19	_	_	_	_	_
 vtcraghead	20	_	_	_	_	_
 vtcraghead	21	_	_	_	_	_
+vtcraghead	22	_	_	_	_	_
+vtcraghead	23	_	_	_	_	_
+vtcraghead	24	_	_	_	_	_
+vtcraghead	25	_	_	_	_	_
+vtcraghead	26	_	_	_	_	_
+vtcraghead	27	_	_	_	_	_
+vtcraghead	28	_	_	_	_	_
+vtcraghead	29	_	_	_	_	_
 wahlatlas	08	_	_	_	_	_
 wahlatlas	10	_	_	_	_	_
+wahlatlas	23	Germany	_	_	_	_
 WestcountryRT	01	_	_	_	_	_
 WestcountryRT	02	_	_	_	_	_
 WestcountryRT	03	_	_	_	_	_
@@ -5118,6 +6212,7 @@ WestcountryRT	17	_	_	_	_	_
 WestcountryRT	18	_	_	_	_	_
 WestcountryRT	20	_	_	_	_	_
 WestcountryRT	21	_	_	_	_	_
+WestcountryRT	22	_	_	_	_	_
 whiterabbit_sci	01	_	_	_	_	_
 whiterabbit_sci	02	_	_	_	_	_
 whiterabbit_sci	03	_	_	_	_	_
@@ -5139,7 +6234,15 @@ whiterabbit_sci	18	_	_	_	_	_
 whiterabbit_sci	19	_	_	_	_	_
 whiterabbit_sci	20	_	_	_	_	_
 whiterabbit_sci	21	_	_	_	_	_
+whiterabbit_sci	23	_	_	_	_	_
+whiterabbit_sci	24	_	_	_	_	_
+whiterabbit_sci	25	_	_	_	_	_
+whiterabbit_sci	26	_	_	_	_	_
+whiterabbit_sci	27	_	_	_	_	_
+whiterabbit_sci	28	_	_	_	_	_
+whiterabbit_sci	29	_	_	_	_	_
 WillRay3	21	_	_	_	_	_
+WillRay3	22	_	_	_	_	_
 wndieps	07	_	_	_	_	_
 WoutervD	05	_	_	_	_	_
 x_y_es	01	Spain	Canary Islands	_	_	three.js
@@ -5176,6 +6279,14 @@ Yaireth_Ortiz	18	Mexico	_	_	_	_
 Yaireth_Ortiz	19	Mexico	_	_	_	_
 Yaireth_Ortiz	20	Mexico	_	_	_	_
 Yaireth_Ortiz	21	_	_	_	_	_
+Yaireth_Ortiz	22	_	_	_	_	_
+Yaireth_Ortiz	23	_	_	_	_	_
+Yaireth_Ortiz	24	_	_	_	_	_
+Yaireth_Ortiz	25	_	_	_	_	_
+Yaireth_Ortiz	26	_	_	_	_	_
+Yaireth_Ortiz	27	_	_	_	_	_
+Yaireth_Ortiz	28	_	_	_	_	_
+Yaireth_Ortiz	29	_	_	_	_	_
 Yakus	01	UK	_	_	_	QGIS
 Yakus	02	UK	_	_	_	_
 Yakus	03	UK	_	_	_	_
@@ -5197,6 +6308,14 @@ Yakus	18	UK	_	_	_	_
 Yakus	19	Europe	_	_	_	_
 Yakus	20	UK	_	_	_	QGIS
 Yakus	21	_	_	_	_	_
+Yakus	22	_	_	_	_	_
+Yakus	23	World	_	timezones	_	_
+Yakus	24	_	_	_	_	_
+Yakus	25	_	_	_	_	_
+Yakus	26	_	_	_	_	_
+Yakus	27	_	_	_	_	_
+Yakus	28	_	_	_	_	_
+Yakus	29	_	_	_	_	_
 yeyomourglia	06	_	_	_	_	R
 yeyomourglia	07	_	_	_	_	QGIS,Leaflet
 yeyomourglia	08	World	_	_	_	_
@@ -5212,7 +6331,12 @@ yolsclemente	03	Spain	_	_	_	_
 yolsclemente	04	Spain	_	_	_	_
 yolsclemente	05	Spain	_	_	_	_
 yolsclemente	06	Spain	_	_	_	_
+yuletide	22	_	_	_	_	_
 zakjan	21	_	_	_	_	_
+zakjan	22	_	_	_	_	_
+zakjan	23	World	_	_	_	_
+zakjan	24	_	_	_	_	_
+zakjan	29	_	_	_	_	_
 Zelbe04	02	South Africa	Cape Town	_	_	_
 Zelbe04	03	USA	New York City	_	_	_
 Zelbe04	05	World	_	flags	_	_
@@ -5239,6 +6363,14 @@ zentree	19	New Zealand	_	_	_	QGIS
 zentree	20	New Zealand	Christchurch	population,earthquakes	_	QGIS
 zentree	21	New Zealand	_	_	_	_
 zentree	22	New Zealand	_	earthquakes	_	QGIS
+zentree	23	Santiago	Chile	poverty,elections	_	_
+zentree	24	New Zealand	_	transport,elevation	_	QGIS
+zentree	25	New Zealand	_	COVID-19	_	QGIS
+zentree	26	New Zealand	_	_	_	Mapbox
+zentree	27	_	_	_	_	_
+zentree	28	_	_	_	_	_
+zentree	29	_	_	_	_	_
+zentree	30	New Zealand	Christchurch	_	_	_
 zerbembasqwibo	01	_	_	_	_	_
 zerbembasqwibo	02	_	_	_	_	_
 zerbembasqwibo	06	_	_	_	_	_
@@ -5257,4 +6389,12 @@ zinnie__A	17	Nigeria	_	_	_	ArcGIS
 zinnie__A	18	Nigeria	Idah	_	_	ArcGIS
 zinnie__A	20	Nigeria	_	population	_	ArcGIS
 zinnie__A	21	_	_	_	_	_
+zinnie__A	22	_	_	_	_	_
+zinnie__A	23	World	_	_	_	_
+zinnie__A	24	_	_	_	_	_
+zinnie__A	25	_	_	_	_	_
+zinnie__A	26	_	_	_	_	_
+zinnie__A	27	_	_	_	_	_
+zinnie__A	28	_	_	_	_	_
+zinnie__A	29	_	_	_	_	_
 ZorzalErrante	02	Chile	Santiago	_	_	_
