@@ -1,8 +1,8 @@
 handle	Day	area	city	topics	types	tools
-_aliceontheroad	01	_	_	_	_	pen and paper
-_aliceontheroad	02	Taiwan	_	elevations	_	pen and paper
-_aliceontheroad	03	USA	Cambridge MA	_	_	pen and paper
-_aliceontheroad	05	Oceania	_	_	_	pen and paper
+_aliceontheroad	01	_	_	_	_	hand drawn
+_aliceontheroad	02	Taiwan	_	elevations	_	hand drawn
+_aliceontheroad	03	USA	Cambridge MA	_	_	hand drawn
+_aliceontheroad	05	Oceania	_	_	_	hand drawn
 _anirudhgovind	01	India	Bangalore	transport	_	R
 _anirudhgovind	02	India	Bangalore	_	_	R
 _anirudhgovind	03	India	Bangalore	_	_	R
@@ -33,7 +33,7 @@ _anirudhgovind	28	_	_	_	_	_
 _anirudhgovind	29	_	_	_	_	_
 _DataLoy	04	USA	San Francisco	_	_	_
 _DataLoy	30	Egypt	_	_	_	_
-_dylanledbetter	12	USA	_	_	from memory	pen and paper
+_dylanledbetter	12	USA	_	_	from memory	hand drawn
 _egbg_	01	Mexico	Mexico City	_	_	_
 _egbg_	02	Mexico	Mexico City	_	_	_
 _egbg_	03	Mexico	Mexico City	_	_	_
@@ -215,7 +215,7 @@ akadouri	08	_	_	_	_	_
 akadouri	09	_	_	_	_	_
 akadouri	10	_	_	_	_	_
 akadouri	11	_	_	_	_	QGIS
-akadouri	12	_	_	transport	_	pen and paper
+akadouri	12	_	_	transport	_	hand drawn
 akadouri	13	_	_	_	_	_
 akadouri	14	_	_	_	_	_
 akadouri	15	_	_	_	_	_
@@ -1356,7 +1356,7 @@ DanaeKontou	19	_	_	_	_	QGIS
 DanaeKontou	20	_	_	_	_	_
 DanaeKontou	21	_	_	_	_	_
 DanaeKontou	22	_	_	_	_	_
-DanaeKontou	23	Arctic	_	administrative boundaries	_	pen and paper
+DanaeKontou	23	Arctic	_	administrative boundaries	_	hand drawn
 DanaeKontou	24	_	_	_	_	_
 DanaeKontou	25	_	_	_	_	_
 DanaeKontou	26	_	_	_	_	_
@@ -2376,7 +2376,7 @@ geotologist	05	New Zealand	_	_	_	_
 geotologist	06	New Zealand	_	_	_	_
 geotologist	07	New Zealand	_	_	_	_
 geotologist	09	New Zealand	_	_	_	_
-geotologist	12	UK	_	_	_	pen and paper
+geotologist	12	UK	_	_	_	hand drawn
 geotologist	13	New Zealand	_	_	_	_
 GeotoZee	01	_	_	_	_	_
 GeotoZee	02	_	_	_	_	_
@@ -3227,9 +3227,9 @@ JulianaMapper	03	USA	_	administrative boundaries,elections	_	_
 JulianaMapper	04	_	_	_	_	_
 JulianaMapper	09	_	_	_	_	_
 JulienMigozzi	03	_	_	_	_	_
-JulienQuotidien	01	USA	_	_	_	pen and paper
+JulienQuotidien	01	USA	_	_	_	hand drawn
 JulienQuotidien	02	_	_	_	_	_
-JulienQuotidien	03	_	_	_	_	pen and paper
+JulienQuotidien	03	_	_	_	_	hand drawn
 JulienQuotidien	04	_	_	_	_	_
 JulienQuotidien	05	_	_	_	_	_
 JulienQuotidien	07	_	_	_	_	_
@@ -4083,10 +4083,14 @@ MikeMahoney218	19	_	_	_	_	R
 MikeMahoney218	20	_	_	_	_	R
 MikeMahoney218	21	_	_	_	_	_
 MikeMahoney218	22	_	_	_	_	_
+MikeMahoney218	23	USA	_	_	Voronoi diagram	_
+MikeMahoney218	24	USA	_	_	_	R,Unity
 MikeMahoney218	25	_	_	_	_	_
 MikeMahoney218	26	_	_	_	_	_
 MikeMahoney218	27	_	_	_	_	_
-MikeMahoney218	29	_	_	_	_	_
+MikeMahoney218	28	_	_	_	_	_
+MikeMahoney218	29	World	_	_	interactive,3D	R,three.js
+MikeMahoney218	30	USA	_	_	joyplot	R
 mikusthetiger	05	_	_	_	_	QGIS
 mildthing99	03	_	_	_	_	_
 mildthing99	08	_	_	_	_	ArcGIS
@@ -4433,35 +4437,35 @@ nwbort	25	Australia	Sydney	COVID-19	_	R,Leaflet
 nwbort	26	World	_	entertainment	animation	R,Mapbox
 nwbort	27	_	_	_	_	_
 nwbort	28	_	_	_	_	_
-odile_p	01	France	Grenoble	_	_	pen and paper
-odile_p	02	France	Grenoble	transport	_	pen and paper
-odile_p	03	France	Grenoble	COVID-19	_	pen and paper
-odile_p	04	France	_	_	_	pen and paper
-odile_p	05	USA	_	music	_	pen and paper
-odile_p	06	France	Grenoble	urban		pen and paper
-odile_p	07	France	Vercors	_	_	pen and paper
-odile_p	08	France	Grenoble	transport	_	pen and paper
-odile_p	09	France	Plateau d'Emparis	elevation	_	pen and paper
-odile_p	10	France	Lachassagne	agriculture	_	pen and paper
-odile_p	11	France	Grenoble	_	_	pen and paper
-odile_p	12	France	_	_	_	pen and paper
-odile_p	13	France	Rouen	war	_	pen and paper
-odile_p	14	North America,Central America	_	hurricanes	_	pen and paper
-odile_p	15	France	Grenoble	transport	_	pen and paper
-odile_p	16	France	Ile de Ré	floods	_	pen and paper
-odile_p	17	France	Grenoble	_	_	pen and paper
-odile_p	18	France	Grenoble	COVID-19	_	pen and paper
-odile_p	19	Fictional	_	treasure map	_	pen and paper
-odile_p	20	France	Grenoble	urban	_	pen and paper
-odile_p	21	France	Isère	rivers	_	pen and paper
-odile_p	22	_	_	_	_	_
-odile_p	23	_	_	_	_	_
-odile_p	24	_	_	_	_	_
-odile_p	25	_	_	_	_	_
-odile_p	26	_	_	_	_	_
-odile_p	27	_	_	_	_	_
-odile_p	28	_	_	_	_	_
-odile_p	29	_	_	_	_	_
+odile_p	01	France	Grenoble	_	_	hand drawn
+odile_p	02	France	Grenoble	transport	_	hand drawn
+odile_p	03	France	Grenoble	COVID-19	_	hand drawn
+odile_p	04	France	_	_	_	hand drawn
+odile_p	05	USA	_	music	_	hand drawn
+odile_p	06	France	Grenoble	urban		hand drawn
+odile_p	07	France	Vercors	_	_	hand drawn
+odile_p	08	France	Grenoble	transport	_	hand drawn
+odile_p	09	France	Plateau d'Emparis	elevation	_	hand drawn
+odile_p	10	France	Lachassagne	agriculture	_	hand drawn
+odile_p	11	France	Grenoble	_	_	hand drawn
+odile_p	12	France	_	_	_	hand drawn
+odile_p	13	France	Rouen	war	_	hand drawn
+odile_p	14	North America,Central America	_	hurricanes	_	hand drawn
+odile_p	15	France	Grenoble	transport	_	hand drawn
+odile_p	16	France	Ile de Ré	floods	_	hand drawn
+odile_p	17	France	Grenoble	_	_	hand drawn
+odile_p	18	France	Grenoble	COVID-19	_	hand drawn
+odile_p	19	Fictional	_	treasure map	_	hand drawn
+odile_p	20	France	Grenoble	urban	_	hand drawn
+odile_p	21	France	Isère	rivers	_	hand drawn
+odile_p	22	France	Grenoble	strikes	_	hand drawn
+odile_p	23	France	Charente-Maritime	floods	_	hand drawn
+odile_p	24	France	Ault	erosion	_	hand drawn
+odile_p	25	France	_	COVID-19	_	hand drawn
+odile_p	26	France	Grenoble	_	_	physical objects
+odile_p	27	France	Grenoble	_	_	hand drawn
+odile_p	28	World	_	personal	_	hand drawn
+odile_p	29	World	_	COVID-19	_	hand drawn
 odilon72	01	_	_	_	_	_
 odilon72	05	_	_	_	_	_
 odilon72	06	World	_	_	_	_
@@ -5568,7 +5572,7 @@ Super_Explorer	08	_	_	_	_	R
 Super_Explorer	09	_	_	_	_	QGIS,R
 Super_Explorer	10	_	_	_	_	R
 Super_Explorer	11	_	_	_	_	R
-Super_Explorer	12	USA	_	_	from memory	pen and paper
+Super_Explorer	12	USA	_	_	from memory	hand drawn
 systemagie	01	_	_	_	_	Kepler.gl,Mapbox
 systemagie	02	_	_	_	_	QGIS
 systemagie	03	_	_	_	_	QGIS
@@ -6122,7 +6126,7 @@ vivekparasharr	08	_	_	_	_	Python
 vivekparasharr	09	_	_	_	_	Python
 vivekparasharr	10	_	_	_	_	Kepler.gl,Python
 vivekparasharr	11	_	_	_	_	_
-vivekparasharr	12	Fictional	_	_	_	pen and paper
+vivekparasharr	12	Fictional	_	_	_	hand drawn
 vivekparasharr	13	_	_	_	_	Python,Plotly
 vivekparasharr	14	_	_	_	_	_
 vivekparasharr	15	_	_	_	_	Python,Plotly
