@@ -7,6 +7,25 @@ But the repository was large with saved map images, and it wasn't that easy for 
 Hopefully this year - with pre-planning, a separate text-only repository and Google Sheets - we can get some good crowdsourcing going.
 I have created another [interactive gallery](https://david.frigge.nz/30DayMapChallenge2020/), but it will also be easier for others to do their own analysis or visualisations of the submissions.
 
+## Curatorial Decisions
+
+The good thing about #30DayMapChallenge being a hashtag event in that it's open to anyone to contribute however they want.
+The downside for meta-analysis is deciding what is a submission and how to classify them.
+
+My general decision is to curate people following the "spirit" of the event of creating maps based on a daily theme.
+So if someone has made more that one map for a theme I've only included one.
+I someone is only tweeting historical maps, or other people's creations, or is just randomly applying the hashtag
+with no apparant regard to themes then I've excluded them. That's not to suggest that they're wrong, or it's not
+a good thing to see on Twitter - only that they don't fit within this collection.
+
+There are some grey areas - some people have made individual submissions that don't quite fit my curatorial
+guidelines, but it's infeasible to check all of the thousands of maps so it's easier to keep the decision at the account level.
+It also seems slighly unfair to draw a distinction between creating several maps in different images and several maps in one image
+or animation ([Topi!](https://twitter.com/tjukanov/status/1326051508585160708)), but it's much simpler that way.
+
+For comparison, Haifeng Niu took [a different approach](https://github.com/hn303/30DayMapChallenge-Bot) of more
+automation and less (no?) restrictions.
+
 ## Contributing
 
 Contributions are eagerly desired. I should do a reasonable job of recording all of the tweets with the hashtag, but crowdsourcing
