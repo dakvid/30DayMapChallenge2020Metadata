@@ -1,6 +1,6 @@
 handle	Day	area	city	topics	types	tools
 _aliceontheroad	01	_	_	_	_	hand drawn
-_aliceontheroad	02	Taiwan	_	elevations	_	hand drawn
+_aliceontheroad	02	Taiwan	_	elevation	_	hand drawn
 _aliceontheroad	03	USA	Cambridge MA	_	_	hand drawn
 _aliceontheroad	05	Oceania	_	_	_	hand drawn
 _anirudhgovind	01	India	Bangalore	transport	_	R
@@ -292,7 +292,7 @@ AlbinPCLarsson	05	World	_	_	_	_
 alexgleith	13	Africa	_	_	_	_
 AlexNetoGeo	15	_	_	_	_	QGIS
 AlexNetoGeo	21	_	_	_	_	_
-Alina_Ristea	03	USA	Boston	_	_	QGIS
+Alina_Ristea	03	USA	Boston MA	_	_	QGIS
 Alina_Ristea	20	_	_	_	_	QGIS
 AlistairCFord	11	_	_	_	_	ArcGIS
 AllisonCully	12	_	_	_	_	_
@@ -410,7 +410,7 @@ AndrewRenninger	15	_	_	_	_	_
 andrewrfrench	01	USA	_	_	_	_
 andrewrfrench	02	_	_	_	_	_
 andrewrfrench	03	_	_	_	_	_
-andrewrfrench	04	USA	Denver	_	_	_
+andrewrfrench	04	USA	Denver CO	_	_	_
 andrewrfrench	05	Oceania	_	_	_	_
 andrewrfrench	06	_	_	_	_	_
 andrewrfrench	07	_	_	_	_	_
@@ -429,7 +429,7 @@ andy_rutkowski	02	_	_	_	_	QGIS
 andy_rutkowski	03	_	_	_	_	QGIS
 andy_rutkowski	04	_	_	_	_	_
 andy_rutkowski	05	_	_	_	_	QGIS
-andy_rutkowski	06	USA	Los Angeles	_	_	_
+andy_rutkowski	06	USA	Los Angeles CA	_	_	_
 AngelineMeeks	12	_	_	_	_	_
 AngelineMeeks	17	_	_	_	_	_
 AngelineMeeks	18	_	_	_	_	_
@@ -686,7 +686,7 @@ atdodkonfektes	26	_	_	_	_	_
 atdodkonfektes	27	_	_	_	_	_
 atdodkonfektes	28	_	_	_	_	_
 atdodkonfektes	29	_	_	_	_	QGIS
-atdodkonfektes	30	Latvia	Riga	_	_	_
+atdodkonfektes	30	Latvia	Rīga	_	_	_
 atstyan	02	World	_	_	_	_
 atstyan	06	Australia	_	_	_	_
 atstyan	12	_	_	_	_	_
@@ -887,7 +887,7 @@ bjperson	30	France	Paris	_	_	Mapbox,PostgreSQL
 BKG_Bund	18	_	_	_	_	_
 BlackburnStat	12	_	_	_	_	_
 BlandfordBread	01	_	_	_	_	_
-BlandfordBread	02	World	_	historical	_	QGIS
+BlandfordBread	02	World	_	history	_	QGIS
 BlandfordBread	03	_	_	_	_	QGIS
 BlandfordBread	04	_	_	_	_	QGIS
 BlandfordBread	05	_	_	_	_	QGIS
@@ -3613,7 +3613,7 @@ Kartokobri	30	World	_	_	_	_
 katiejolly6	01	_	_	_	_	R
 katiejolly6	02	_	_	_	_	_
 katiejolly6	03	_	_	_	_	QGIS,R
-katiejolly6	04	USA	Washington DC,Seattle,Denver	_	_	R
+katiejolly6	04	USA	Washington DC,Seattle,Denver CO	_	_	R
 katiejolly6	09	USA	Washington DC	_	_	_
 katiejolly6	20	USA	_	_	_	R
 katiejolly6	23	_	_	_	_	_
@@ -3631,7 +3631,7 @@ keirtography	05	_	_	_	_	_
 keirtography	06	_	_	_	_	_
 keirtography	07	_	_	_	_	_
 keirtography	08	USA	Oakland	_	_	_
-keirtography	09	USA	Chicago	_	_	_
+keirtography	09	USA	Chicago IL	_	_	_
 keirtography	10	_	_	_	_	_
 keirtography	11	_	_	_	_	_
 keirtography	12	_	_	_	_	_
@@ -3991,7 +3991,7 @@ lioneltodome	04	Benin	_	population	hexbin	ArcGIS
 lioneltodome	05	Benin	_	_	charts	ArcGIS,Flourish
 lioneltodome	07	Benin	_	_	_	_
 lioneltodome	08	Benin	_	infrastructure	_	_
-lioneltodome	10	Benin	_	flooding	_	ArcGIS
+lioneltodome	10	Benin	_	floods	_	ArcGIS
 lioneltodome	11	Benin	_	_	3D	_
 lioneltodome	12	Benin	_	population	_	physical objects
 LizbethBastid11	01	_	_	_	_	_
@@ -4401,9 +4401,9 @@ mikejschmidty	02	_	_	_	_	R
 mikejschmidty	07	_	_	_	_	R
 mikejschmidty	13	_	_	_	_	_
 MikeMahoney218	01	World	_	science	_	_
-MikeMahoney218	02	USA	Boston	transport	plotter	QGIS,AxiDraw
+MikeMahoney218	02	USA	Boston MA	transport	plotter	QGIS,AxiDraw
 MikeMahoney218	03	USA	Bedford	transport	plotter	QGIS,AxiDraw
-MikeMahoney218	04	USA	_	politics	hexmap	R
+MikeMahoney218	04	USA	_	politics	cartogram	R
 MikeMahoney218	05	USA	_	water	plotter	QGIS,AxiDraw
 MikeMahoney218	06	USA	_	elevation	3D	R,Unity
 MikeMahoney218	07	USA	_	land use	_	QGIS
@@ -4762,7 +4762,7 @@ northernjamie	25	_	_	_	_	_
 northernjamie	27	UK	Sale	_	_	_
 northlandiguana	01	USA	Duluth	_	_	_
 northlandiguana	02	USA	Duluth	_	_	_
-northlandiguana	03	USA	Duluth,Chicago	_	_	_
+northlandiguana	03	USA	Duluth,Chicago IL	_	_	_
 notforcasual	01	Singapore	_	_	_	Mapbox
 notforcasual	10	World	_	light	cartogram,charts	_
 notforcasual	23	_	_	_	_	_
@@ -5005,7 +5005,7 @@ pivanputs	21	_	_	_	_	_
 pivanputs	23	USA	_	_	_	_
 pivanputs	24	_	_	_	_	_
 pivanputs	25	_	_	_	_	_
-pivanputs	27	Sweden	_	historical,humour	_	OpenStreetMap
+pivanputs	27	Sweden	_	history,humour	_	OpenStreetMap
 pivanputs	30	Germany	_	_	_	_
 plablo09	03	_	_	_	_	_
 plablo09	04	_	_	_	_	_
@@ -6546,10 +6546,10 @@ viajeruss	02	_	_	_	_	_
 viajeruss	03	_	_	_	_	QGIS
 VictimOfMaths	01	UK	_	alcohol	_	R
 VictimOfMaths	02	UK	_	COVID-19	_	R
-VictimOfMaths	03	UK	_	football	_	R
+VictimOfMaths	03	UK	_	sport	_	R
 VictimOfMaths	04	UK	_	elections	_	R
 VictimOfMaths	05	UK	_	alcohol	_	R
-VictimOfMaths	06	Africa	_	HIV	_	R
+VictimOfMaths	06	Africa	_	health	_	R
 VictimOfMaths	07	UK	London	_	_	QGIS,Aerialod
 VictimOfMaths	09	UK	Sheffield	elevation	_	R
 VictimOfMaths	10	UK	_	_	_	Aerialod
@@ -6561,15 +6561,15 @@ VictimOfMaths	15	UK	Sheffield	_	_	R
 VictimOfMaths	16	Norway	Lofoten	_	_	Aerialod
 VictimOfMaths	17	UK	Sheffield	_	_	QGIS,Aerialod
 VictimOfMaths	18	UK	Norfolk	_	_	R
-VictimOfMaths	19	UK,Wales	_	alcohol	_	R
+VictimOfMaths	19	UK	_	alcohol	_	R
 VictimOfMaths	20	Ireland,UK	_	_	_	Aerialod
 VictimOfMaths	21	UK	Sheffield	_	_	Aerialod
-VictimOfMaths	22	UK	_	COVID-19	animation,hexmap	R
+VictimOfMaths	22	UK	_	COVID-19	animation,cartogram	R
 VictimOfMaths	23	UK	Sheffield	_	_	R
 VictimOfMaths	24	UK	_	geology	_	QGIS,Aerialod
 VictimOfMaths	25	UK	_	COVID-19	_	Aerialod,R
 VictimOfMaths	26	UK	_	elevation	_	VeloViewer
-VictimOfMaths	27	Europe	_	wildlife	_	R
+VictimOfMaths	27	Europe	_	animals	_	R
 VictimOfMaths	28	USA	_	mortality	_	R
 VictimOfMaths	29	World	_	Brexit	_	R
 VictimOfMaths	30	USA	_	humour	_	R
@@ -6579,7 +6579,7 @@ victor_medel9	05	_	_	_	_	_
 victor_medel9	07	_	_	_	_	_
 victor_medel9	09	_	_	_	_	_
 victor_medel9	11	Mexico	Guadalajara	population	_	_
-victor_medel9	13	USA	Los Angeles	elevation	_	_
+victor_medel9	13	USA	Los Angeles CA	elevation	_	_
 victor_medel9	15	_	_	_	_	_
 visualvariable	02	_	_	_	_	_
 vivalosburros	24	_	_	_	_	_
@@ -6613,7 +6613,7 @@ vivekparasharr	27	_	_	_	_	R
 vivekparasharr	28	_	_	_	_	_
 vivekparasharr	29	_	_	_	_	Python
 vivekparasharr	30	World	_	_	_	Kepler.gl,Python
-vizowl	01	New Zealand	_	elections	point	_
+vizowl	01	New Zealand	_	elections	points	_
 vizualdatos	02	_	_	_	_	_
 vlckel	01	World	_	energy	_	gvSIG
 vlckel	02	_	_	_	_	_
