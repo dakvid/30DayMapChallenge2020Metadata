@@ -1055,6 +1055,7 @@ CaptainWenwei	13	_	_	_	_	Python
 CaptainWenwei	14	_	_	_	_	Python
 CaptainWenwei	15	_	_	_	_	Python
 CaptainWenwei	16	China	_	_	animation	Python
+CaptainWenwei	24	Italy	_	_	_	_
 carlbaker	05	UK	_	water	_	QGIS
 carlbaker	07	Slovakia	_	_	_	QGIS
 carlbaker	08	UK	_	land use	_	QGIS
@@ -3983,16 +3984,16 @@ Letyludigital	06	World	_	_	_	QGIS
 Letyludigital	08	_	_	_	_	_
 lezanviz	24	Italy	_	_	_	_
 lilyhoutman	01	_	_	_	_	_
-lioneltodome	01	_	_	_	_	_
-lioneltodome	02	_	_	_	_	_
-lioneltodome	03	_	_	_	_	_
-lioneltodome	04	_	_	_	_	ArcGIS
-lioneltodome	05	_	_	_	_	ArcGIS
-lioneltodome	07	_	_	_	_	_
-lioneltodome	08	_	_	_	_	_
-lioneltodome	10	_	_	_	_	ArcGIS
-lioneltodome	11	_	_	_	_	_
-lioneltodome	12	_	_	_	_	_
+lioneltodome	01	Benin	Cotonou	_	_	_
+lioneltodome	02	Benin	_	_	_	_
+lioneltodome	03	Benin	Cotonou	sports	_	_
+lioneltodome	04	Benin	_	population	hexbin	ArcGIS
+lioneltodome	05	Benin	_	_	charts	ArcGIS,Flourish
+lioneltodome	07	Benin	_	_	_	_
+lioneltodome	08	Benin	_	infrastructure	_	_
+lioneltodome	10	Benin	_	flooding	_	ArcGIS
+lioneltodome	11	Benin	_	_	3D	_
+lioneltodome	12	Benin	_	population	_	physical objects
 LizbethBastid11	01	_	_	_	_	_
 LizbethBastid11	02	_	_	_	_	_
 LizbethBastid11	03	_	_	_	_	_
@@ -4224,6 +4225,7 @@ mapsimise	12	_	_	_	_	_
 mapsimise	13	_	_	_	_	_
 mapsimise	14	World	_	_	_	_
 mapsimise	16	UK	_	_	_	_
+mapsimise	17	_	_	_	_	_
 MapStorms	01	_	_	_	_	_
 MapStorms	02	Netherlands	Amsterdam	_	_	_
 MapStorms	03	_	_	_	_	_
@@ -6394,6 +6396,8 @@ tsskowronski	09	_	_	_	_	_
 tsskowronski	10	_	_	_	_	_
 tu_yukun	02	USA	New York City	_	_	_
 tu_yukun	11	_	_	_	_	_
+tu_yukun	12	China	_	_	_	_
+tu_yukun	21	China	_	_	_	_
 tu_yukun	24	China	_	elevation	joyplot	_
 tu_yukun	26	World	_	_	_	Datawrapper
 tu_yukun	30	USA	New York City	_	_	_
